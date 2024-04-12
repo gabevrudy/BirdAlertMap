@@ -64,7 +64,7 @@ function generatePopupContent(feature) {
 }
 
 // Load in Test Data
-var mostRecentFile = '/data/test.geojson';
+var mostRecentFile = 'data/test.geojson';
 
 // Load GeoJSON 
 fetch(mostRecentFile)
