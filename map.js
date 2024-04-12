@@ -64,7 +64,8 @@ function generatePopupContent(feature) {
 }
 
 // Load in Test Data
-var mostRecentFile = 'data/test.geojson';
+var baseURL = 'https://gabevrudy.github.io/BirdAlertMap/';
+var mostRecentFile = baseURL + 'data/test.geojson';
 
 // Load GeoJSON 
 fetch(mostRecentFile)
