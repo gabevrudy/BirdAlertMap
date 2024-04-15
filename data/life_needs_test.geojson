@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8218378,
+          35.3354332
+        ]
+      },
+      "properties": {
+        "species": "Red-necked Phalarope (Phalaropus lobatus) (1)",
+        "reported": "Apr 13, 2024 11:46",
+        "reporter": "The Spotting Twohees",
+        "location": "Turri Road Tidal Ponds, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3354332,-120.8218378&ll=35.3354332,-120.8218378",
+        "checklist": "https://ebird.org/checklist/S168442213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8875608,
+          35.4343095
+        ]
+      },
+      "properties": {
+        "species": "Bonaparte's Gull (Chroicocephalus philadelphia) (2)",
+        "reported": "Apr 13, 2024 10:30",
+        "reporter": "Kaaren Perry",
+        "location": "Old Creek--Cayucos, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4343095,-120.8875608&ll=35.4343095,-120.8875608",
+        "checklist": "https://ebird.org/checklist/S168478024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.907463,
+          35.4492073
+        ]
+      },
+      "properties": {
+        "species": "Elegant Tern (Thalasseus elegans) (20)",
+        "reported": "Apr 13, 2024 11:00",
+        "reporter": "Kaaren Perry",
+        "location": "Cayucos Creek Mouth, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4492073,-120.907463&ll=35.4492073,-120.907463",
+        "checklist": "https://ebird.org/checklist/S168480158"
+      }
+    }
+  ]
+}

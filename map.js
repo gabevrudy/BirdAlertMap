@@ -63,20 +63,77 @@ function generatePopupContent(feature) {
     return popupContent;
 }
 
-// Load in Test Data
+// ICON AND SYMBOLOGY
 var baseURL = 'https://gabevrudy.github.io/BirdAlertMap/';
-var mostRecentFile = baseURL + 'data/test.geojson';
+pathIcon = 'icons/drop-pin'
 
-// Load GeoJSON 
-fetch(mostRecentFile)
-.then(function(response) {return response.json();})
-.then(function(data) {L.geoJSON(data, {
+// Define a custom icon
+var pinIcon = L.icon({
+    iconUrl: pathIcon,
+    iconSize: [32, 32], // Size of the icon in pixels
+    iconAnchor: [16, 32], // Point of the icon which should correspond to marker's location
+    popupAnchor: [0, -32] // Adjust if your popups are not appearing correctly
+});
+
+
+function createCustomIcon(colorSuffix) {
+    return L.icon({
+        iconUrl: `icons/drop-pin-${colorSuffix}.svg`, // Dynamically create the icon URL
+        iconSize: [32, 32],
+        iconAnchor: [16, 32],
+        popupAnchor: [0, -32]
+    });
+}
+
+// Load in Test Data
+var mostRecentYearNeedsFile = baseURL + 'data/year_needs_test.geojson';
+var mostRecentABAFile = baseURL + 'data/aba_alert_test.geojson';
+var mostRecentLifeNeedsFile = baseURL + 'data/life_needs_test.geojson';
+
+// Load GeoJSON for Year Need Points
+fetch(mostRecentYearNeedsFile)
+.then(function(response) { return response.json(); })
+.then(function(data) {
+    L.geoJSON(data, {
         pointToLayer: function(feature, latlng) {
-            return L.marker(latlng);
+            var customIcon = createCustomIcon('blue');
+            return L.marker(latlng, {icon:customIcon});
         },
         onEachFeature: function(feature, layer) {
             var popupContent = generatePopupContent(feature);
             layer.bindPopup(popupContent);
         }
-}).addTo(myMap);
+    }).addTo(myMap);
+});
+
+// Load GeoJSON for ABA Alert Points
+fetch(mostRecentABAFile)
+.then(function(response) { return response.json(); })
+.then(function(data) {
+    L.geoJSON(data, {
+        pointToLayer: function(feature, latlng) {
+            var customIcon = createCustomIcon('yellow');
+            return L.marker(latlng, {icon: customIcon});
+        },
+        onEachFeature: function(feature, layer) {
+            var popupContent = generatePopupContent(feature);
+            layer.bindPopup(popupContent);
+        }
+    }).addTo(myMap);
+});
+
+// Load GeoJSON for Life Need Points
+fetch(mostRecentLifeNeedsFile)
+.then(function(response) { return response.json(); })
+.then(function(data) {
+    L.geoJSON(data, {
+        pointToLayer: function(feature, latlng) {
+            var customIcon = createCustomIcon('red');
+            return L.marker(latlng, {icon: customIcon});
+        },
+        onEachFeature: function(feature, layer) {
+            var popupContent = generatePopupContent(feature);
+            layer.bindPopup(popupContent);
+        }
+    }).addTo(myMap);
 });
