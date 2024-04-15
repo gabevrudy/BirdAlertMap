@@ -1,44 +1,64 @@
-//Function to get Need Alerts from Email and save to Drive as JSON
+//Function to get Life Need Alerts, Year Need Alerts, and ABA Alerts from Email and save to Drive as geoJSON
 //Trigger: Once a day
 
-function extractEmailBodyAsJson() {
-    var query = 'subject:"[eBird Alert] Year Needs Alert for San Luis Obispo County <daily>" newer_than:1d'; //Specify your query here
+var ebird_dict = {
+
+    "year_needs": {
+      "query": 'subject:"[eBird Alert] Year Needs Alert for San Luis Obispo County <daily>" newer_than:1d',
+      "file_prefix": 'year_needs_',
+      "folder": "" // Specify your folder ID
+    },
+    "aba_alert": {
+      "query": 'subject:"[eBird Alert] ABA Rarities <daily>" newer_than:1d',
+      "file_prefix": 'aba_alert_',
+      "folder": "" // Specify your folder ID
+    },
+      "life_needs": {
+      "query": 'subject:"[eBird Alert] Needs Alert for San Luis Obispo County <daily>" newer_than:1d',
+      "file_prefix": 'life_needs_',
+      "folder": "" // Specify your folder ID
+    }
+  }
+  
+  function processAllEbirdAlerts() {
+    for (var key in ebird_dict) {
+      var alertInfo = ebird_dict[key];
+      Logger.log("Processing " + key);
+      extractEmailBodyAsJson(alertInfo.query, alertInfo.folder, alertInfo.file_prefix);
+    }
+  }
+  
+  function extractEmailBodyAsJson(query, folder, file_prefix) {
     var threads = GmailApp.search(query);
-    
+  
     if (threads.length > 0) {
-      var message = threads[0].getMessages()[0]; // Gets the most recent email
+      var message = threads[0].getMessages()[0];
       var email_body = message.getPlainBody();
       var email_date = message.getDate();
       var email_sent_by = message.getFrom();
   
-      if (email_sent_by == 'ebird-alert@birds.cornell.edu') {
-      
+      if (email_sent_by === 'ebird-alert@birds.cornell.edu') {
         var email_body_parsed = parseNeedAlertEmailBody(email_body);
-        
-        // Convert the parsed email body to GeoJSON
         var geojson = convertToGeoJSON(email_body_parsed);
-        
         var jsonString = JSON.stringify(geojson, null, 2);
         Logger.log(jsonString);
         Logger.log("Saving GeoJSON to Google Drive");
-        saveJsonToDrive(jsonString, email_date);
+        saveJsonToDrive(jsonString, email_date, folder, file_prefix);
       }
     } else {
-      Logger.log("No emails found matching the criteria.");
+      Logger.log("No emails found matching the criteria for " + query);
     }
   }
   
-  // Function to save JSON to Google Drive
-  function saveJsonToDrive(jsonString, email_date) {
-    var formattedDate = email_date.toISOString().slice(0, 10); // This will give you the format "YYYY-MM-DD"
-    var fileName = formattedDate + ".geojson";
-    var folder = DriveApp.getFolderById(""); // Specify your folder ID
+  function saveJsonToDrive(jsonString, email_date, folder, file_prefix) {
+    var formattedDate = email_date.toISOString().slice(0, 10); // This will give you "YYYY-MM-DD"
+    var fileName = file_prefix + formattedDate + ".geojson";
+    var folder = DriveApp.getFolderById(folder);
     var file = folder.createFile(fileName, jsonString, MimeType.PLAIN_TEXT);
     
     Logger.log("File created with ID: " + file.getId());
   }
   
-  // Function to parse email body of Need Alert.  This function assumes the structure is consistent
   function parseNeedAlertEmailBody(email_body) {
     var detailedBirdReports = [];
     // This regex assumes the structure is consistent
@@ -65,7 +85,7 @@ function extractEmailBodyAsJson() {
     return detailedBirdReports;
   
   }
-  // Helper function to extract coordinates from the map_url and split into latitude and longitude
+  
   function extractCoordinatesFromMapUrl(map_url) {
     // Find the last '=' in the map_url and extract the substring after it
     var splitIndex = map_url.lastIndexOf('=');
@@ -78,7 +98,6 @@ function extractEmailBodyAsJson() {
     };
   }
   
-  // Function to convert detailedBirdReports array to GeoJSON
   function convertToGeoJSON(detailedBirdReports) {
     var geojson = {
       "type": "FeatureCollection",
