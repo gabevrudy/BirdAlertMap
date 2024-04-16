@@ -1,0 +1,4685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7283052,
+          47.5733834
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1)",
+        "reported": "Apr 13, 2024 16:30",
+        "reporter": "Howard Clase",
+        "location": "Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5733834,-52.7283052&ll=47.5733834,-52.7283052",
+        "checklist": "https://ebird.org/checklist/S168449372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7288976,
+          47.5738042
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 18:42",
+        "reporter": "Christopher Escott",
+        "location": "St. John's--MUN--Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5738042,-52.7288976&ll=47.5738042,-52.7288976",
+        "checklist": "https://ebird.org/checklist/S168462517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7288976,
+          47.5738042
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:34",
+        "reporter": "Jean Iron",
+        "location": "St. John's--MUN--Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5738042,-52.7288976&ll=47.5738042,-52.7288976",
+        "checklist": "https://ebird.org/checklist/S168467340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7288976,
+          47.5738042
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:34",
+        "reporter": "Barbara N. Charlton",
+        "location": "St. John's--MUN--Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5738042,-52.7288976&ll=47.5738042,-52.7288976",
+        "checklist": "https://ebird.org/checklist/S168467335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7288976,
+          47.5738042
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:34",
+        "reporter": "Charmaine Anderson",
+        "location": "St. John's--MUN--Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5738042,-52.7288976&ll=47.5738042,-52.7288976",
+        "checklist": "https://ebird.org/checklist/S168467336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0992419,
+          48.6504062
+        ]
+      },
+      "properties": {
+        "species": "Whooper Swan (Cygnus cygnus) (1) CONFIRMED",
+        "reported": "Apr 12, 2024 11:40",
+        "reporter": "Fred & Colleen Wood",
+        "location": "NL--Bonavista--Beaver Pond, Bonavista/Trinity-Clarenville, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=48.6504062,-53.0992419&ll=48.6504062,-53.0992419",
+        "checklist": "https://ebird.org/checklist/S168464972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1219133,
+          48.6566822
+        ]
+      },
+      "properties": {
+        "species": "Common Shelduck (Tadorna tadorna) (1) CONFIRMED",
+        "reported": "Apr 12, 2024 11:00",
+        "reporter": "Fred & Colleen Wood",
+        "location": "NL--Bonavista--Moses Point, Bonavista/Trinity-Clarenville, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=48.6566822,-53.1219133&ll=48.6566822,-53.1219133",
+        "checklist": "https://ebird.org/checklist/S168459787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1219133,
+          48.6566822
+        ]
+      },
+      "properties": {
+        "species": "Common Shelduck (Tadorna tadorna) (1)",
+        "reported": "Apr 11, 2024 12:45",
+        "reporter": "Bessie Merrigan",
+        "location": "NL--Bonavista--Moses Point, Bonavista/Trinity-Clarenville, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=48.6566822,-53.1219133&ll=48.6566822,-53.1219133",
+        "checklist": "https://ebird.org/checklist/S168620345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7283052,
+          47.5733834
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (3)",
+        "reported": "Apr 13, 2024 16:30",
+        "reporter": "Howard Clase",
+        "location": "Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5733834,-52.7283052&ll=47.5733834,-52.7283052",
+        "checklist": "https://ebird.org/checklist/S168449372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1856422,
+          41.2721783
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (1)",
+        "reported": "Apr 14, 2024 13:54",
+        "reporter": "Jacquelyn Papale",
+        "location": "Nantucket--Massasoit Bridge, Nantucket, Massachusetts",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.2721783,-70.1856422&ll=41.2721783,-70.1856422",
+        "checklist": "https://ebird.org/checklist/S168631480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8497468,
+          47.5327611
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (4)",
+        "reported": "Apr 14, 2024 10:38",
+        "reporter": "Edmund  Hayden",
+        "location": "Paradise--Neville's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5327611,-52.8497468&ll=47.5327611,-52.8497468",
+        "checklist": "https://ebird.org/checklist/S168550948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3335381,
+          57.049881
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (1)",
+        "reported": "Apr 13, 2024",
+        "reporter": "Matt Goff",
+        "location": "Sitka (town), Sitka City and Borough, Alaska",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=57.049881,-135.3335381&ll=57.049881,-135.3335381",
+        "checklist": "https://ebird.org/checklist/S168513130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7233458,
+          47.5884232
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (1)",
+        "reported": "Apr 14, 2024 16:23",
+        "reporter": "Kelly Butt",
+        "location": "St. John's--Kents Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5884232,-52.7233458&ll=47.5884232,-52.7233458",
+        "checklist": "https://ebird.org/checklist/S168638075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7288976,
+          47.5738042
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (2)",
+        "reported": "Apr 13, 2024 15:34",
+        "reporter": "Jean Iron",
+        "location": "St. John's--MUN--Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5738042,-52.7288976&ll=47.5738042,-52.7288976",
+        "checklist": "https://ebird.org/checklist/S168467340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7288976,
+          47.5738042
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (2)",
+        "reported": "Apr 13, 2024 15:34",
+        "reporter": "Charmaine Anderson",
+        "location": "St. John's--MUN--Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5738042,-52.7288976&ll=47.5738042,-52.7288976",
+        "checklist": "https://ebird.org/checklist/S168467336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7288976,
+          47.5738042
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (2)",
+        "reported": "Apr 13, 2024 15:34",
+        "reporter": "Barbara N. Charlton",
+        "location": "St. John's--MUN--Burton's Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5738042,-52.7288976&ll=47.5738042,-52.7288976",
+        "checklist": "https://ebird.org/checklist/S168467335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7386665,
+          47.552491
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (4)",
+        "reported": "Apr 14, 2024 08:54",
+        "reporter": "Ethel Dempsey",
+        "location": "St. John's--Mundy Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.552491,-52.7386665&ll=47.552491,-52.7386665",
+        "checklist": "https://ebird.org/checklist/S168600499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6941258,
+          47.580135
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (1)",
+        "reported": "Apr 13, 2024 16:39",
+        "reporter": "Barbara N. Charlton",
+        "location": "St. John's--Quidi Vidi Lake, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.580135,-52.6941258&ll=47.580135,-52.6941258",
+        "checklist": "https://ebird.org/checklist/S168466596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.5398598,
+          53.8891656
+        ]
+      },
+      "properties": {
+        "species": "Tufted Duck (Aythya fuligula) (1)",
+        "reported": "Apr 13, 2024 12:36",
+        "reporter": "Lynda Lybeck-Robinson",
+        "location": "Unalaska Is.--Dutch Harbor, Aleutians West Census Area, Alaska",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=53.8891656,-166.5398598&ll=53.8891656,-166.5398598",
+        "checklist": "https://ebird.org/checklist/S168496616"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0254493,
+          26.5093477
+        ]
+      },
+      "properties": {
+        "species": "American Flamingo (Phoenicopterus ruber) (1)",
+        "reported": "Apr 14, 2024 13:32",
+        "reporter": "David McQuade",
+        "location": "Skimmer Island, Lee, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5093477,-82.0254493&ll=26.5093477,-82.0254493",
+        "checklist": "https://ebird.org/checklist/S168628142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.674054,
+          33.517422
+        ]
+      },
+      "properties": {
+        "species": "Ruddy Ground Dove (Columbina talpacoti) (1)",
+        "reported": "Apr 14, 2024 07:15",
+        "reporter": "Jessica Tobler",
+        "location": "stakeout Golden-winged Warbler, Salt River Rec. Area (2022), Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.517422,-111.674054&ll=33.517422,-111.674054",
+        "checklist": "https://ebird.org/checklist/S168589899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.172828,
+          26.125292
+        ]
+      },
+      "properties": {
+        "species": "Mexican Violetear (Colibri thalassinus) (1)",
+        "reported": "Apr 13, 2024 07:47",
+        "reporter": "Bryan Cotter",
+        "location": "South Padre Is.--W Carolyn Dr. natural lots, Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.125292,-97.172828&ll=26.125292,-97.172828",
+        "checklist": "https://ebird.org/checklist/S168491754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.172828,
+          26.125292
+        ]
+      },
+      "properties": {
+        "species": "Mexican Violetear (Colibri thalassinus) (1) CONFIRMED",
+        "reported": "Apr 10, 2024 14:58",
+        "reporter": "Russell Cockman",
+        "location": "South Padre Is.--W Carolyn Dr. natural lots, Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.125292,-97.172828&ll=26.125292,-97.172828",
+        "checklist": "https://ebird.org/checklist/S168498200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2765277,
+          31.4156019
+        ]
+      },
+      "properties": {
+        "species": "White-eared Hummingbird (Basilinna leucotis) (1)",
+        "reported": "Apr 14, 2024 10:41",
+        "reporter": "Sophie Norris",
+        "location": "Miller Canyon--Beatty's Guest Ranch, Cochise, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.4156019,-110.2765277&ll=31.4156019,-110.2765277",
+        "checklist": "https://ebird.org/checklist/S168626460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3030107,
+          31.4520341
+        ]
+      },
+      "properties": {
+        "species": "White-eared Hummingbird (Basilinna leucotis) (1)",
+        "reported": "Apr 13, 2024 11:45",
+        "reporter": "sally staggert",
+        "location": "Ramsey Canyon Cabins (opened 2022), Cochise, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.4520341,-110.3030107&ll=31.4520341,-110.3030107",
+        "checklist": "https://ebird.org/checklist/S168473345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
+        "reported": "Apr 14, 2024 11:15",
+        "reporter": "Leah Turner",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168634810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
+        "reported": "Apr 14, 2024 07:58",
+        "reporter": "Terry Rosenmeier",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168633781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
+        "reported": "Apr 14, 2024 07:58",
+        "reporter": "Karen Kluge",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168633782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
+        "reported": "Apr 14, 2024 06:45",
+        "reporter": "Ken Winkler",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168626272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 17:29",
+        "reporter": "Bill Carpenter",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168493217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 16:58",
+        "reporter": "Alison Mettler",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168484583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 14:41",
+        "reporter": "Judith Ellyson",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168478087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 11:02",
+        "reporter": "LoriAnne Warren",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168484219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8787354,
+          31.7200828
+        ]
+      },
+      "properties": {
+        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
+        "reported": "Apr 12, 2024 11:30",
+        "reporter": "Thomas Wurster",
+        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
+        "checklist": "https://ebird.org/checklist/S168455468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7655989,
+          47.4944124
+        ]
+      },
+      "properties": {
+        "species": "Eurasian Oystercatcher (Haematopus ostralegus) (1)",
+        "reported": "Apr 11, 2024 17:10",
+        "reporter": "Bessie Merrigan",
+        "location": "47.467299,-52.7639866, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.4944124,-52.7655989&ll=47.4944124,-52.7655989",
+        "checklist": "https://ebird.org/checklist/S168615844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.947109,
+          47.075461
+        ]
+      },
+      "properties": {
+        "species": "Black-tailed Godwit (Limosa limosa) (1)",
+        "reported": "Apr 14, 2024 12:52",
+        "reporter": "Charmaine Anderson",
+        "location": "368?396 Route 10, Cape Broyle CA-NL 47.07546, -52.94711, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.075461,-52.947109&ll=47.075461,-52.947109",
+        "checklist": "https://ebird.org/checklist/S168638335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.947109,
+          47.075461
+        ]
+      },
+      "properties": {
+        "species": "Black-tailed Godwit (Limosa limosa) (1)",
+        "reported": "Apr 14, 2024 12:52",
+        "reporter": "Jean Iron",
+        "location": "368?396 Route 10, Cape Broyle CA-NL 47.07546, -52.94711, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.075461,-52.947109&ll=47.075461,-52.947109",
+        "checklist": "https://ebird.org/checklist/S168638334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.947109,
+          47.075461
+        ]
+      },
+      "properties": {
+        "species": "Black-tailed Godwit (Limosa limosa) (1)",
+        "reported": "Apr 14, 2024 12:52",
+        "reporter": "Barbara N. Charlton",
+        "location": "368?396 Route 10, Cape Broyle CA-NL 47.07546, -52.94711, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.075461,-52.947109&ll=47.075461,-52.947109",
+        "checklist": "https://ebird.org/checklist/S168638336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.947109,
+          47.075461
+        ]
+      },
+      "properties": {
+        "species": "Black-tailed Godwit (Limosa limosa) (1)",
+        "reported": "Apr 14, 2024 09:27",
+        "reporter": "Barbara N. Charlton",
+        "location": "368?396 Route 10, Cape Broyle CA-NL 47.07546, -52.94711, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.075461,-52.947109&ll=47.075461,-52.947109",
+        "checklist": "https://ebird.org/checklist/S168635727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.947109,
+          47.075461
+        ]
+      },
+      "properties": {
+        "species": "Black-tailed Godwit (Limosa limosa) (1)",
+        "reported": "Apr 14, 2024 09:27",
+        "reporter": "Charmaine Anderson",
+        "location": "368?396 Route 10, Cape Broyle CA-NL 47.07546, -52.94711, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.075461,-52.947109&ll=47.075461,-52.947109",
+        "checklist": "https://ebird.org/checklist/S168635725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.947109,
+          47.075461
+        ]
+      },
+      "properties": {
+        "species": "Black-tailed Godwit (Limosa limosa) (1)",
+        "reported": "Apr 14, 2024 09:27",
+        "reporter": "Jean Iron",
+        "location": "368?396 Route 10, Cape Broyle CA-NL 47.07546, -52.94711, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.075461,-52.947109&ll=47.075461,-52.947109",
+        "checklist": "https://ebird.org/checklist/S168635724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2627605,
+          46.7102461
+        ]
+      },
+      "properties": {
+        "species": "Black-tailed Godwit (Limosa limosa) (5)",
+        "reported": "Apr 12, 2024 11:30",
+        "reporter": "Bessie Merrigan",
+        "location": "Meadow Pond, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.7102461,-53.2627605&ll=46.7102461,-53.2627605",
+        "checklist": "https://ebird.org/checklist/S168630243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.345488,
+          41.452132
+        ]
+      },
+      "properties": {
+        "species": "Ruff (Calidris pugnax) (1)",
+        "reported": "Apr 14, 2024 11:16",
+        "reporter": "Mark Madsen",
+        "location": "1017?1057 200th St, Nichols US-IA 41.45213, -91.34549, Muscatine, Iowa",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.452132,-91.345488&ll=41.452132,-91.345488",
+        "checklist": "https://ebird.org/checklist/S168598508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6772727,
+          42.0881122
+        ]
+      },
+      "properties": {
+        "species": "Ruff (Calidris pugnax) (1) CONFIRMED",
+        "reported": "Apr 08, 2024 08:23",
+        "reporter": "Roger Burns",
+        "location": "Daniel Webster Wildlife Sanctuary (Mass Audubon), Plymouth, Massachusetts",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=42.0881122,-70.6772727&ll=42.0881122,-70.6772727",
+        "checklist": "https://ebird.org/checklist/S168459354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5077803,
+          44.6667766
+        ]
+      },
+      "properties": {
+        "species": "Murphy's Petrel (Pterodroma ultima) (1) CONFIRMED",
+        "reported": "Apr 12, 2024 07:45",
+        "reporter": "Suzie Winquist",
+        "location": "Newport Hydrographic Line (65-55 nm), Lincoln, Oregon",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=44.6667766,-125.5077803&ll=44.6667766,-125.5077803",
+        "checklist": "https://ebird.org/checklist/S168507471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.7400812,
+          20.8349054
+        ]
+      },
+      "properties": {
+        "species": "Hawaiian Petrel (Pterodroma sandwichensis) (10)",
+        "reported": "Apr 13, 2024 17:17",
+        "reporter": "Nathaniel Watkins",
+        "location": "'Au'au Channel, Maui, Hawaii",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=20.8349054,-156.7400812&ll=20.8349054,-156.7400812",
+        "checklist": "https://ebird.org/checklist/S168624594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.7400812,
+          20.8349054
+        ]
+      },
+      "properties": {
+        "species": "Hawaiian Petrel (Pterodroma sandwichensis) (3)",
+        "reported": "Apr 13, 2024 06:16",
+        "reporter": "Nathaniel Watkins",
+        "location": "'Au'au Channel, Maui, Hawaii",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=20.8349054,-156.7400812&ll=20.8349054,-156.7400812",
+        "checklist": "https://ebird.org/checklist/S168624123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.982081,
+          19.368844
+        ]
+      },
+      "properties": {
+        "species": "Hawaiian Petrel (Pterodroma sandwichensis) (1)",
+        "reported": "Apr 13, 2024 08:50",
+        "reporter": "Chris Bartlett",
+        "location": "Auto selected 19.36884, -155.98208, Hawaii, Hawaii",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=19.368844,-155.982081&ll=19.368844,-155.982081",
+        "checklist": "https://ebird.org/checklist/S168446130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.7400812,
+          20.8349054
+        ]
+      },
+      "properties": {
+        "species": "Bulwer's Petrel (Bulweria bulwerii) (4)",
+        "reported": "Apr 13, 2024 06:16",
+        "reporter": "Nathaniel Watkins",
+        "location": "'Au'au Channel, Maui, Hawaii",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=20.8349054,-156.7400812&ll=20.8349054,-156.7400812",
+        "checklist": "https://ebird.org/checklist/S168624123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.982081,
+          19.368844
+        ]
+      },
+      "properties": {
+        "species": "Bulwer's Petrel (Bulweria bulwerii) (5)",
+        "reported": "Apr 13, 2024 08:50",
+        "reporter": "Chris Bartlett",
+        "location": "Auto selected 19.36884, -155.98208, Hawaii, Hawaii",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=19.368844,-155.982081&ll=19.368844,-155.982081",
+        "checklist": "https://ebird.org/checklist/S168446130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.666214,
+          24.602052
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (30) CONFIRMED",
+        "reported": "Apr 13, 2024 09:58",
+        "reporter": "Michael Brothers",
+        "location": "Auto selected 24.60205, -82.66621, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.602052,-82.666214&ll=24.602052,-82.666214",
+        "checklist": "https://ebird.org/checklist/S168470370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (60)",
+        "reported": "Apr 13, 2024 11:01",
+        "reporter": "Michael Brothers",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S168471761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7707243,
+          26.7876524
+        ]
+      },
+      "properties": {
+        "species": "Ferruginous Pygmy-Owl (Glaucidium brasilianum) (2)",
+        "reported": "Apr 12, 2024 09:13",
+        "reporter": "King Ranch",
+        "location": "King Ranch--Norias Division (Kenedy Co.), Kenedy, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.7876524,-97.7707243&ll=26.7876524,-97.7707243",
+        "checklist": "https://ebird.org/checklist/S168469975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Mottled Owl (Strix virgata) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 19:56",
+        "reporter": "Thomas Evans",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168504552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1911466,
+          27.6528197
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 13, 2024 15:15",
+        "reporter": "Donald Sutherland",
+        "location": "10194 Texas 361, Corpus Christi, Texas, US (27.653, -97.191), Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6528197,-97.1911466&ll=27.6528197,-97.1911466",
+        "checklist": "https://ebird.org/checklist/S168497508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3272438,
+          26.0913939
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 14, 2024 09:04",
+        "reporter": "John Kolar",
+        "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
+        "checklist": "https://ebird.org/checklist/S168583826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3272438,
+          26.0913939
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 14, 2024 09:04",
+        "reporter": "David English",
+        "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
+        "checklist": "https://ebird.org/checklist/S168567690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3272438,
+          26.0913939
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 14, 2024 09:04",
+        "reporter": "Kelly Stanek",
+        "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
+        "checklist": "https://ebird.org/checklist/S168587991"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3272438,
+          26.0913939
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 13, 2024 16:17",
+        "reporter": "Chris Risley",
+        "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
+        "checklist": "https://ebird.org/checklist/S168460768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3466982,
+          26.2295776
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 14, 2024 10:07",
+        "reporter": "Bill Sain",
+        "location": "Laguna Atascosa NWR (LTC 024), Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.2295776,-97.3466982&ll=26.2295776,-97.3466982",
+        "checklist": "https://ebird.org/checklist/S168609363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.179512,
+          27.6651173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 14, 2024 09:34",
+        "reporter": "Phoebe Dunbar",
+        "location": "Mustang Island SP (CTC 060), Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6651173,-97.179512&ll=27.6651173,-97.179512",
+        "checklist": "https://ebird.org/checklist/S168570502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 13, 2024 15:24",
+        "reporter": "Donald Sutherland",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S168497317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.181286,
+          27.665881
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 14, 2024 07:43",
+        "reporter": "Terry  Little",
+        "location": "Mustang Island State Park, Corpus Christi US-TX 27.66588, -97.18129, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.665881,-97.181286&ll=27.665881,-97.181286",
+        "checklist": "https://ebird.org/checklist/S168544051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.29624,
+          26.09276
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 13, 2024 14:30",
+        "reporter": "eric stary",
+        "location": "South Texas Ecotourism Center, Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.09276,-97.29624&ll=26.09276,-97.29624",
+        "checklist": "https://ebird.org/checklist/S168466511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.29624,
+          26.09276
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 13, 2024 14:30",
+        "reporter": "Larry Maurin",
+        "location": "South Texas Ecotourism Center, Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.09276,-97.29624&ll=26.09276,-97.29624",
+        "checklist": "https://ebird.org/checklist/S168452843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.393634,
+          27.794931
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 19:42",
+        "reporter": "Nils Warnock",
+        "location": "313 Lawrence St, Corpus Christi US-TX (27.7949,-97.3936), Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.794931,-97.393634&ll=27.794931,-97.393634",
+        "checklist": "https://ebird.org/checklist/S168488387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 18:00",
+        "reporter": "Anonymous eBirder",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S168502919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 14:00",
+        "reporter": "Ben Yandell",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S168501324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:46",
+        "reporter": "Phoebe Dunbar",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S168498465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 11:19",
+        "reporter": "Ben Taylor",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S168494286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 09, 2024 18:20",
+        "reporter": "Russell Cockman",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S168498199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.393674,
+          27.794898
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (1)",
+        "reported": "Apr 14, 2024 13:41",
+        "reporter": "Bob Toleno",
+        "location": "Corpus Christi?313 Lawrence St dumpster, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.794898,-97.393674&ll=27.794898,-97.393674",
+        "checklist": "https://ebird.org/checklist/S168635940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.393674,
+          27.794898
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (1)",
+        "reported": "Apr 14, 2024 13:41",
+        "reporter": "Juli Chamberlin",
+        "location": "Corpus Christi?313 Lawrence St dumpster, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.794898,-97.393674&ll=27.794898,-97.393674",
+        "checklist": "https://ebird.org/checklist/S168635939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70586,
+          27.625259
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 16:41",
+        "reporter": "Josiah Patrick",
+        "location": "Auto selected 27.62526, -82.70586, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625259,-82.70586&ll=27.625259,-82.70586",
+        "checklist": "https://ebird.org/checklist/S168478486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70918,
+          27.625688
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 08:21",
+        "reporter": "Linda Brown",
+        "location": "Auto selected 27.62569, -82.70918, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625688,-82.70918&ll=27.625688,-82.70918",
+        "checklist": "https://ebird.org/checklist/S168458972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70425,
+          27.626153
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 11:55",
+        "reporter": "Kevin Hayes",
+        "location": "Auto selected 27.62615, -82.70425, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.626153,-82.70425&ll=27.626153,-82.70425",
+        "checklist": "https://ebird.org/checklist/S168619457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.716377,
+          27.627161
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:02",
+        "reporter": "Archer Woodams",
+        "location": "Auto selected 27.62716, -82.71638, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.627161,-82.716377&ll=27.627161,-82.716377",
+        "checklist": "https://ebird.org/checklist/S168532287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.716377,
+          27.627161
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:02",
+        "reporter": "Rachael Woodams",
+        "location": "Auto selected 27.62716, -82.71638, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.627161,-82.716377&ll=27.627161,-82.716377",
+        "checklist": "https://ebird.org/checklist/S168532285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.716377,
+          27.627161
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:02",
+        "reporter": "Deborah Woodams",
+        "location": "Auto selected 27.62716, -82.71638, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.627161,-82.716377&ll=27.627161,-82.716377",
+        "checklist": "https://ebird.org/checklist/S168532286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6990271,
+          27.6371169
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:30",
+        "reporter": "Mark Cudney",
+        "location": "East Beach, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6371169,-82.6990271&ll=27.6371169,-82.6990271",
+        "checklist": "https://ebird.org/checklist/S168616588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.708622,
+          27.625319
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:31",
+        "reporter": "Eve Waterman",
+        "location": "East beach, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625319,-82.708622&ll=27.625319,-82.708622",
+        "checklist": "https://ebird.org/checklist/S168538954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:54",
+        "reporter": "Doug Bond",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168582568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:35",
+        "reporter": "mitchell HARRIS",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168595335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:20",
+        "reporter": "Michael Brothers",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168595938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:19",
+        "reporter": "Mark McShane",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168600373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:12",
+        "reporter": "John Laver",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168630823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:12",
+        "reporter": "Nancy O'Keefe",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168632397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 09:51",
+        "reporter": "Leigh Larsen",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168594779"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 09:49",
+        "reporter": "Jason Glatt",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168578395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 09:40",
+        "reporter": "Cuneyt Yilmaz",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168594463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 09:27",
+        "reporter": "Craig DeCrane",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168600657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 09:26",
+        "reporter": "Aaron Virgin",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168575711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 09:06",
+        "reporter": "snelbird z",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168550944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:59",
+        "reporter": "Kathleen Glackin",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168572640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:45",
+        "reporter": "Sam Buttrick",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168615436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:45",
+        "reporter": "Susan Daughtrey",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168610282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:39",
+        "reporter": "Maggie Paxson",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168614916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:30",
+        "reporter": "Joleada Lewis",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168624105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:22",
+        "reporter": "Cecile & Morris Yarrow",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168606739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:18",
+        "reporter": "Paul Hueber",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168630832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 08:02",
+        "reporter": "Cheyenne Everhart",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168569142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:58",
+        "reporter": "kim nordquest",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168547485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:39",
+        "reporter": "Lynne Harding",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168531922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:34",
+        "reporter": "Jim Hoover",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168567452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:30",
+        "reporter": "george quittner",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168565375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:30",
+        "reporter": "Musa Awan",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168608960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:29",
+        "reporter": "Daniel Buccelli",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168629726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:29",
+        "reporter": "Katie Sheppard",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168593165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:25",
+        "reporter": "Edwin Wilke",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168558411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:22",
+        "reporter": "Joel Conrad",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168595674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:10",
+        "reporter": "Yve Morrell",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168537255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:09",
+        "reporter": "Sylvie Nadeau Gneckow",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168609482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:09",
+        "reporter": "Julia Nadeau Gneckow",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168586813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:08",
+        "reporter": "Will Laurie",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168594987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 07:07",
+        "reporter": "Joe Hammond",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168553458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:02",
+        "reporter": "Richard Taylor",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168535430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 06:58",
+        "reporter": "Jeffrey Gammon",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168594771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 06:42",
+        "reporter": "Victor Stoll",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168569077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 06:42",
+        "reporter": "Ruben  Stoll",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168557011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 18:44",
+        "reporter": "Billie Knight",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168489573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 18:44",
+        "reporter": "Jerry Knight",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168489610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 18:07",
+        "reporter": "Tammy McQuade",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168480041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 18:07",
+        "reporter": "David McQuade",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168480040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 18:00",
+        "reporter": "Mark Burns",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168487786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 17:45",
+        "reporter": "Bob Lane",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168496382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 17:20",
+        "reporter": "Sherri Brown",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168488953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 17:11",
+        "reporter": "Margi Haas",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168472824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 16:50",
+        "reporter": "William Scott",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168486702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 16:40",
+        "reporter": "Kathleen Couture",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168499595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 16:40",
+        "reporter": "Kevin Couture",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168493445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 16:24",
+        "reporter": "leor veleanu",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168489884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 16:10",
+        "reporter": "Colin Gjervold",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168534205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:10",
+        "reporter": "Erik Haney",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168468678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:08",
+        "reporter": "Shelley Rutkin",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168496321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:08",
+        "reporter": "David Eppler",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168496937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:07",
+        "reporter": "Brett Hoffman",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168478559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:04",
+        "reporter": "Holley Short",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168454999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:00",
+        "reporter": "John Swenfurth",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168484596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 14:57",
+        "reporter": "Chad Hill",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168460933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 14:35",
+        "reporter": "Jan Burkholder",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168452552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 14:35",
+        "reporter": "Steve Burkholder",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168463446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 14:30",
+        "reporter": "Michael Millner",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168488244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 13, 2024 14:11",
+        "reporter": "Corey Callaghan",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168617951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:53",
+        "reporter": "DT Bowen ????",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168485568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:53",
+        "reporter": "Erin  Bowen",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168457190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:40",
+        "reporter": "c c",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168432290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:30",
+        "reporter": "Nancy  Ogden",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168469990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:30",
+        "reporter": "Jon Rosenfeld",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168482139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:24",
+        "reporter": "Connor  O?Brien",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168448058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:05",
+        "reporter": "Ray Webb",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168478842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:46",
+        "reporter": "John  Thomton",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168467591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:41",
+        "reporter": "David Webb",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168452956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:30",
+        "reporter": "Marcus Kelly",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168492690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:30",
+        "reporter": "Kyle Matera",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168492689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:30",
+        "reporter": "Marcello Gomes",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168492979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 11:45",
+        "reporter": "Frank Sandford",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168473634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 11:29",
+        "reporter": "Christy Soldo",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168500940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 11:29",
+        "reporter": "Clay Bliznick",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168500938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 11:24",
+        "reporter": "Noah Khanti Steinberg",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168478951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 11:20",
+        "reporter": "Mark and Holly Salvato",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168506826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 11:00",
+        "reporter": "Stephen Gross",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168445142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 10:26",
+        "reporter": "Sherri Ryan",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168461078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 10:26",
+        "reporter": "Lorri Lilja",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168460895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 10:26",
+        "reporter": "Lori Mathis",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168469064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 10:22",
+        "reporter": "Mary Walsh",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168465160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 10:14",
+        "reporter": "Patricia Goldberg",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168461544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 09:02",
+        "reporter": "JoAnna Clayton",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168450881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 09:00",
+        "reporter": "Robert Epstein",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168493495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 08:31",
+        "reporter": "Christian Newton",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168474315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 08:31",
+        "reporter": "Brady Bailo",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168474316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 08:30",
+        "reporter": "Carl Shavers",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168510907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 08:00",
+        "reporter": "Dick Snell",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168464278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 07:34",
+        "reporter": "Anne Ruben",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168464540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 07:06",
+        "reporter": "Hannes Leonard",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168489740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.705932,
+          27.625209
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 06:49",
+        "reporter": "Ken Thayer",
+        "location": "Fort De Soto Park US-FL (27.6252,-82.7059), Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625209,-82.705932&ll=27.625209,-82.705932",
+        "checklist": "https://ebird.org/checklist/S168532931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.705932,
+          27.625209
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 06:49",
+        "reporter": "Quincy Thayer",
+        "location": "Fort De Soto Park US-FL (27.6252,-82.7059), Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625209,-82.705932&ll=27.625209,-82.705932",
+        "checklist": "https://ebird.org/checklist/S168631009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.705117,
+          27.625567
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 16:44",
+        "reporter": "Deb Fellows",
+        "location": "Fort De Soto Park US-FL (27.6256,-82.7051), Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625567,-82.705117&ll=27.625567,-82.705117",
+        "checklist": "https://ebird.org/checklist/S168499865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.705452,
+          27.625577
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 15:53",
+        "reporter": "Jaci Pustelnik",
+        "location": "Fort De Soto Park US-FL (27.6256,-82.7055), Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625577,-82.705452&ll=27.625577,-82.705452",
+        "checklist": "https://ebird.org/checklist/S168447251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.706086,
+          27.625116
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 13:04",
+        "reporter": "Audrey Whitlock",
+        "location": "Fort DeSoto East Beach 27.62512, -82.70609, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625116,-82.706086&ll=27.625116,-82.706086",
+        "checklist": "https://ebird.org/checklist/S168497851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.705616,
+          27.62552
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:10",
+        "reporter": "Ted Yeatts",
+        "location": "Fort DeSoto East Beach Trail, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.62552,-82.705616&ll=27.62552,-82.705616",
+        "checklist": "https://ebird.org/checklist/S168576386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7082166,
+          27.6248799
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 14:57",
+        "reporter": "Gallus Quigley",
+        "location": "Fort DeSoto Park-- East Beach Picnic Area & Trails, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6248799,-82.7082166&ll=27.6248799,-82.7082166",
+        "checklist": "https://ebird.org/checklist/S168454323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7058486,
+          27.6252737
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 08:56",
+        "reporter": "JT Wathen",
+        "location": "Fort Desoto East Beach Woods, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6252737,-82.7058486&ll=27.6252737,-82.7058486",
+        "checklist": "https://ebird.org/checklist/S168551907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.711488,
+          27.62494
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 17:06",
+        "reporter": "Melanie Underwood",
+        "location": "Fort Desoto Park, Saint Petersburg US-FL 27.62494, -82.71149, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.62494,-82.711488&ll=27.62494,-82.711488",
+        "checklist": "https://ebird.org/checklist/S168480274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.700526,
+          27.634684
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 09:20",
+        "reporter": "Mick McCarty",
+        "location": "Fort Desoto Park, Saint Petersburg US-FL East beach, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.634684,-82.700526&ll=27.634684,-82.700526",
+        "checklist": "https://ebird.org/checklist/S168587467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.700526,
+          27.634684
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 09:20",
+        "reporter": "Lynn Mitchell",
+        "location": "Fort Desoto Park, Saint Petersburg US-FL East beach, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.634684,-82.700526&ll=27.634684,-82.700526",
+        "checklist": "https://ebird.org/checklist/S168587468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7097255,
+          27.6242199
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:07",
+        "reporter": "Christopher Brink",
+        "location": "Ft. DeSoto-East Beach Picnic Area, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6242199,-82.7097255&ll=27.6242199,-82.7097255",
+        "checklist": "https://ebird.org/checklist/S168462436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7097255,
+          27.6242199
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:07",
+        "reporter": "Gigi DelPizzo",
+        "location": "Ft. DeSoto-East Beach Picnic Area, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6242199,-82.7097255&ll=27.6242199,-82.7097255",
+        "checklist": "https://ebird.org/checklist/S168462435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7496,
+          24.5734
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:05",
+        "reporter": "jimmy stephens",
+        "location": "Key West Tropical Forest & Botanical Gardens, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.5734,-81.7496&ll=24.5734,-81.7496",
+        "checklist": "https://ebird.org/checklist/S168621852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7496,
+          24.5734
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:05",
+        "reporter": "Juli deGrummond",
+        "location": "Key West Tropical Forest & Botanical Gardens, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.5734,-81.7496&ll=24.5734,-81.7496",
+        "checklist": "https://ebird.org/checklist/S168621851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70681,
+          27.625229
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:44",
+        "reporter": "Wenxin Hu",
+        "location": "Piratic Flycatcher, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625229,-82.70681&ll=27.625229,-82.70681",
+        "checklist": "https://ebird.org/checklist/S168544211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.70681,
+          27.625229
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 07:44",
+        "reporter": "Yujie Wang",
+        "location": "Piratic Flycatcher, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625229,-82.70681&ll=27.625229,-82.70681",
+        "checklist": "https://ebird.org/checklist/S168554585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.705732,
+          27.62576
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:17",
+        "reporter": "Robert Wallace",
+        "location": "Piratic Stake Out, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.62576,-82.705732&ll=27.62576,-82.705732",
+        "checklist": "https://ebird.org/checklist/S168581055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.705626,
+          27.625388
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 10:25",
+        "reporter": "Robert Lawshe",
+        "location": "stakeout - Piratic Flycatcher, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.625388,-82.705626&ll=27.625388,-82.705626",
+        "checklist": "https://ebird.org/checklist/S168577833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 10:27",
+        "reporter": "Thomas Evans",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168445090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 06:47",
+        "reporter": "David English",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168462152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 06:47",
+        "reporter": "Kelly Stanek",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168462651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 06:47",
+        "reporter": "Matthew Valencic",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168462151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Zachary Johnson",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168479242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Simon Kiacz",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168452194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Steve Frampton",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168453987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Austin Coleman",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168453990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "John Kolar",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168455783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Thomas Evans",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168463336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Richard Naber",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168474454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "David English",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168507593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0910149,
+          26.476905
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (2) CONFIRMED",
+        "reported": "Apr 12, 2024 07:02",
+        "reporter": "Russell Cockman",
+        "location": "Santa Margarita Ranch?bluff area (limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.476905,-99.0910149&ll=26.476905,-99.0910149",
+        "checklist": "https://ebird.org/checklist/S168498119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.434342,
+          36.289633
+        ]
+      },
+      "properties": {
+        "species": "Eurasian Blackbird (Turdus merula) (1)",
+        "reported": "Apr 11, 2024 16:21",
+        "reporter": "Mildred Fuller",
+        "location": "58 Riverland Ln, Hardy US-AR 36.28963, -91.43434, Sharp, Arkansas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=36.289633,-91.434342&ll=36.289633,-91.434342",
+        "checklist": "https://ebird.org/checklist/S168479907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.359566,
+          36.438797
+        ]
+      },
+      "properties": {
+        "species": "Rufous-backed Robin (Turdus rufopalliatus) (1)",
+        "reported": "Apr 14, 2024 11:28",
+        "reporter": "John Mark Simmons",
+        "location": "Desert NWR--Corn Creek (Field Station), Clark, Nevada",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=36.438797,-115.359566&ll=36.438797,-115.359566",
+        "checklist": "https://ebird.org/checklist/S168638977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3283087,
+          34.1520665
+        ]
+      },
+      "properties": {
+        "species": "White Wagtail (Motacilla alba) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 09:48",
+        "reporter": "Stephen  Greenwood",
+        "location": "Buena Vista Park (LA Co.), Los Angeles, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=34.1520665,-118.3283087&ll=34.1520665,-118.3283087",
+        "checklist": "https://ebird.org/checklist/S168618385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) ",
+        "reported": "Apr 14, 2024 06:56",
+        "reporter": "William Griswold",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168590924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (2)",
+        "reported": "Apr 14, 2024 06:35",
+        "reporter": "Marc Shlossman",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168604618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (2)",
+        "reported": "Apr 14, 2024 06:09",
+        "reporter": "Gordon Karre",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168617193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:25",
+        "reporter": "Kellin Rumsey",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168456804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:15",
+        "reporter": "Norm Rumsey",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168461670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 12:04",
+        "reporter": "Matthew Scotch",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168455562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 13, 2024 10:30",
+        "reporter": "Sherree Sheide",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168505647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 13, 2024 08:50",
+        "reporter": "Susan Wise",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168478242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 13, 2024 08:50",
+        "reporter": "Maikel Wise",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168478241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 07:54",
+        "reporter": "Susan Fishburn",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168476287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 07:54",
+        "reporter": "Heather Eaton",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168474952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 07:54",
+        "reporter": "Hilary Simms",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168482721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 07:54",
+        "reporter": "Emily Brooks",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168447152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 13, 2024 06:55",
+        "reporter": "James Taylor",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168449495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 13, 2024 06:55",
+        "reporter": "Kevin McGann",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168447892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 13, 2024 06:37",
+        "reporter": "Kristen Arendt",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S168499226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9324605,
+          25.137089
+        ]
+      },
+      "properties": {
+        "species": "Shiny Cowbird (Molothrus bonariensis) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 14:13",
+        "reporter": "Araks Ohanyan",
+        "location": "Everglades NP--Flamingo Amphitheatre, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.137089,-80.9324605&ll=25.137089,-80.9324605",
+        "checklist": "https://ebird.org/checklist/S168480959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9324605,
+          25.137089
+        ]
+      },
+      "properties": {
+        "species": "Shiny Cowbird (Molothrus bonariensis) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 14:13",
+        "reporter": "Shelagh Lynch",
+        "location": "Everglades NP--Flamingo Amphitheatre, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.137089,-80.9324605&ll=25.137089,-80.9324605",
+        "checklist": "https://ebird.org/checklist/S168487762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9324605,
+          25.137089
+        ]
+      },
+      "properties": {
+        "species": "Shiny Cowbird (Molothrus bonariensis) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 14:13",
+        "reporter": "Alex Marine",
+        "location": "Everglades NP--Flamingo Amphitheatre, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.137089,-80.9324605&ll=25.137089,-80.9324605",
+        "checklist": "https://ebird.org/checklist/S168487555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9324605,
+          25.137089
+        ]
+      },
+      "properties": {
+        "species": "Shiny Cowbird (Molothrus bonariensis) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 14:13",
+        "reporter": "Aiden  Haley",
+        "location": "Everglades NP--Flamingo Amphitheatre, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.137089,-80.9324605&ll=25.137089,-80.9324605",
+        "checklist": "https://ebird.org/checklist/S168487124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.434342,
+          36.289633
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1)",
+        "reported": "Apr 11, 2024 16:21",
+        "reporter": "Mildred Fuller",
+        "location": "58 Riverland Ln, Hardy US-AR 36.28963, -91.43434, Sharp, Arkansas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=36.289633,-91.434342&ll=36.289633,-91.434342",
+        "checklist": "https://ebird.org/checklist/S168479907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4185581,
+          29.3048877
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1) CONFIRMED",
+        "reported": "Apr 08, 2024 09:06",
+        "reporter": "Meredith Joy",
+        "location": "Fort Clark Springs (restricted access), Kinney, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.3048877,-100.4185581&ll=29.3048877,-100.4185581",
+        "checklist": "https://ebird.org/checklist/S168582910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.799521,
+          30.46857
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1)",
+        "reported": "Apr 14, 2024 10:21",
+        "reporter": "Rich Kostecke",
+        "location": "Independence Creek Preserve (limited access by permission-TNC), Terrell, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.46857,-101.799521&ll=30.46857,-101.799521",
+        "checklist": "https://ebird.org/checklist/S168623064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.799521,
+          30.46857
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1)",
+        "reported": "Apr 13, 2024 13:30",
+        "reporter": "Rebecca Bracken",
+        "location": "Independence Creek Preserve (limited access by permission-TNC), Terrell, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.46857,-101.799521&ll=30.46857,-101.799521",
+        "checklist": "https://ebird.org/checklist/S168451527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.799521,
+          30.46857
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (2)",
+        "reported": "Apr 13, 2024 12:39",
+        "reporter": "Rich Kostecke",
+        "location": "Independence Creek Preserve (limited access by permission-TNC), Terrell, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.46857,-101.799521&ll=30.46857,-101.799521",
+        "checklist": "https://ebird.org/checklist/S168483935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7707243,
+          26.7876524
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1)",
+        "reported": "Apr 12, 2024 09:13",
+        "reporter": "King Ranch",
+        "location": "King Ranch--Norias Division (Kenedy Co.), Kenedy, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.7876524,-97.7707243&ll=26.7876524,-97.7707243",
+        "checklist": "https://ebird.org/checklist/S168469975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5762582,
+          29.8155087
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1)",
+        "reported": "Apr 13, 2024 14:37",
+        "reporter": "Michael Osswald",
+        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
+        "checklist": "https://ebird.org/checklist/S168470487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5762582,
+          29.8155087
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 09:10",
+        "reporter": "Calvin Lee",
+        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
+        "checklist": "https://ebird.org/checklist/S168469428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5762582,
+          29.8155087
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 09:10",
+        "reporter": "Stephan Lorenz",
+        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
+        "checklist": "https://ebird.org/checklist/S168453354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5762582,
+          29.8155087
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 09:10",
+        "reporter": "David Cohen",
+        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
+        "checklist": "https://ebird.org/checklist/S168473413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5762582,
+          29.8155087
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 09:10",
+        "reporter": "null",
+        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
+        "checklist": "https://ebird.org/checklist/S168469237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5762582,
+          29.8155087
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1) CONFIRMED",
+        "reported": "Apr 12, 2024 08:06",
+        "reporter": "E C Winstead",
+        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
+        "checklist": "https://ebird.org/checklist/S168500717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5690513,
+          25.9965839
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1)",
+        "reported": "Apr 13, 2024 11:25",
+        "reporter": "Mike Oliver",
+        "location": "Resaca de la Palma SP WBC (Brownsville) (LTC 048), Cameron, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.9965839,-97.5690513&ll=25.9965839,-97.5690513",
+        "checklist": "https://ebird.org/checklist/S168464580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2309932,
+          26.176876
+        ]
+      },
+      "properties": {
+        "species": "Flame-colored Tanager (Piranga bidentata) (1)",
+        "reported": "Apr 13, 2024 10:56",
+        "reporter": "Diane Roberts",
+        "location": "Quinta Mazatlan WBC (LTC 063), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.176876,-98.2309932&ll=26.176876,-98.2309932",
+        "checklist": "https://ebird.org/checklist/S168525879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2699178,
+          26.9013555
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2)",
+        "reported": "Apr 14, 2024 11:15",
+        "reporter": "Steve Marshall",
+        "location": "Bravo Park, Zapata, Zapata, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.9013555,-99.2699178&ll=26.9013555,-99.2699178",
+        "checklist": "https://ebird.org/checklist/S168620322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2699178,
+          26.9013555
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
+        "reported": "Apr 13, 2024 07:43",
+        "reporter": "Russell Cockman",
+        "location": "Bravo Park, Zapata, Zapata, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.9013555,-99.2699178&ll=26.9013555,-99.2699178",
+        "checklist": "https://ebird.org/checklist/S168497749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2699178,
+          26.9013555
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
+        "reported": "Apr 13, 2024 07:43",
+        "reporter": "Lindsey Walters",
+        "location": "Bravo Park, Zapata, Zapata, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.9013555,-99.2699178&ll=26.9013555,-99.2699178",
+        "checklist": "https://ebird.org/checklist/S168495207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2699178,
+          26.9013555
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
+        "reported": "Apr 13, 2024 07:43",
+        "reporter": "Catherine Bland",
+        "location": "Bravo Park, Zapata, Zapata, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.9013555,-99.2699178&ll=26.9013555,-99.2699178",
+        "checklist": "https://ebird.org/checklist/S168495206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1162062,
+          26.5148584
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
+        "reported": "Apr 14, 2024 08:05",
+        "reporter": "Beth Simkins",
+        "location": "Saline?o Wildlife Preserve (LTC 080), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
+        "checklist": "https://ebird.org/checklist/S168633436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (3) CONFIRMED",
+        "reported": "Apr 13, 2024 10:27",
+        "reporter": "Thomas Evans",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168445090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:47",
+        "reporter": "Matthew Valencic",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168462151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:47",
+        "reporter": "David English",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168462152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:47",
+        "reporter": "Kelly Stanek",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168462651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Austin Coleman",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168453990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "David English",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168507593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Steve Frampton",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168453987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "John Kolar",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168455783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Thomas Evans",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168463336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Simon Kiacz",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168452194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Richard Naber",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168474454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (2) CONFIRMED",
+        "reported": "Apr 13, 2024 06:45",
+        "reporter": "Zachary Johnson",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S168479242"
+      }
+    }
+  ]
+}
