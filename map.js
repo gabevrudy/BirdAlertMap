@@ -86,9 +86,9 @@ function createCustomIcon(colorSuffix) {
 }
 
 // Load in Test Data
-var mostRecentYearNeedsFile = baseURL + 'data/year_needs_test.geojson';
-var mostRecentABAFile = baseURL + 'data/aba_alert_test.geojson';
-var mostRecentLifeNeedsFile = baseURL + 'data/life_needs_test.geojson';
+var mostRecentYearNeedsFile = baseURL + 'data/year_needs_alert.geojson';
+var mostRecentABAFile = baseURL + 'data/aba_alert.geojson';
+var mostRecentLifeNeedsFile = baseURL + 'data/life_needs_alert.geojson';
 
 // Load GeoJSON for Year Need Points
 fetch(mostRecentYearNeedsFile)
