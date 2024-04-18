@@ -6,6 +6,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.6207848,
+          35.0302072
+        ]
+      },
+      "properties": {
+        "species": "Redhead (Aythya americana) (2)",
+        "reported": "Apr 17, 2024 07:42",
+        "reporter": "Ann Stockert",
+        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
+        "checklist": "https://ebird.org/checklist/S169049366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6737125,
+          35.516718
+        ]
+      },
+      "properties": {
+        "species": "Calliope Hummingbird (Selasphorus calliope) (1) CONFIRMED",
+        "reported": "Apr 16, 2024 15:14",
+        "reporter": "Dale Ball",
+        "location": "Home, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.516718,-120.6737125&ll=35.516718,-120.6737125",
+        "checklist": "https://ebird.org/checklist/S169017384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8218378,
+          35.3354332
+        ]
+      },
+      "properties": {
+        "species": "Lesser Yellowlegs (Tringa flavipes) (1)",
+        "reported": "Apr 16, 2024 12:27",
+        "reporter": "Ann Stockert",
+        "location": "Turri Road Tidal Ponds, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3354332,-120.8218378&ll=35.3354332,-120.8218378",
+        "checklist": "https://ebird.org/checklist/S168984157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -120.8948396,
           35.2711807
         ]
@@ -13,10 +67,10 @@
       "properties": {
         "species": "Pigeon Guillemot (Cepphus columba) (6)",
         "reported": "Apr 16, 2024 11:55",
-        "reporter": "Troy Peters",
+        "reporter": "Katherine Nielsen",
         "location": "Bluff Trail--Montana de Oro SP, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2711807,-120.8948396&ll=35.2711807,-120.8948396",
-        "checklist": "https://ebird.org/checklist/S168937950"
+        "checklist": "https://ebird.org/checklist/S168980979"
       }
     },
     {
@@ -24,17 +78,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8678892,
-          35.3982858
+          -120.6392555,
+          35.1340046
         ]
       },
       "properties": {
-        "species": "Laughing Gull (Leucophaeus atricilla) (1)",
-        "reported": "Apr 16, 2024 08:17",
-        "reporter": "Mike Bush",
-        "location": "Morro Strand State Beach, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3982858,-120.8678892&ll=35.3982858,-120.8678892",
-        "checklist": "https://ebird.org/checklist/S168902550"
+        "species": "Black Skimmer (Rynchops niger) (1)",
+        "reported": "Apr 17, 2024 10:22",
+        "reporter": "Ann Stockert",
+        "location": "Pismo Creek mouth, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1340046,-120.6392555&ll=35.1340046,-120.6392555",
+        "checklist": "https://ebird.org/checklist/S169075168"
       }
     },
     {
@@ -42,17 +96,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8875608,
-          35.4343095
+          -120.6392555,
+          35.1340046
         ]
       },
       "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Apr 16, 2024 07:39",
-        "reporter": "Tom Edell",
-        "location": "Old Creek--Cayucos, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4343095,-120.8875608&ll=35.4343095,-120.8875608",
-        "checklist": "https://ebird.org/checklist/S168943699"
+        "species": "Black Skimmer (Rynchops niger) (5) CONFIRMED",
+        "reported": "Apr 16, 2024 15:05",
+        "reporter": "Curtis Marantz",
+        "location": "Pismo Creek mouth, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1340046,-120.6392555&ll=35.1340046,-120.6392555",
+        "checklist": "https://ebird.org/checklist/S168991666"
       }
     },
     {
@@ -60,17 +114,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8558187,
-          35.1162836
+          -120.6287241,
+          35.1001785
         ]
       },
       "properties": {
-        "species": "Sharp-shinned Hawk (Accipiter striatus) (1)",
-        "reported": "Apr 16, 2024 14:20",
-        "reporter": "Tania Parker",
-        "location": "Caliente Ridge Road, Carrizo Plain National Monument, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1162836,-119.8558187&ll=35.1162836,-119.8558187",
-        "checklist": "https://ebird.org/checklist/S168947969"
+        "species": "Elegant Tern (Thalasseus elegans) (58)",
+        "reported": "Apr 17, 2024 11:55",
+        "reporter": "Ann Stockert",
+        "location": "Arroyo Grande Creek mouth, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1001785,-120.6287241&ll=35.1001785,-120.6287241",
+        "checklist": "https://ebird.org/checklist/S169075110"
       }
     },
     {
@@ -78,17 +132,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7350496,
-          35.0905487
+          -120.6392555,
+          35.1340046
         ]
       },
       "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Apr 10, 2024 15:02",
-        "reporter": "Penny Principe",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S168929988"
+        "species": "Elegant Tern (Thalasseus elegans) (3) CONFIRMED",
+        "reported": "Apr 16, 2024 15:05",
+        "reporter": "Curtis Marantz",
+        "location": "Pismo Creek mouth, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1340046,-120.6392555&ll=35.1340046,-120.6392555",
+        "checklist": "https://ebird.org/checklist/S168991666"
       }
     },
     {
@@ -96,17 +150,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7350496,
-          35.0905487
+          -120.7096463,
+          35.2798732
         ]
       },
       "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Apr 10, 2024 15:02",
-        "reporter": "Susan Rittenhouse",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S168934175"
+        "species": "White-faced Ibis (Plegadis chihi) (2)",
+        "reported": "Apr 17, 2024 13:35",
+        "reporter": "Virginia Langdon-Lassagne",
+        "location": "Foothill & LOVR wetland, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2798732,-120.7096463&ll=35.2798732,-120.7096463",
+        "checklist": "https://ebird.org/checklist/S169077042"
       }
     },
     {
@@ -114,17 +168,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8633606,
-          35.1899143
+          -120.8437825,
+          35.3470547
         ]
       },
       "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Apr 10, 2024 13:19",
-        "reporter": "Ariela Gottschalk",
-        "location": "Carrizo Plain NM--Visitor Center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1899143,-119.8633606&ll=35.1899143,-119.8633606",
-        "checklist": "https://ebird.org/checklist/S168946273"
+        "species": "White-faced Ibis (Plegadis chihi) (1)",
+        "reported": "Apr 17, 2024 15:48",
+        "reporter": "William Koole",
+        "location": "Morro Bay SP--Natural History Museum, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3470547,-120.8437825&ll=35.3470547,-120.8437825",
+        "checklist": "https://ebird.org/checklist/S169104486"
       }
     },
     {
@@ -139,10 +193,10 @@
       "properties": {
         "species": "Prairie Falcon (Falco mexicanus) (1)",
         "reported": "Apr 16, 2024 13:13",
-        "reporter": "Tania Parker",
+        "reporter": "Anonymous eBirder",
         "location": "Carrizo Plain NM--Washburn Ranch to Soda Lake Rd., San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1315384,-119.7739071&ll=35.1315384,-119.7739071",
-        "checklist": "https://ebird.org/checklist/S168940430"
+        "checklist": "https://ebird.org/checklist/S169075502"
       }
     },
     {
@@ -150,17 +204,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.6974933,
-          35.5267508
+          -120.7491446,
+          35.4272109
         ]
       },
       "properties": {
-        "species": "Hammond's Flycatcher (Empidonax hammondii) (1)",
-        "reported": "Apr 15, 2024 06:41",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "De Anza Trail--North Atascadero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5267508,-120.6974933&ll=35.5267508,-120.6974933",
-        "checklist": "https://ebird.org/checklist/S168848452"
+        "species": "Olive-sided Flycatcher (Contopus cooperi) (1)",
+        "reported": "Apr 17, 2024 08:59",
+        "reporter": "Roger Zachary",
+        "location": "Cerro Alto Campground, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4272109,-120.7491446&ll=35.4272109,-120.7491446",
+        "checklist": "https://ebird.org/checklist/S169070859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.857436,
+          35.473407
+        ]
+      },
+      "properties": {
+        "species": "Cassin's Vireo (Vireo cassinii) (2)",
+        "reported": "Apr 16, 2024 08:33",
+        "reporter": "Ann Stockert",
+        "location": "1406?1568 Cottontail Creek Rd, Cayucos US-CA 35.47341, -120.85744, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.473407,-120.857436&ll=35.473407,-120.857436",
+        "checklist": "https://ebird.org/checklist/S168984165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8838502,
+          35.2736118
+        ]
+      },
+      "properties": {
+        "species": "Swainson's Thrush (Catharus ustulatus) (2)",
+        "reported": "Apr 17, 2024 11:15",
+        "reporter": "Jim Royer",
+        "location": "Islay Creek Campground--Montana de Oro SP, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2736118,-120.8838502&ll=35.2736118,-120.8838502",
+        "checklist": "https://ebird.org/checklist/S169090651"
       }
     },
     {
@@ -173,12 +263,12 @@
         ]
       },
       "properties": {
-        "species": "Cassin's Vireo (Vireo cassinii) (1)",
-        "reported": "Apr 16, 2024 06:43",
-        "reporter": "Maggie Smith",
+        "species": "Nashville Warbler (Leiothlypis ruficapilla) (1)",
+        "reported": "Apr 17, 2024 07:42",
+        "reporter": "Ann Stockert",
         "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S168959991"
+        "checklist": "https://ebird.org/checklist/S169049366"
       }
     },
     {
@@ -186,89 +276,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.6207848,
-          35.0302072
+          -120.7390594,
+          35.3397743
         ]
       },
       "properties": {
-        "species": "Swainson's Thrush (Catharus ustulatus) (1)",
-        "reported": "Apr 16, 2024 06:43",
-        "reporter": "Maggie Smith",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S168959991"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.848252,
-          35.321101
-        ]
-      },
-      "properties": {
-        "species": "Orchard Oriole (Icterus spurius) (1)",
-        "reported": "Apr 15, 2024 13:30",
-        "reporter": "Curtis Marantz",
-        "location": "Doris Street Coastal Access, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.321101,-120.848252&ll=35.321101,-120.848252",
-        "checklist": "https://ebird.org/checklist/S168850657"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.992437,
-          35.477553
-        ]
-      },
-      "properties": {
-        "species": "Black-and-white Warbler (Mniotilta varia) (2)",
-        "reported": "Apr 16, 2024 11:13",
-        "reporter": "Terri May",
-        "location": "Harmony Headlands State Park, Cambria US-CA 35.47755, -120.99244, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.477553,-120.992437&ll=35.477553,-120.992437",
-        "checklist": "https://ebird.org/checklist/S168947874"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6974933,
-          35.5267508
-        ]
-      },
-      "properties": {
-        "species": "MacGillivray's Warbler (Geothlypis tolmiei) (1)",
-        "reported": "Apr 15, 2024 06:41",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "De Anza Trail--North Atascadero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5267508,-120.6974933&ll=35.5267508,-120.6974933",
-        "checklist": "https://ebird.org/checklist/S168848452"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Blue Grosbeak (Passerina caerulea) (1)",
-        "reported": "Apr 16, 2024 08:30",
+        "species": "Blue Grosbeak (Passerina caerulea) (2)",
+        "reported": "Apr 17, 2024 08:00",
         "reporter": "Petra Clayton",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S168975228"
+        "location": "Pennington Creek Road, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3397743,-120.7390594&ll=35.3397743,-120.7390594",
+        "checklist": "https://ebird.org/checklist/S169106433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.857436,
+          35.473407
+        ]
+      },
+      "properties": {
+        "species": "Indigo Bunting (Passerina cyanea) (1)",
+        "reported": "Apr 16, 2024 08:33",
+        "reporter": "Ann Stockert",
+        "location": "1406?1568 Cottontail Creek Rd, Cayucos US-CA 35.47341, -120.85744, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.473407,-120.857436&ll=35.473407,-120.857436",
+        "checklist": "https://ebird.org/checklist/S168984165"
       }
     }
   ]
