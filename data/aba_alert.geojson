@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.7957787,
-          47.4553092
+          -52.7227427,
+          47.5697337
         ]
       },
       "properties": {
-        "species": "Barnacle Goose (Branta leucopsis) (5) CONFIRMED",
-        "reported": "Apr 17, 2024 09:17",
-        "reporter": "Ethel Dempsey",
-        "location": "Goulds--Pipeline Rd--btw Cochrane Pond Rd and Power's Rd, Avalon Peninsula-St. John's, Newfoundland and Labrador",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.4553092,-52.7957787&ll=47.4553092,-52.7957787",
-        "checklist": "https://ebird.org/checklist/S169032909"
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 10:46",
+        "reporter": "Blair Fleming",
+        "location": "Lions Park -- St. John's, Newfoundland and Labrador, CA (47.57, -52.723), Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.5697337,-52.7227427&ll=47.5697337,-52.7227427",
+        "checklist": "https://ebird.org/checklist/S169147281"
       }
     },
     {
@@ -24,17 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.7957787,
-          47.4553092
+          -63.3245516,
+          45.3742995
         ]
       },
       "properties": {
-        "species": "Barnacle Goose (Branta leucopsis) (5) CONFIRMED",
-        "reported": "Apr 17, 2024 09:17",
-        "reporter": "Bruce Mactavish",
-        "location": "Goulds--Pipeline Rd--btw Cochrane Pond Rd and Power's Rd, Avalon Peninsula-St. John's, Newfoundland and Labrador",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.4553092,-52.7957787&ll=47.4553092,-52.7957787",
-        "checklist": "https://ebird.org/checklist/S169066951"
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1)",
+        "reported": "Apr 17, 2024 16:48",
+        "reporter": "Ken McKenna",
+        "location": "Tidal Bore Road, Colchester, Nova Scotia",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=45.3742995,-63.3245516&ll=45.3742995,-63.3245516",
+        "checklist": "https://ebird.org/checklist/S169092856"
       }
     },
     {
@@ -42,17 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.8016663,
-          47.452063
+          -63.3245516,
+          45.3742995
         ]
       },
       "properties": {
-        "species": "Barnacle Goose (Branta leucopsis) (5) CONFIRMED",
-        "reported": "Apr 16, 2024 14:09",
-        "reporter": "Charles Fitzpatrick",
-        "location": "Goulds--Powers Rd.--fields, Avalon Peninsula-St. John's, Newfoundland and Labrador",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.452063,-52.8016663&ll=47.452063,-52.8016663",
-        "checklist": "https://ebird.org/checklist/S168974535"
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1)",
+        "reported": "Apr 17, 2024 11:14",
+        "reporter": "Ken McKenna",
+        "location": "Tidal Bore Road, Colchester, Nova Scotia",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=45.3742995,-63.3245516&ll=45.3742995,-63.3245516",
+        "checklist": "https://ebird.org/checklist/S169027745"
       }
     },
     {
@@ -60,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.8016663,
-          47.452063
+          -63.263483,
+          45.4041149
         ]
       },
       "properties": {
-        "species": "Barnacle Goose (Branta leucopsis) (5) CONFIRMED",
-        "reported": "Apr 16, 2024 12:00",
-        "reporter": "Judith Blakeley",
-        "location": "Goulds--Powers Rd.--fields, Avalon Peninsula-St. John's, Newfoundland and Labrador",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.452063,-52.8016663&ll=47.452063,-52.8016663",
-        "checklist": "https://ebird.org/checklist/S169007726"
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1)",
+        "reported": "Apr 18, 2024 18:10",
+        "reporter": "Jeff Ogden",
+        "location": "Truro Area--North River, Colchester, Nova Scotia",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=45.4041149,-63.263483&ll=45.4041149,-63.263483",
+        "checklist": "https://ebird.org/checklist/S169217385"
       }
     },
     {
@@ -78,17 +78,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.7044636,
-          46.030055
+          -73.4652783,
+          45.602413
+        ]
+      },
+      "properties": {
+        "species": "Garganey (Spatula querquedula) (6)",
+        "reported": "Apr 18, 2024 10:59",
+        "reporter": "Jean-Francois Latour",
+        "location": "Parc national des ?les-de- Boucherville, Longueuil, Quebec",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=45.602413,-73.4652783&ll=45.602413,-73.4652783",
+        "checklist": "https://ebird.org/checklist/S169221893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.704196,
+          46.028792
         ]
       },
       "properties": {
         "species": "Tufted Duck (Aythya fuligula) (1)",
-        "reported": "Apr 17, 2024 18:05",
-        "reporter": "Paul Langelaan",
-        "location": "Lower Coverdale, New Brunswick, CA (46.03, -64.704), Albert, New Brunswick",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.030055,-64.7044636&ll=46.030055,-64.7044636",
-        "checklist": "https://ebird.org/checklist/S169080869"
+        "reported": "Apr 18, 2024 13:32",
+        "reporter": "Marc LeBlanc",
+        "location": "White Birch Estates lagoon, Albert, New Brunswick",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.028792,-64.704196&ll=46.028792,-64.704196",
+        "checklist": "https://ebird.org/checklist/S169187911"
       }
     },
     {
@@ -96,17 +114,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.7044636,
-          46.030055
+          -64.7057364,
+          46.0280003
         ]
       },
       "properties": {
         "species": "Tufted Duck (Aythya fuligula) (1)",
-        "reported": "Apr 17, 2024 18:05",
-        "reporter": "Rhonda Langelaan",
-        "location": "Lower Coverdale, New Brunswick, CA (46.03, -64.704), Albert, New Brunswick",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.030055,-64.7044636&ll=46.030055,-64.7044636",
-        "checklist": "https://ebird.org/checklist/S169086932"
+        "reported": "Apr 18, 2024 12:15",
+        "reporter": "Bill Winsor",
+        "location": "White Birch Treatment Ponds, Albert, New Brunswick",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.0280003,-64.7057364&ll=46.0280003,-64.7057364",
+        "checklist": "https://ebird.org/checklist/S169200765"
       }
     },
     {
@@ -114,17 +132,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.0843974,
-          25.1327517
+          -130.3063292,
+          54.3121568
         ]
       },
       "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (1) CONFIRMED",
-        "reported": "Apr 15, 2024 12:00",
-        "reporter": "Rachel DiPietro",
-        "location": "Everglades NP--Micmac Lagoon, Monroe, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.1327517,-81.0843974&ll=25.1327517,-81.0843974",
-        "checklist": "https://ebird.org/checklist/S168985087"
+        "species": "Oriental Turtle-Dove (Streptopelia orientalis) (1)",
+        "reported": "Apr 18, 2024 09:10",
+        "reporter": "Teresa Weismiller",
+        "location": "342 Alberta Place, Prince Rupert, British Columbia, CA (54.312, -130.306), Skeena-Queen Charlotte, British Columbia",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=54.3121568,-130.3063292&ll=54.3121568,-130.3063292",
+        "checklist": "https://ebird.org/checklist/S169216614"
       }
     },
     {
@@ -132,71 +150,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.7234192,
-          28.6628762
+          -122.879,
+          49.059
         ]
       },
       "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (2) CONFIRMED",
-        "reported": "Apr 17, 2024 08:34",
-        "reporter": "Christian Newton",
-        "location": "Merritt Island NWR (Please consider using more specific locations), Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.6628762,-80.7234192&ll=28.6628762,-80.7234192",
-        "checklist": "https://ebird.org/checklist/S169073629"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.7546186,
-          28.7374281
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (2) CONFIRMED",
-        "reported": "Apr 17, 2024 11:40",
-        "reporter": "Paula Thomas",
-        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
-        "checklist": "https://ebird.org/checklist/S169041605"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.7546186,
-          28.7374281
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (2) CONFIRMED",
-        "reported": "Apr 17, 2024 11:40",
-        "reporter": "Rick Thomas",
-        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
-        "checklist": "https://ebird.org/checklist/S169041604"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.7546186,
-          28.7374281
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (5) CONFIRMED",
-        "reported": "Apr 16, 2024 12:17",
-        "reporter": "Jose Gagnon",
-        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
-        "checklist": "https://ebird.org/checklist/S169020942"
+        "species": "Oriental Turtle-Dove (Streptopelia orientalis) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 15:16",
+        "reporter": "Cos van Wermeskerken",
+        "location": "Blackie Spit (Incl. Dunsmuir Farm & Nicomekl estuary), Metro Vancouver, British Columbia",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=49.059,-122.879&ll=49.059,-122.879",
+        "checklist": "https://ebird.org/checklist/S169118829"
       }
     },
     {
@@ -211,10 +175,10 @@
       "properties": {
         "species": "Ruddy Ground Dove (Columbina talpacoti) (1)",
         "reported": "Apr 13, 2024 07:20",
-        "reporter": "Bob Dunn",
+        "reporter": "Janet Ellis",
         "location": "Santa Ana NWR (LTC 059), Hidalgo, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0813003,-98.1351399&ll=26.0813003,-98.1351399",
-        "checklist": "https://ebird.org/checklist/S169085240"
+        "checklist": "https://ebird.org/checklist/S169117957"
       }
     },
     {
@@ -229,10 +193,28 @@
       "properties": {
         "species": "Mexican Violetear (Colibri thalassinus) (1) CONFIRMED",
         "reported": "Apr 12, 2024 11:40",
-        "reporter": "Bob Dunn",
+        "reporter": "Janet Ellis",
         "location": "W. Cora Lee Drive, Cameron, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1257403,-97.1731234&ll=26.1257403,-97.1731234",
-        "checklist": "https://ebird.org/checklist/S168988791"
+        "checklist": "https://ebird.org/checklist/S169117983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3030107,
+          31.4520341
+        ]
+      },
+      "properties": {
+        "species": "White-eared Hummingbird (Basilinna leucotis) (1)",
+        "reported": "Apr 18, 2024 09:14",
+        "reporter": "Randy Snyder",
+        "location": "Ramsey Canyon Cabins (opened 2022), Cochise, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.4520341,-110.3030107&ll=31.4520341,-110.3030107",
+        "checklist": "https://ebird.org/checklist/S169217062"
       }
     },
     {
@@ -246,11 +228,11 @@
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 14:34",
-        "reporter": "Bob Scheidt",
+        "reported": "Apr 18, 2024 11:40",
+        "reporter": "Don Hoppe",
         "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S169090173"
+        "checklist": "https://ebird.org/checklist/S169209545"
       }
     },
     {
@@ -264,11 +246,11 @@
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 09:55",
-        "reporter": "Eric Dean",
+        "reported": "Apr 18, 2024 11:40",
+        "reporter": "Heidi Hoppe",
         "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S169060067"
+        "checklist": "https://ebird.org/checklist/S169209546"
       }
     },
     {
@@ -282,11 +264,11 @@
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 09:54",
-        "reporter": "Paul Heady",
+        "reported": "Apr 18, 2024 11:40",
+        "reporter": "Elizabeth Hawkins",
         "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S169089635"
+        "checklist": "https://ebird.org/checklist/S169206139"
       }
     },
     {
@@ -300,11 +282,11 @@
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 09:35",
-        "reporter": "Tim K",
+        "reported": "Apr 18, 2024 08:12",
+        "reporter": "Alex Patia",
         "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S169091098"
+        "checklist": "https://ebird.org/checklist/S169176862"
       }
     },
     {
@@ -318,11 +300,11 @@
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 08:51",
-        "reporter": "Mike Grant",
+        "reported": "Apr 17, 2024 14:48",
+        "reporter": "Jim James",
         "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S169077509"
+        "checklist": "https://ebird.org/checklist/S169106418"
       }
     },
     {
@@ -336,119 +318,11 @@
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 17:06",
-        "reporter": "Eli Sleiman",
+        "reported": "Apr 17, 2024 09:51",
+        "reporter": "Jan Almond",
         "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168983002"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 16:00",
-        "reporter": "Ruth Parks",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168977818"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 16:00",
-        "reporter": "Carey Parks",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168977819"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 15:39",
-        "reporter": "Thomas Blatz",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168964819"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 15:39",
-        "reporter": "Jeff Blatz",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168965196"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 14:57",
-        "reporter": "Dan Wilson-Fey",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168980818"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 10:03",
-        "reporter": "David Vleck",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168969722"
+        "checklist": "https://ebird.org/checklist/S169106808"
       }
     },
     {
@@ -463,10 +337,10 @@
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
         "reported": "Apr 16, 2024 09:00",
-        "reporter": "John Green",
+        "reporter": "Carol Carver",
         "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168972532"
+        "checklist": "https://ebird.org/checklist/S169113627"
       }
     },
     {
@@ -474,89 +348,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 09:00",
-        "reporter": "George Exum",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S169015350"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 15, 2024 15:00",
-        "reporter": "Peter Coskun",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168975245"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 14, 2024 10:17",
-        "reporter": "Laurie Dann",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S168985604"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8787354,
-          31.7200828
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1) CONFIRMED",
-        "reported": "Apr 14, 2024 10:00",
-        "reporter": "Leah Turner",
-        "location": "Madera Canyon--Madera Kubo B&B, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7200828,-110.8787354&ll=31.7200828,-110.8787354",
-        "checklist": "https://ebird.org/checklist/S169046318"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.7639866,
-          47.467299
+          -52.770074,
+          47.463409
         ]
       },
       "properties": {
         "species": "Eurasian Oystercatcher (Haematopus ostralegus) (1) CONFIRMED",
-        "reported": "Apr 11, 2024 17:00",
+        "reported": "Apr 18, 2024 10:17",
         "reporter": "Bruce Mactavish",
-        "location": "Goulds--Cox's Lane fields, Avalon Peninsula-St. John's, Newfoundland and Labrador",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.467299,-52.7639866&ll=47.467299,-52.7639866",
-        "checklist": "https://ebird.org/checklist/S169004931"
+        "location": "355 Main Rd, St. John's CA-NL 47.46341, -52.77007, Avalon Peninsula-St. John's, Newfoundland and Labrador",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.463409,-52.770074&ll=47.463409,-52.770074",
+        "checklist": "https://ebird.org/checklist/S169146374"
       }
     },
     {
@@ -564,17 +366,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.934277,
-          26.136645
+          -100.7613659,
+          29.3284143
         ]
       },
       "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 08:34",
-        "reporter": "Andrew Dietrich",
-        "location": "101?131 Golf Course Rd, Mercedes US-TX (26.1366,-97.9343), Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.136645,-97.934277&ll=26.136645,-97.934277",
-        "checklist": "https://ebird.org/checklist/S168887845"
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 17, 2024 15:10",
+        "reporter": "Joyce Marie Stewart",
+        "location": "1.2 miles on Perimeter Road, Val Verde, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.3284143,-100.7613659&ll=29.3284143,-100.7613659",
+        "checklist": "https://ebird.org/checklist/S169115905"
       }
     },
     {
@@ -582,17 +384,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.934347,
-          26.131499
+          -97.9338028,
+          26.1369286
         ]
       },
       "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 07:10",
-        "reporter": "julia delgado",
-        "location": "243?273 Golf Course Rd, Mercedes US-TX 26.13150, -97.93435, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.131499,-97.934347&ll=26.131499,-97.934347",
-        "checklist": "https://ebird.org/checklist/S168985067"
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 09:41",
+        "reporter": "Baceliza Monroe",
+        "location": "Golf Course Road, Mercedes, Texas, US (26.137, -97.934), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1369286,-97.9338028&ll=26.1369286,-97.9338028",
+        "checklist": "https://ebird.org/checklist/S169166825"
       }
     },
     {
@@ -600,17 +402,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.9423428,
-          26.1341725
+          -97.934248,
+          26.137081
         ]
       },
       "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 11:45",
-        "reporter": "David Smith",
-        "location": "Llano Grande Golf Club, Weslaco, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1341725,-97.9423428&ll=26.1341725,-97.9423428",
-        "checklist": "https://ebird.org/checklist/S168978798"
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 11:07",
+        "reporter": "Rebekah Rylander",
+        "location": "Llano Grande Golf Course Club House, Mercedes US-TX (26.1371,-97.9342), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.137081,-97.934248&ll=26.137081,-97.934248",
+        "checklist": "https://ebird.org/checklist/S169220314"
       }
     },
     {
@@ -618,17 +420,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.9423428,
-          26.1341725
+          -97.930111,
+          26.1343531
         ]
       },
       "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 11:45",
-        "reporter": "Julia Smith",
-        "location": "Llano Grande Golf Club, Weslaco, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1341725,-97.9423428&ll=26.1341725,-97.9423428",
-        "checklist": "https://ebird.org/checklist/S168980661"
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 17:00",
+        "reporter": "Bruce Barrett",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169233282"
       }
     },
     {
@@ -636,17 +438,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.9340133,
-          26.1372537
+          -97.930111,
+          26.1343531
         ]
       },
       "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 10:50",
-        "reporter": "Paul Sunby",
-        "location": "Llano Grande Golf Course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1372537,-97.9340133&ll=26.1372537,-97.9340133",
-        "checklist": "https://ebird.org/checklist/S168973819"
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 14:36",
+        "reporter": "Mandrake Sumners",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169204822"
       }
     },
     {
@@ -654,17 +456,377 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.9341895,
-          26.1365394
+          -97.930111,
+          26.1343531
         ]
       },
       "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 09:50",
-        "reporter": "Eduardo Vela",
-        "location": "Llano Grande Golf Course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1365394,-97.9341895&ll=26.1365394,-97.9341895",
-        "checklist": "https://ebird.org/checklist/S168974090"
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 14:21",
+        "reporter": "Robert Dudley",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169202294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 14:14",
+        "reporter": "Joan Spaw",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169210086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 14:02",
+        "reporter": "Hannah Buschert",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169204764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 14:02",
+        "reporter": "Erik Ostrander",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169204763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 14:02",
+        "reporter": "Elaine Barina",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169209652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 14:02",
+        "reporter": "Linda Williams",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169208881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 13:36",
+        "reporter": "Joseph Hood",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169209576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 13:17",
+        "reporter": "Mariza R. (Marcy) Barbosa",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169206143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 12:20",
+        "reporter": "Lorna Clevenger",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169197298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 11:44",
+        "reporter": "Matthew York",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169185272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 11:04",
+        "reporter": "Olivia Babb",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169181726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 11:04",
+        "reporter": "Derek Hudgins",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169181720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 08:41",
+        "reporter": "Juanita Ewing",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169199738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 08:41",
+        "reporter": "Nancy Clogston",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169172679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 08:41",
+        "reporter": "Ellen  Cantor",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169172741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 08:28",
+        "reporter": "Arman Moreno",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169161095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 08:01",
+        "reporter": "Jerald Zimmerman",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169150614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 07:21",
+        "reporter": "Bill Sain",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169146905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 18, 2024 07:21",
+        "reporter": "Lori Payne",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169206608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 17, 2024 17:55",
+        "reporter": "Dan Ellison",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169109544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.930111,
+          26.1343531
+        ]
+      },
+      "properties": {
+        "species": "Southern Lapwing (Vanellus chilensis) (1)",
+        "reported": "Apr 17, 2024 17:10",
+        "reporter": "Sheri Mcconville",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169111038"
       }
     },
     {
@@ -679,10 +841,10 @@
       "properties": {
         "species": "Southern Lapwing (Vanellus chilensis) (1)",
         "reported": "Apr 17, 2024 16:50",
-        "reporter": "Leo Miller",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
+        "reporter": "John Leonard",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169089912"
+        "checklist": "https://ebird.org/checklist/S169114842"
       }
     },
     {
@@ -696,389 +858,11 @@
       },
       "properties": {
         "species": "Southern Lapwing (Vanellus chilensis) (1)",
-        "reported": "Apr 17, 2024 16:19",
-        "reporter": "Glenda Boyer-Herron",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
+        "reported": "Apr 17, 2024 07:45",
+        "reporter": "Tena Gardiner",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169082079"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1)",
-        "reported": "Apr 17, 2024 15:27",
-        "reporter": "Dawn Johnson",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169073989"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1)",
-        "reported": "Apr 17, 2024 15:00",
-        "reporter": "Gerry Schatte",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169093095"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1)",
-        "reported": "Apr 17, 2024 14:50",
-        "reporter": "Nina Rach",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169084883"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1)",
-        "reported": "Apr 17, 2024 14:33",
-        "reporter": "Michael Anderson",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169080862"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 13:14",
-        "reporter": "Cameron Johnson",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169065294"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1)",
-        "reported": "Apr 17, 2024 11:22",
-        "reporter": "Terrilyn Alaniz",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169086033"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1)",
-        "reported": "Apr 17, 2024 09:33",
-        "reporter": "Nolan A. Walker",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169086013"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 08:34",
-        "reporter": "Skip Cantrell",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169023704"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 08:11",
-        "reporter": "Sydney Blackwell",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169022047"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 07:57",
-        "reporter": "Robert Perez",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169014931"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 07:30",
-        "reporter": "Mike Rome",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169039442"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 07:19",
-        "reporter": "Mike Terenzoni",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169014714"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 18:33",
-        "reporter": "Doug Fishman",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S168968961"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 17:45",
-        "reporter": "Frank Farese",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S168980161"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 12:46",
-        "reporter": "James Boughton",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S168969234"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 12:46",
-        "reporter": "Lesley Simmons",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S168969317"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 11:25",
-        "reporter": "Scott Myers",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S168984508"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 10:52",
-        "reporter": "Michelle Kubin",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S168972896"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 09:10",
-        "reporter": "Anne Geraghty",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S168989927"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 15, 2024 16:42",
-        "reporter": "Jeff Buecking",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169082157"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1) CONFIRMED",
-        "reported": "Apr 14, 2024 14:15",
-        "reporter": "Gloria Hendler",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169006100"
+        "checklist": "https://ebird.org/checklist/S169107945"
       }
     },
     {
@@ -1093,82 +877,10 @@
       "properties": {
         "species": "Southern Lapwing (Vanellus chilensis) (1)",
         "reported": "Apr 14, 2024 07:10",
-        "reporter": "Bob Dunn",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
+        "reporter": "Janet Ellis",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169090528"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.9322007,
-          26.1361121
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (Vanellus chilensis) (1)",
-        "reported": "Apr 17, 2024 11:05",
-        "reporter": "Beth Polvino",
-        "location": "Location:101?131 Golf Course Rd, Mercedes US-TX (26.1366,-97.934, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1361121,-97.9322007&ll=26.1361121,-97.9322007",
-        "checklist": "https://ebird.org/checklist/S169088565"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.934004,
-          26.137006
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (cayennensis) (Vanellus chilensis cayennensis) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 17:55",
-        "reporter": "jenny lee",
-        "location": "101?131 Golf Course Rd, Mercedes US-TX 26.13701, -97.93400, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.137006,-97.934004&ll=26.137006,-97.934004",
-        "checklist": "https://ebird.org/checklist/S168988756"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (cayennensis) (Vanellus chilensis cayennensis) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 06:57",
-        "reporter": "Janet Saczawa",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169081670"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.930111,
-          26.1343531
-        ]
-      },
-      "properties": {
-        "species": "Southern Lapwing (cayennensis) (Vanellus chilensis cayennensis) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 06:57",
-        "reporter": "Alex Lamoreaux",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169026641"
+        "checklist": "https://ebird.org/checklist/S169117944"
       }
     },
     {
@@ -1184,9 +896,9 @@
         "species": "Southern Lapwing (cayennensis) (Vanellus chilensis cayennensis) (1) CONFIRMED",
         "reported": "Apr 17, 2024 06:57",
         "reporter": "Ron Pozzi",
-        "location": "Llano Grande Golf Course (Lapwing)?from W. Levy or with permission from within course, Hidalgo, Texas",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
-        "checklist": "https://ebird.org/checklist/S169061206"
+        "checklist": "https://ebird.org/checklist/S169116690"
       }
     },
     {
@@ -1194,17 +906,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.4477778,
-          39.465
+          -97.930111,
+          26.1343531
         ]
       },
       "properties": {
-        "species": "Ruff (Calidris pugnax) (1) CONFIRMED",
-        "reported": "Apr 12, 2024 09:05",
-        "reporter": "Donna McCabe",
-        "location": "Edwin B. Forsythe NWR (formerly Brig), Atlantic, New Jersey",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=39.465,-74.4477778&ll=39.465,-74.4477778",
-        "checklist": "https://ebird.org/checklist/S168968326"
+        "species": "Southern Lapwing (cayennensis) (Vanellus chilensis cayennensis) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 06:57",
+        "reporter": "Janet Saczawa",
+        "location": "Llano Grande Golf Course ? with permission if entering property (Southern Lapwing stakeout), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1343531,-97.930111&ll=26.1343531,-97.930111",
+        "checklist": "https://ebird.org/checklist/S169114923"
       }
     },
     {
@@ -1212,17 +924,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -59.9593019,
-          46.2148229
+          -117.1133738,
+          32.5901154
         ]
       },
       "properties": {
-        "species": "Ruff (Calidris pugnax) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 07:56",
-        "reporter": "JD Bharvad",
-        "location": "Glace Bay--Hub area, Cape Breton, Nova Scotia",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.2148229,-59.9593019&ll=46.2148229,-59.9593019",
-        "checklist": "https://ebird.org/checklist/S169000572"
+        "species": "Little Stint (Calidris minuta) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 09:56",
+        "reporter": "Ted Keyel",
+        "location": "Bayshore Bikeway--10th Street (Pond 23), San Diego, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=32.5901154,-117.1133738&ll=32.5901154,-117.1133738",
+        "checklist": "https://ebird.org/checklist/S169108604"
       }
     },
     {
@@ -1230,17 +942,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -59.9593019,
-          46.2148229
+          -117.1133738,
+          32.5901154
         ]
       },
       "properties": {
-        "species": "Ruff (Calidris pugnax) (1)",
-        "reported": "Apr 16, 2024",
-        "reporter": "Nova Scotia Bird Records",
-        "location": "Glace Bay--Hub area, Cape Breton, Nova Scotia",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.2148229,-59.9593019&ll=46.2148229,-59.9593019",
-        "checklist": "https://ebird.org/checklist/S168991199"
+        "species": "Little Stint (Calidris minuta) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 09:56",
+        "reporter": "Paul Lehman",
+        "location": "Bayshore Bikeway--10th Street (Pond 23), San Diego, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=32.5901154,-117.1133738&ll=32.5901154,-117.1133738",
+        "checklist": "https://ebird.org/checklist/S169112200"
       }
     },
     {
@@ -1248,35 +960,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.5490036,
-          30.2768993
+          -87.3869182,
+          46.5408995
         ]
       },
       "properties": {
-        "species": "Gray Gull (Leucophaeus modestus) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 09:20",
-        "reporter": "Patty Horner",
-        "location": "Perdido Pass/Alabama Point--East, Baldwin, Alabama",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.2768993,-87.5490036&ll=30.2768993,-87.5490036",
-        "checklist": "https://ebird.org/checklist/S168976224"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.388863,
-          46.543382
-        ]
-      },
-      "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 15:00",
-        "reporter": "Anna Dorr",
-        "location": "Ellwood A Mattson Lower Harbor Park, Marquette US-MI (46.5434,-87.3889), Marquette, Michigan",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.543382,-87.388863&ll=46.543382,-87.388863",
-        "checklist": "https://ebird.org/checklist/S169075113"
+        "species": "Slaty-backed Gull (Larus schistisagus) (1)",
+        "reported": "Apr 17, 2024 13:45",
+        "reporter": "Sheri Miglio",
+        "location": "Marquette, Michigan, US (46.541, -87.387), Marquette, Michigan",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5408995,-87.3869182&ll=46.5408995,-87.3869182",
+        "checklist": "https://ebird.org/checklist/S169165224"
       }
     },
     {
@@ -1289,30 +983,12 @@
         ]
       },
       "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 15:40",
-        "reporter": "scot stewart",
-        "location": "Marquette - Lower Harbor, Marquette, Michigan",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5379598,-87.385152&ll=46.5379598,-87.385152",
-        "checklist": "https://ebird.org/checklist/S169075013"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.385152,
-          46.5379598
-        ]
-      },
-      "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 16:30",
-        "reporter": "Mira Goemaere",
+        "species": "Slaty-backed Gull (Larus schistisagus) (1)",
+        "reported": "Apr 18, 2024 17:15",
+        "reporter": "Joanie & Mark Hubinger",
         "location": "Marquette--Lower Harbor, Marquette, Michigan",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5379598,-87.385152&ll=46.5379598,-87.385152",
-        "checklist": "https://ebird.org/checklist/S169077400"
+        "checklist": "https://ebird.org/checklist/S169218780"
       }
     },
     {
@@ -1325,12 +1001,12 @@
         ]
       },
       "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 15:09",
-        "reporter": "Evan Reister",
+        "species": "Slaty-backed Gull (Larus schistisagus) (1)",
+        "reported": "Apr 18, 2024 12:38",
+        "reporter": "Joanie & Mark Hubinger",
         "location": "Marquette--Lower Harbor, Marquette, Michigan",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5379598,-87.385152&ll=46.5379598,-87.385152",
-        "checklist": "https://ebird.org/checklist/S169069371"
+        "checklist": "https://ebird.org/checklist/S169185696"
       }
     },
     {
@@ -1343,48 +1019,12 @@
         ]
       },
       "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 14:30",
-        "reporter": "Kathy Koenig",
-        "location": "Marquette--Lower Harbor, Marquette, Michigan",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5379598,-87.385152&ll=46.5379598,-87.385152",
-        "checklist": "https://ebird.org/checklist/S169083288"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.385152,
-          46.5379598
-        ]
-      },
-      "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 14:16",
-        "reporter": "Owen VanAntwerpen",
-        "location": "Marquette--Lower Harbor, Marquette, Michigan",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5379598,-87.385152&ll=46.5379598,-87.385152",
-        "checklist": "https://ebird.org/checklist/S169068146"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.385152,
-          46.5379598
-        ]
-      },
-      "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 13:26",
+        "species": "Slaty-backed Gull (Larus schistisagus) (1)",
+        "reported": "Apr 18, 2024 12:32",
         "reporter": "Ivan Wiljanen",
         "location": "Marquette--Lower Harbor, Marquette, Michigan",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5379598,-87.385152&ll=46.5379598,-87.385152",
-        "checklist": "https://ebird.org/checklist/S169057059"
+        "checklist": "https://ebird.org/checklist/S169179466"
       }
     },
     {
@@ -1392,17 +1032,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.385152,
-          46.5379598
+          -82.666214,
+          24.602052
         ]
       },
       "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 20:50",
-        "reporter": "Owen VanAntwerpen",
-        "location": "Marquette--Lower Harbor, Marquette, Michigan",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5379598,-87.385152&ll=46.5379598,-87.385152",
-        "checklist": "https://ebird.org/checklist/S169042456"
+        "species": "Masked Booby (Sula dactylatra) (30) CONFIRMED",
+        "reported": "Apr 13, 2024 09:58",
+        "reporter": "Kevin Farrell",
+        "location": "Auto selected 24.60205, -82.66621, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.602052,-82.666214&ll=24.602052,-82.666214",
+        "checklist": "https://ebird.org/checklist/S169190819"
       }
     },
     {
@@ -1410,17 +1050,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.385152,
-          46.5379598
+          -81.0751104,
+          24.7168565
         ]
       },
       "properties": {
-        "species": "Slaty-backed Gull (Larus schistisagus) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 19:25",
-        "reporter": "Ivan Wiljanen",
-        "location": "Marquette--Lower Harbor, Marquette, Michigan",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5379598,-87.385152&ll=46.5379598,-87.385152",
-        "checklist": "https://ebird.org/checklist/S168979382"
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Melissa Tomamichel",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169129612"
       }
     },
     {
@@ -1428,17 +1068,359 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -177.3786557,
-          28.209197
+          -81.0751104,
+          24.7168565
         ]
       },
       "properties": {
-        "species": "Short-tailed Albatross (Phoebastria albatrus) (1)",
-        "reported": "Apr 17, 2024 10:31",
-        "reporter": "Zach Matchinski",
-        "location": "Midway Atoll NWR--Sand Island, Midway Islands",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.209197,-177.3786557&ll=28.209197,-177.3786557",
-        "checklist": "https://ebird.org/checklist/S169083991"
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Julie Bonnema",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169135795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0751104,
+          24.7168565
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Angela Archerj",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169127213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0751104,
+          24.7168565
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Sharon Stewart",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169152451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0751104,
+          24.7168565
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Sam Warren",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169108979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0751104,
+          24.7168565
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Catherine Meyer",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169109629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0751104,
+          24.7168565
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Mark Welter",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169109173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0751104,
+          24.7168565
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Judith Birkel",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169130120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0751104,
+          24.7168565
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Libby Keyes",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169108980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0751104,
+          24.7168565
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (7)",
+        "reported": "Apr 16, 2024 09:59",
+        "reporter": "Marilyn McGee",
+        "location": "Crane Point Museums & Nature Center, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.7168565,-81.0751104&ll=24.7168565,-81.0751104",
+        "checklist": "https://ebird.org/checklist/S169112066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8699,
+          24.6344
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) ",
+        "reported": "Apr 18, 2024 10:40",
+        "reporter": "Gavin Awerbuch",
+        "location": "Dry Tortugas NP (Please consider using more specific locations), Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6344,-82.8699&ll=24.6344,-82.8699",
+        "checklist": "https://ebird.org/checklist/S169224117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Catherine Meyer",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169134485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Judith Birkel",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169130116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Melissa Tomamichel",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169129601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Angela Archerj",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169127208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Julie Bonnema",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169135791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "George Halleck",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169152712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Mark Welter",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169110559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Libby Keyes",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169110324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Sam Warren",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169110323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8728,
+          24.6276
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (46)",
+        "reported": "Apr 17, 2024 10:45",
+        "reporter": "Sharon Stewart",
+        "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
+        "checklist": "https://ebird.org/checklist/S169152474"
       }
     },
     {
@@ -1453,10 +1435,352 @@
       "properties": {
         "species": "Masked Booby (Sula dactylatra) (60)",
         "reported": "Apr 13, 2024 11:01",
-        "reporter": "Alexander Feinberg",
+        "reporter": "Kevin Farrell",
         "location": "Dry Tortugas NP--Garden Key, Monroe, Florida",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6276,-82.8728&ll=24.6276,-82.8728",
-        "checklist": "https://ebird.org/checklist/S169037945"
+        "checklist": "https://ebird.org/checklist/S169190827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8522,
+          24.6473
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (68)",
+        "reported": "Apr 18, 2024 10:22",
+        "reporter": "Warwick Board",
+        "location": "Dry Tortugas NP--Hospital Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6473,-82.8522&ll=24.6473,-82.8522",
+        "checklist": "https://ebird.org/checklist/S169220739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8522,
+          24.6473
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (80)",
+        "reported": "Apr 18, 2024 10:21",
+        "reporter": "Sue Keener",
+        "location": "Dry Tortugas NP--Hospital Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6473,-82.8522&ll=24.6473,-82.8522",
+        "checklist": "https://ebird.org/checklist/S169217983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8522,
+          24.6473
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (80)",
+        "reported": "Apr 18, 2024 10:21",
+        "reporter": "Anita  Spencer",
+        "location": "Dry Tortugas NP--Hospital Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6473,-82.8522&ll=24.6473,-82.8522",
+        "checklist": "https://ebird.org/checklist/S169215954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8522,
+          24.6473
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (80)",
+        "reported": "Apr 18, 2024 10:21",
+        "reporter": "Seven Ponds",
+        "location": "Dry Tortugas NP--Hospital Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6473,-82.8522&ll=24.6473,-82.8522",
+        "checklist": "https://ebird.org/checklist/S169215953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8522,
+          24.6473
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (80)",
+        "reported": "Apr 18, 2024 10:21",
+        "reporter": "Jan Giesken",
+        "location": "Dry Tortugas NP--Hospital Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6473,-82.8522&ll=24.6473,-82.8522",
+        "checklist": "https://ebird.org/checklist/S169215952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8522,
+          24.6473
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (80)",
+        "reported": "Apr 18, 2024 10:21",
+        "reporter": "Doris Ganzhorn",
+        "location": "Dry Tortugas NP--Hospital Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6473,-82.8522&ll=24.6473,-82.8522",
+        "checklist": "https://ebird.org/checklist/S169215949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8522,
+          24.6473
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (80)",
+        "reported": "Apr 18, 2024 10:21",
+        "reporter": "Nancy Tazzia",
+        "location": "Dry Tortugas NP--Hospital Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6473,-82.8522&ll=24.6473,-82.8522",
+        "checklist": "https://ebird.org/checklist/S169215950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8522,
+          24.6473
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) ",
+        "reported": "Apr 15, 2024 10:00",
+        "reporter": "Bob Ellis",
+        "location": "Dry Tortugas NP--Hospital Key, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.6473,-82.8522&ll=24.6473,-82.8522",
+        "checklist": "https://ebird.org/checklist/S169160783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8569333,
+          24.65162
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (18)",
+        "reported": "Apr 18, 2024 10:22",
+        "reporter": "Gavin Awerbuch",
+        "location": "Florida, US (24.652, -82.857), Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=24.65162,-82.8569333&ll=24.65162,-82.8569333",
+        "checklist": "https://ebird.org/checklist/S169224163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6785623,
+          21.2804135
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (1)",
+        "reported": "Apr 17, 2024 14:51",
+        "reporter": "Mandy Talpas -Hawaii Bird Tours",
+        "location": "Japanese Fishing Shrine, Honolulu, Hawaii",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=21.2804135,-157.6785623&ll=21.2804135,-157.6785623",
+        "checklist": "https://ebird.org/checklist/S169115906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6785623,
+          21.2804135
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (1)",
+        "reported": "Apr 17, 2024 14:51",
+        "reporter": "Hawaii Bird Tours",
+        "location": "Japanese Fishing Shrine, Honolulu, Hawaii",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=21.2804135,-157.6785623&ll=21.2804135,-157.6785623",
+        "checklist": "https://ebird.org/checklist/S169115907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.6785623,
+          21.2804135
+        ]
+      },
+      "properties": {
+        "species": "Masked Booby (Sula dactylatra) (1)",
+        "reported": "Apr 17, 2024 14:51",
+        "reporter": "Gary & Helen Smith",
+        "location": "Japanese Fishing Shrine, Honolulu, Hawaii",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=21.2804135,-157.6785623&ll=21.2804135,-157.6785623",
+        "checklist": "https://ebird.org/checklist/S169191897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1247311,
+          35.3535328
+        ]
+      },
+      "properties": {
+        "species": "Little Egret (Egretta garzetta) (1)",
+        "reported": "Apr 18, 2024 12:47",
+        "reporter": "Michelle Spacek",
+        "location": "14380-14498 North South 330, McLoud, Oklahoma, US (35.354, -97.125), Pottawatomie, Oklahoma",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3535328,-97.1247311&ll=35.3535328,-97.1247311",
+        "checklist": "https://ebird.org/checklist/S169190953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3793885,
+          26.1849709
+        ]
+      },
+      "properties": {
+        "species": "Hook-billed Kite (Chondrohierax uncinatus) (1)",
+        "reported": "Apr 18, 2024 10:09",
+        "reporter": "Leo Miller",
+        "location": "Bentsen-Rio Grande Val. SP WBC (Mission) (LTC 069), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1849709,-98.3793885&ll=26.1849709,-98.3793885",
+        "checklist": "https://ebird.org/checklist/S169233050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Hook-billed Kite (Chondrohierax uncinatus) (2)",
+        "reported": "Apr 18, 2024 07:39",
+        "reporter": "Ryan Rodriguez",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169198398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Hook-billed Kite (Chondrohierax uncinatus) (1)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Dan Ellison",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169201075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Hook-billed Kite (Chondrohierax uncinatus) (1)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Simon Kiacz",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169198594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Hook-billed Kite (Chondrohierax uncinatus) (1)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Scott Myers",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169199055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Hook-billed Kite (Chondrohierax uncinatus) (1)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Jeffrey Olsson",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169211335"
       }
     },
     {
@@ -1469,12 +1793,12 @@
         ]
       },
       "properties": {
-        "species": "Ferruginous Pygmy-Owl (Glaucidium brasilianum) (2)",
-        "reported": "Apr 16, 2024 07:52",
-        "reporter": "King Ranch",
+        "species": "Ferruginous Pygmy-Owl (Glaucidium brasilianum) (1)",
+        "reported": "Apr 17, 2024 07:42",
+        "reporter": "Barbara Rapstein",
         "location": "King Ranch--Norias Division (Kenedy Co.), Kenedy, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.7876524,-97.7707243&ll=26.7876524,-97.7707243",
-        "checklist": "https://ebird.org/checklist/S169043642"
+        "checklist": "https://ebird.org/checklist/S169112492"
       }
     },
     {
@@ -1489,28 +1813,10 @@
       "properties": {
         "species": "Ferruginous Pygmy-Owl (Ferruginous) (Glaucidium brasilianum [brasilianum Group]) (2)",
         "reported": "Apr 16, 2024 07:45",
-        "reporter": "David Cohen",
+        "reporter": "null",
         "location": "King Ranch--Norias Division--Center/HQ area, Kenedy, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.7721022,-97.7013494&ll=26.7721022,-97.7013494",
-        "checklist": "https://ebird.org/checklist/S168969528"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.16409,
-          27.691723
-        ]
-      },
-      "properties": {
-        "species": "Aplomado Falcon (Falco femoralis) (1)",
-        "reported": "Apr 17, 2024 16:05",
-        "reporter": "Mike Terenzoni",
-        "location": "8087?8095 SH-361, Corpus Christi US-TX 27.69172, -97.16409, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.691723,-97.16409&ll=27.691723,-97.16409",
-        "checklist": "https://ebird.org/checklist/S169082434"
+        "checklist": "https://ebird.org/checklist/S169107790"
       }
     },
     {
@@ -1524,11 +1830,11 @@
       },
       "properties": {
         "species": "Aplomado Falcon (Falco femoralis) (1)",
-        "reported": "Apr 17, 2024 16:50",
-        "reporter": "C Gross",
+        "reported": "Apr 18, 2024 10:50",
+        "reporter": "Julia Smith",
         "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
-        "checklist": "https://ebird.org/checklist/S169087634"
+        "checklist": "https://ebird.org/checklist/S169224492"
       }
     },
     {
@@ -1542,11 +1848,11 @@
       },
       "properties": {
         "species": "Aplomado Falcon (Falco femoralis) (1)",
-        "reported": "Apr 17, 2024 14:40",
-        "reporter": "Chris Wills",
+        "reported": "Apr 18, 2024 08:44",
+        "reporter": "Tami Motte",
         "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
-        "checklist": "https://ebird.org/checklist/S169091286"
+        "checklist": "https://ebird.org/checklist/S169221645"
       }
     },
     {
@@ -1560,11 +1866,11 @@
       },
       "properties": {
         "species": "Aplomado Falcon (Falco femoralis) (1)",
-        "reported": "Apr 17, 2024 14:24",
-        "reporter": "Dan Haas",
+        "reported": "Apr 18, 2024 08:44",
+        "reporter": "Eddy Edwards",
         "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
-        "checklist": "https://ebird.org/checklist/S169066699"
+        "checklist": "https://ebird.org/checklist/S169216689"
       }
     },
     {
@@ -1578,11 +1884,11 @@
       },
       "properties": {
         "species": "Aplomado Falcon (Falco femoralis) (1)",
-        "reported": "Apr 17, 2024 14:05",
-        "reporter": "David Smith",
+        "reported": "Apr 17, 2024 14:04",
+        "reporter": "Cris Heins",
         "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
-        "checklist": "https://ebird.org/checklist/S169081432"
+        "checklist": "https://ebird.org/checklist/S169105531"
       }
     },
     {
@@ -1590,89 +1896,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3272438,
-          26.0913939
-        ]
-      },
-      "properties": {
-        "species": "Aplomado Falcon (Falco femoralis) (2)",
-        "reported": "Apr 16, 2024 18:42",
-        "reporter": "Bill Eisele",
-        "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
-        "checklist": "https://ebird.org/checklist/S168964589"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3272438,
-          26.0913939
-        ]
-      },
-      "properties": {
-        "species": "Aplomado Falcon (Falco femoralis) (2)",
-        "reported": "Apr 16, 2024 18:42",
-        "reporter": "Ezekiel Dobson",
-        "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
-        "checklist": "https://ebird.org/checklist/S168984851"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.1548462,
-          27.7092858
+          -97.1668678,
+          27.6883981
         ]
       },
       "properties": {
         "species": "Aplomado Falcon (Falco femoralis) (1)",
-        "reported": "Apr 16, 2024 14:36",
-        "reporter": "Myron Peterson",
-        "location": "Mollie Beattie Coastal Habitat Community, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7092858,-97.1548462&ll=27.7092858,-97.1548462",
-        "checklist": "https://ebird.org/checklist/S168977545"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.191494,
-          27.652906
-        ]
-      },
-      "properties": {
-        "species": "Aplomado Falcon (Falco femoralis) (2)",
-        "reported": "Apr 16, 2024 07:58",
-        "reporter": "Myron Peterson",
-        "location": "Mustang Island State Park, access road north of Corpus Christi Pass, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.652906,-97.191494&ll=27.652906,-97.191494",
-        "checklist": "https://ebird.org/checklist/S168969821"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.29624,
-          26.09276
-        ]
-      },
-      "properties": {
-        "species": "Aplomado Falcon (Falco femoralis) (1)",
-        "reported": "Apr 17, 2024 09:33",
+        "reported": "Apr 17, 2024 17:25",
         "reporter": "Anonymous eBirder",
-        "location": "South Texas Ecotourism Center, Cameron, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.09276,-97.29624&ll=26.09276,-97.29624",
-        "checklist": "https://ebird.org/checklist/S169037246"
+        "location": "Hwy361/Mustang Island SP, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6883981,-97.1668678&ll=27.6883981,-97.1668678",
+        "checklist": "https://ebird.org/checklist/S169113983"
       }
     },
     {
@@ -1680,17 +1914,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.1162062,
-          26.5148584
+          -97.1668678,
+          27.6883981
         ]
       },
       "properties": {
-        "species": "Rose-throated Becard (Pachyramphus aglaiae) (2)",
-        "reported": "Apr 17, 2024 16:48",
-        "reporter": "Jonathan Mist",
-        "location": "Saline?o Wildlife Preserve (LTC 080), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
-        "checklist": "https://ebird.org/checklist/S169089899"
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 17, 2024 17:25",
+        "reporter": "Wendi Leonard",
+        "location": "Hwy361/Mustang Island SP, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6883981,-97.1668678&ll=27.6883981,-97.1668678",
+        "checklist": "https://ebird.org/checklist/S169113920"
       }
     },
     {
@@ -1698,17 +1932,575 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.1162062,
-          26.5148584
+          -97.16353,
+          27.692173
         ]
       },
       "properties": {
-        "species": "Rose-throated Becard (Pachyramphus aglaiae) (2)",
-        "reported": "Apr 17, 2024 16:45",
-        "reporter": "Zadok P",
-        "location": "Saline?o Wildlife Preserve (LTC 080), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
-        "checklist": "https://ebird.org/checklist/S169089715"
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 18, 2024 15:20",
+        "reporter": "Michael Hershberger",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169227312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 18, 2024 14:17",
+        "reporter": "Doug Hommert",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169224578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 18, 2024 14:17",
+        "reporter": "Dave haenni",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169200965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 18, 2024 08:16",
+        "reporter": "Dilka Murtazina",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169150645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 17, 2024 17:02",
+        "reporter": "Catherine Bland",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169116397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 17, 2024 17:02",
+        "reporter": "Ethan Kistler",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169116269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 17, 2024 17:02",
+        "reporter": "Russell Cockman",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169207841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 17, 2024 17:02",
+        "reporter": "Nick Rutter",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169133265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 17, 2024 17:02",
+        "reporter": "Eunice Schroeder",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169116537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 17, 2024 17:02",
+        "reporter": "Lindsey Walters",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169116398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 17, 2024 09:30",
+        "reporter": "Stephan Lorenz",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169110313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16353,
+          27.692173
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (2)",
+        "reported": "Apr 17, 2024 09:30",
+        "reporter": "null",
+        "location": "Mustang Island SP?Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S169113579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1914944,
+          27.651883
+        ]
+      },
+      "properties": {
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Apr 18, 2024 07:22",
+        "reporter": "Terry  Little",
+        "location": "Mustang Island State Park (Corpus Christi Pass), Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.651883,-97.1914944&ll=27.651883,-97.1914944",
+        "checklist": "https://ebird.org/checklist/S169142531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1)",
+        "reported": "Apr 18, 2024 16:04",
+        "reporter": "Dale Gawlik",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169217638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1)",
+        "reported": "Apr 18, 2024 13:31",
+        "reporter": "Michael Hershberger",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169224687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1)",
+        "reported": "Apr 18, 2024 12:10",
+        "reporter": "Dave haenni",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169184485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1)",
+        "reported": "Apr 18, 2024 12:10",
+        "reporter": "Cornelius Alwood",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169239079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1)",
+        "reported": "Apr 18, 2024 12:10",
+        "reporter": "Doug Hommert",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169224517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1)",
+        "reported": "Apr 18, 2024 11:55",
+        "reporter": "Arman Moreno",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169187170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 18:14",
+        "reporter": "Frode Jacobsen",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169107976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 14:30",
+        "reporter": "Michael Richter",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169115431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 11:02",
+        "reporter": "Jill  Oettinger  Boyter",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169108249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 11:02",
+        "reporter": "Wendi Leonard",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169110785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 11:02",
+        "reporter": "Anonymous eBirder",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169114040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 11:02",
+        "reporter": "Kenneth Butler",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169105143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 11:02",
+        "reporter": "Sharon Noack",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169109779"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 11:02",
+        "reporter": "Katchy McCall",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169222557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 09:25",
+        "reporter": "Steve Sack",
+        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S169108943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 11:25",
+        "reporter": "Bill George",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S169148400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 14, 2024 13:10",
+        "reporter": "Fran Meyerson",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S169116965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1)",
+        "reported": "Apr 14, 2024 11:41",
+        "reporter": "Margaret Lanier",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S169220361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.718157,
+          27.6327266
+        ]
+      },
+      "properties": {
+        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
+        "reported": "Apr 13, 2024 07:18",
+        "reporter": "Paula Lopes",
+        "location": "Fort De Soto Park, Pinellas, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
+        "checklist": "https://ebird.org/checklist/S168451243"
       }
     },
     {
@@ -1721,462 +2513,12 @@
         ]
       },
       "properties": {
-        "species": "Rose-throated Becard (Pachyramphus aglaiae) (2) CONFIRMED",
-        "reported": "Apr 11, 2024 06:39",
-        "reporter": "Diane Bowden",
+        "species": "Brown Jay (Psilorhinus morio) (3)",
+        "reported": "Apr 18, 2024 07:39",
+        "reporter": "Ryan Rodriguez",
         "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
-        "checklist": "https://ebird.org/checklist/S169024298"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.022495,
-          32.278549
-        ]
-      },
-      "properties": {
-        "species": "Rose-throated Becard (Pachyramphus aglaiae) (1)",
-        "reported": "Apr 17, 2024 09:35",
-        "reporter": "John Erasmus",
-        "location": "Sweetwater Wetlands, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=32.278549,-111.022495&ll=32.278549,-111.022495",
-        "checklist": "https://ebird.org/checklist/S169053008"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 15:29",
-        "reporter": "Christina  Parks",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S169074476"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 15:29",
-        "reporter": "Sarah Roper",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S169074475"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 15:29",
-        "reporter": "Tricia Gardner",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S169074474"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 13:58",
-        "reporter": "Mike Terenzoni",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S169069808"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 18:20",
-        "reporter": "Sharon Fodness",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S168975496"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 17:55",
-        "reporter": "Teri Wills",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S168979167"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 17:55",
-        "reporter": "Chris Wills",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S168979166"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 12:30",
-        "reporter": "Anonymous eBirder",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S168966145"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3933977,
-          27.7948673
-        ]
-      },
-      "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
-        "reported": "Apr 15, 2024 16:18",
-        "reporter": "Valerie Johnson",
-        "location": "Cattle Tyrant stakeout?Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S168999852"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 10:15",
-        "reporter": "Roberta Blair",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S169028798"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 09:12",
-        "reporter": "Glenn Turner",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168979423"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 08:25",
-        "reporter": "4paul bird",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168980037"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 08:03",
-        "reporter": "jack foard",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168981717"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 08:03",
-        "reporter": "Michael Weisensee",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168963309"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 08:03",
-        "reporter": "Melissa Urda",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168994482"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 08:03",
-        "reporter": "Denise Rychlik",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168996274"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 08:03",
-        "reporter": "cheryl camp",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S169007369"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 08:03",
-        "reporter": "Cheryl Gish",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S169020714"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 14, 2024 10:57",
-        "reporter": "Hannah Baker",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168983380"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 14, 2024 10:19",
-        "reporter": "Paul Sykes",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168995739"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 14, 2024 07:30",
-        "reporter": "Carl Edwards",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168969766"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 14, 2024 07:30",
-        "reporter": "Mary Dunning",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168971288"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 14, 2024 07:30",
-        "reporter": "Therese Aubin",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168972574"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.718157,
-          27.6327266
-        ]
-      },
-      "properties": {
-        "species": "Piratic Flycatcher (Legatus leucophaius) (1) CONFIRMED",
-        "reported": "Apr 13, 2024 08:26",
-        "reporter": "Jim Morris",
-        "location": "Fort De Soto Park, Pinellas, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.6327266,-82.718157&ll=27.6327266,-82.718157",
-        "checklist": "https://ebird.org/checklist/S168983333"
+        "checklist": "https://ebird.org/checklist/S169198398"
       }
     },
     {
@@ -2189,12 +2531,120 @@
         ]
       },
       "properties": {
-        "species": "Brown Jay (Psilorhinus morio) (3) CONFIRMED",
-        "reported": "Apr 11, 2024 06:39",
-        "reporter": "Diane Bowden",
+        "species": "Brown Jay (Psilorhinus morio) (3)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Jeffrey Olsson",
         "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
-        "checklist": "https://ebird.org/checklist/S169024298"
+        "checklist": "https://ebird.org/checklist/S169211335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Scott Myers",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169199055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Simon Kiacz",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169198594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (3)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Dan Ellison",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169201075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (2)",
+        "reported": "Apr 17, 2024 07:02",
+        "reporter": "Carlton Cook",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169178045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Brown Jay (Psilorhinus morio) (2)",
+        "reported": "Apr 17, 2024 07:02",
+        "reporter": "Cameron Cox",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169162907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.764544,
+          31.535695
+        ]
+      },
+      "properties": {
+        "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
+        "reported": "Apr 18, 2024 10:21",
+        "reporter": "Darren Singer",
+        "location": "150 Blue Heaven Rd, Patagonia US-AZ (31.5357,-110.7645), Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.535695,-110.764544&ll=31.535695,-110.764544",
+        "checklist": "https://ebird.org/checklist/S169186228"
       }
     },
     {
@@ -2208,29 +2658,11 @@
       },
       "properties": {
         "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 10:11",
+        "reported": "Apr 18, 2024 09:31",
         "reporter": "Donna Bazzo",
         "location": "273 camino Panama, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.489506,-110.991979&ll=31.489506,-110.991979",
-        "checklist": "https://ebird.org/checklist/S169055640"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.991979,
-          31.489506
-        ]
-      },
-      "properties": {
-        "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 12:21",
-        "reporter": "Randy Smith",
-        "location": "273 camino Panama, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.489506,-110.991979&ll=31.489506,-110.991979",
-        "checklist": "https://ebird.org/checklist/S168973956"
+        "checklist": "https://ebird.org/checklist/S169188526"
       }
     },
     {
@@ -2243,12 +2675,48 @@
         ]
       },
       "properties": {
-        "species": "Rufous-backed Robin (Turdus rufopalliatus) (3) CONFIRMED",
-        "reported": "Apr 15, 2024 06:53",
-        "reporter": "Debbie Turner",
+        "species": "Rufous-backed Robin (Turdus rufopalliatus) (2) CONFIRMED",
+        "reported": "Apr 18, 2024 09:50",
+        "reporter": "Cynthia Donaldson",
         "location": "Blue Haven Rd--between Paton's and the Preserve, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.536229,-110.7641327&ll=31.536229,-110.7641327",
-        "checklist": "https://ebird.org/checklist/S169035946"
+        "checklist": "https://ebird.org/checklist/S169186664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7641327,
+          31.536229
+        ]
+      },
+      "properties": {
+        "species": "Rufous-backed Robin (Turdus rufopalliatus) (2) CONFIRMED",
+        "reported": "Apr 18, 2024 09:42",
+        "reporter": "Kathy Donaldson",
+        "location": "Blue Haven Rd--between Paton's and the Preserve, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.536229,-110.7641327&ll=31.536229,-110.7641327",
+        "checklist": "https://ebird.org/checklist/S169199519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.577085,
+          46.5912515
+        ]
+      },
+      "properties": {
+        "species": "Brambling (Fringilla montifringilla) (1) CONFIRMED",
+        "reported": "Apr 17, 2024 16:00",
+        "reporter": "Les Gunderson",
+        "location": "140 5th st, Perham, MN, Otter Tail, Minnesota",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.5912515,-95.577085&ll=46.5912515,-95.577085",
+        "checklist": "https://ebird.org/checklist/S169107231"
       }
     },
     {
@@ -2261,12 +2729,12 @@
         ]
       },
       "properties": {
-        "species": "Streak-backed Oriole (Icterus pustulatus) (1) CONFIRMED",
-        "reported": "Apr 16, 2024 16:27",
-        "reporter": "Ryan St. Louis",
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 18, 2024 10:11",
+        "reporter": "Eric Dean",
         "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
-        "checklist": "https://ebird.org/checklist/S168980587"
+        "checklist": "https://ebird.org/checklist/S169205752"
       }
     },
     {
@@ -2274,17 +2742,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.5472946,
-          25.407384
+          -111.7339478,
+          33.3614502
         ]
       },
       "properties": {
-        "species": "Shiny Cowbird (Molothrus bonariensis) (1)",
-        "reported": "Apr 16, 2024 17:14",
-        "reporter": "Neo Morpheus",
-        "location": "Agricultural Fields--SW 217th Ave. x SW 384th St., Miami-Dade, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.407384,-80.5472946&ll=25.407384,-80.5472946",
-        "checklist": "https://ebird.org/checklist/S168986728"
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 18, 2024 06:27",
+        "reporter": "Jason Vassallo",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S169168613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7339478,
+          33.3614502
+        ]
+      },
+      "properties": {
+        "species": "Streak-backed Oriole (Icterus pustulatus) (1)",
+        "reported": "Apr 18, 2024 06:27",
+        "reporter": "Alex Meilleur",
+        "location": "Riparian Preserve at Gilbert Water Ranch, Maricopa, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.3614502,-111.7339478&ll=33.3614502,-111.7339478",
+        "checklist": "https://ebird.org/checklist/S169236804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9255,
+          25.1416
+        ]
+      },
+      "properties": {
+        "species": "Shiny Cowbird (Molothrus bonariensis) (2) CONFIRMED",
+        "reported": "Apr 18, 2024 13:03",
+        "reporter": "Josh Bernstein",
+        "location": "Everglades NP--Flamingo, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.1416,-80.9255&ll=25.1416,-80.9255",
+        "checklist": "https://ebird.org/checklist/S169203842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9255,
+          25.1416
+        ]
+      },
+      "properties": {
+        "species": "Shiny Cowbird (Molothrus bonariensis) (2) CONFIRMED",
+        "reported": "Apr 18, 2024 13:03",
+        "reporter": "Brian Bobowski",
+        "location": "Everglades NP--Flamingo, Monroe, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.1416,-80.9255&ll=25.1416,-80.9255",
+        "checklist": "https://ebird.org/checklist/S169193510"
       }
     },
     {
@@ -2298,11 +2820,11 @@
       },
       "properties": {
         "species": "Shiny Cowbird (Molothrus bonariensis) (1)",
-        "reported": "Apr 16, 2024 14:06",
-        "reporter": "Andrew Lydeard",
+        "reported": "Apr 18, 2024 13:45",
+        "reporter": "Franklin Chalk",
         "location": "Fort Morgan State Historic Site, Baldwin, Alabama",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.2294449,-88.0180432&ll=30.2294449,-88.0180432",
-        "checklist": "https://ebird.org/checklist/S168997803"
+        "checklist": "https://ebird.org/checklist/S169232228"
       }
     },
     {
@@ -2310,17 +2832,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.0105627,
-          30.2310581
+          -88.0180432,
+          30.2294449
         ]
       },
       "properties": {
         "species": "Shiny Cowbird (Molothrus bonariensis) (1)",
-        "reported": "Apr 17, 2024 08:09",
-        "reporter": "Douglas Hamm",
-        "location": "Fort Morgan--Stables, Baldwin, Alabama",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.2310581,-88.0105627&ll=30.2310581,-88.0105627",
-        "checklist": "https://ebird.org/checklist/S169027703"
+        "reported": "Apr 18, 2024 13:38",
+        "reporter": "Tina Hughes",
+        "location": "Fort Morgan State Historic Site, Baldwin, Alabama",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.2294449,-88.0180432&ll=30.2294449,-88.0180432",
+        "checklist": "https://ebird.org/checklist/S169208050"
       }
     },
     {
@@ -2328,17 +2850,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.0105627,
-          30.2310581
+          -88.0180432,
+          30.2294449
         ]
       },
       "properties": {
         "species": "Shiny Cowbird (Molothrus bonariensis) (1)",
-        "reported": "Apr 16, 2024 13:30",
-        "reporter": "Roseanna Denton",
-        "location": "Fort Morgan--Stables, Baldwin, Alabama",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.2310581,-88.0105627&ll=30.2310581,-88.0105627",
-        "checklist": "https://ebird.org/checklist/S168975411"
+        "reported": "Apr 18, 2024 11:12",
+        "reporter": "Susan Ledlow",
+        "location": "Fort Morgan State Historic Site, Baldwin, Alabama",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.2294449,-88.0180432&ll=30.2294449,-88.0180432",
+        "checklist": "https://ebird.org/checklist/S169190793"
       }
     },
     {
@@ -2346,17 +2868,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.0105627,
-          30.2310581
+          -97.7707243,
+          26.7876524
         ]
       },
       "properties": {
-        "species": "Shiny Cowbird (Molothrus bonariensis) (1)",
-        "reported": "Apr 16, 2024 13:30",
-        "reporter": "Happy Chambers",
-        "location": "Fort Morgan--Stables, Baldwin, Alabama",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.2310581,-88.0105627&ll=30.2310581,-88.0105627",
-        "checklist": "https://ebird.org/checklist/S169022591"
+        "species": "Tropical Parula (Setophaga pitiayumi) (1)",
+        "reported": "Apr 17, 2024 07:42",
+        "reporter": "Barbara Rapstein",
+        "location": "King Ranch--Norias Division (Kenedy Co.), Kenedy, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.7876524,-97.7707243&ll=26.7876524,-97.7707243",
+        "checklist": "https://ebird.org/checklist/S169112492"
       }
     },
     {
@@ -2364,17 +2886,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.0105627,
-          30.2310581
+          -99.5762582,
+          29.8155087
         ]
       },
       "properties": {
-        "species": "Shiny Cowbird (Molothrus bonariensis) (1)",
-        "reported": "Apr 16, 2024 13:30",
-        "reporter": "Patty Horner",
-        "location": "Fort Morgan--Stables, Baldwin, Alabama",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=30.2310581,-88.0105627&ll=30.2310581,-88.0105627",
-        "checklist": "https://ebird.org/checklist/S168975001"
+        "species": "Tropical Parula (Setophaga pitiayumi) (1) CONFIRMED",
+        "reported": "Apr 16, 2024 15:42",
+        "reporter": "Cornelius Alwood",
+        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
+        "checklist": "https://ebird.org/checklist/S169141507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5762582,
+          29.8155087
+        ]
+      },
+      "properties": {
+        "species": "Tropical Parula (Setophaga pitiayumi) (1) CONFIRMED",
+        "reported": "Apr 16, 2024 15:42",
+        "reporter": "Doug Hommert",
+        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
+        "checklist": "https://ebird.org/checklist/S169139959"
       }
     },
     {
@@ -2388,11 +2928,11 @@
       },
       "properties": {
         "species": "Tropical Parula (Setophaga pitiayumi) (1)",
-        "reported": "Apr 16, 2024 08:47",
-        "reporter": "Jim Malcom",
+        "reported": "Apr 15, 2024 09:07",
+        "reporter": "Rachel Myers",
         "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
-        "checklist": "https://ebird.org/checklist/S168975848"
+        "checklist": "https://ebird.org/checklist/S169219991"
       }
     },
     {
@@ -2400,17 +2940,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.5762582,
-          29.8155087
+          -99.7121608,
+          29.494444
         ]
       },
       "properties": {
         "species": "Tropical Parula (Setophaga pitiayumi) (1)",
-        "reported": "Apr 14, 2024 17:30",
-        "reporter": "Anne Geraghty",
-        "location": "Lost Maples SNA (HOTW 061), Bandera, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8155087,-99.5762582&ll=29.8155087,-99.5762582",
-        "checklist": "https://ebird.org/checklist/S168988957"
+        "reported": "Apr 18, 2024 17:18",
+        "reporter": "JoAnna Clayton",
+        "location": "Neal's Lodges- Dining Room area, Uvalde, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.494444,-99.7121608&ll=29.494444,-99.7121608",
+        "checklist": "https://ebird.org/checklist/S169229266"
       }
     },
     {
@@ -2418,17 +2958,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.5879316,
-          29.8204657
+          -99.7121608,
+          29.494444
         ]
       },
       "properties": {
         "species": "Tropical Parula (Setophaga pitiayumi) (1)",
-        "reported": "Apr 16, 2024 12:06",
-        "reporter": "Graham Hamby",
-        "location": "Lost Maples SNA--West Trail, Bandera, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.8204657,-99.5879316&ll=29.8204657,-99.5879316",
-        "checklist": "https://ebird.org/checklist/S169042668"
+        "reported": "Apr 18, 2024 17:06",
+        "reporter": "Francis Fekel",
+        "location": "Neal's Lodges- Dining Room area, Uvalde, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=29.494444,-99.7121608&ll=29.494444,-99.7121608",
+        "checklist": "https://ebird.org/checklist/S169227930"
       }
     },
     {
@@ -2443,10 +2983,10 @@
       "properties": {
         "species": "Tropical Parula (Setophaga pitiayumi) (1)",
         "reported": "Apr 13, 2024 07:20",
-        "reporter": "Bob Dunn",
+        "reporter": "Janet Ellis",
         "location": "Santa Ana NWR (LTC 059), Hidalgo, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0813003,-98.1351399&ll=26.0813003,-98.1351399",
-        "checklist": "https://ebird.org/checklist/S169085240"
+        "checklist": "https://ebird.org/checklist/S169117957"
       }
     },
     {
@@ -2454,17 +2994,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.2309932,
-          26.176876
+          -97.9897937,
+          26.1479755
         ]
       },
       "properties": {
-        "species": "Flame-colored Tanager (Piranga bidentata) (1) CONFIRMED",
-        "reported": "Apr 12, 2024 10:54",
-        "reporter": "Doug Roberts",
-        "location": "Quinta Mazatlan WBC (LTC 063), Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.176876,-98.2309932&ll=26.176876,-98.2309932",
-        "checklist": "https://ebird.org/checklist/S168982433"
+        "species": "Crimson-collared Grosbeak (Periporphyrus celaeno) (1)",
+        "reported": "Apr 18, 2024 12:54",
+        "reporter": "Matthew York",
+        "location": "Frontera Audubon Center (LTC 058), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1479755,-97.9897937&ll=26.1479755,-97.9897937",
+        "checklist": "https://ebird.org/checklist/S169206760"
       }
     },
     {
@@ -2472,17 +3012,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.9585648,
-          26.124386
+          -97.9897937,
+          26.1479755
         ]
       },
       "properties": {
-        "species": "Crimson-collared Grosbeak (Periporphyrus celaeno) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 09:37",
-        "reporter": "Janet Saczawa",
-        "location": "Estero Llano Grande SP--Tropical Zone, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.124386,-97.9585648&ll=26.124386,-97.9585648",
-        "checklist": "https://ebird.org/checklist/S169081772"
+        "species": "Crimson-collared Grosbeak (Periporphyrus celaeno) (1)",
+        "reported": "Apr 18, 2024 12:12",
+        "reporter": "Derek Hudgins",
+        "location": "Frontera Audubon Center (LTC 058), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1479755,-97.9897937&ll=26.1479755,-97.9897937",
+        "checklist": "https://ebird.org/checklist/S169204664"
       }
     },
     {
@@ -2490,35 +3030,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.9585648,
-          26.124386
+          -97.9897937,
+          26.1479755
         ]
       },
       "properties": {
-        "species": "Crimson-collared Grosbeak (Periporphyrus celaeno) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 09:37",
-        "reporter": "Ron Pozzi",
-        "location": "Estero Llano Grande SP--Tropical Zone, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.124386,-97.9585648&ll=26.124386,-97.9585648",
-        "checklist": "https://ebird.org/checklist/S169061204"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.9585648,
-          26.124386
-        ]
-      },
-      "properties": {
-        "species": "Crimson-collared Grosbeak (Periporphyrus celaeno) (1) CONFIRMED",
-        "reported": "Apr 17, 2024 09:37",
-        "reporter": "Alex Lamoreaux",
-        "location": "Estero Llano Grande SP--Tropical Zone, Hidalgo, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.124386,-97.9585648&ll=26.124386,-97.9585648",
-        "checklist": "https://ebird.org/checklist/S169053833"
+        "species": "Crimson-collared Grosbeak (Periporphyrus celaeno) (1)",
+        "reported": "Apr 18, 2024 12:12",
+        "reporter": "Olivia Babb",
+        "location": "Frontera Audubon Center (LTC 058), Hidalgo, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.1479755,-97.9897937&ll=26.1479755,-97.9897937",
+        "checklist": "https://ebird.org/checklist/S169204665"
       }
     },
     {
@@ -2533,82 +3055,10 @@
       "properties": {
         "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
         "reported": "Apr 17, 2024 16:48",
-        "reporter": "Jonathan Mist",
+        "reporter": "Caleb Pendleton",
         "location": "Saline?o Wildlife Preserve (LTC 080), Starr, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
-        "checklist": "https://ebird.org/checklist/S169089899"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.1162062,
-          26.5148584
-        ]
-      },
-      "properties": {
-        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
-        "reported": "Apr 17, 2024 16:48",
-        "reporter": "Justus P",
-        "location": "Saline?o Wildlife Preserve (LTC 080), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
-        "checklist": "https://ebird.org/checklist/S169090238"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.1162062,
-          26.5148584
-        ]
-      },
-      "properties": {
-        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
-        "reported": "Apr 17, 2024 16:45",
-        "reporter": "Zadok P",
-        "location": "Saline?o Wildlife Preserve (LTC 080), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
-        "checklist": "https://ebird.org/checklist/S169089715"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.1162062,
-          26.5148584
-        ]
-      },
-      "properties": {
-        "species": "Morelet's Seedeater (Sporophila morelleti) (2)",
-        "reported": "Apr 17, 2024 15:39",
-        "reporter": "Paul Dunbar",
-        "location": "Saline?o Wildlife Preserve (LTC 080), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
-        "checklist": "https://ebird.org/checklist/S169079329"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.1162062,
-          26.5148584
-        ]
-      },
-      "properties": {
-        "species": "Morelet's Seedeater (Sporophila morelleti) (1) CONFIRMED",
-        "reported": "Apr 15, 2024 09:36",
-        "reporter": "Jennifer Patten",
-        "location": "Saline?o Wildlife Preserve (LTC 080), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
-        "checklist": "https://ebird.org/checklist/S169078295"
+        "checklist": "https://ebird.org/checklist/S169215264"
       }
     },
     {
@@ -2621,12 +3071,12 @@
         ]
       },
       "properties": {
-        "species": "Morelet's Seedeater (Sporophila morelleti) (3) CONFIRMED",
-        "reported": "Apr 11, 2024 06:39",
-        "reporter": "Diane Bowden",
+        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Dan Ellison",
         "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
-        "checklist": "https://ebird.org/checklist/S169024298"
+        "checklist": "https://ebird.org/checklist/S169201075"
       }
     },
     {
@@ -2634,17 +3084,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.111007,
-          33.70973
+          -99.0923004,
+          26.4923992
         ]
       },
       "properties": {
-        "species": "Bananaquit (Coereba flaveola) (1)",
-        "reported": "Apr 16, 2024 20:11",
-        "reporter": "Savannah Bradford",
-        "location": "6855 Parkway Dr, Lithonia US-GA (33.7097,-84.1110), DeKalb, Georgia",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=33.70973,-84.111007&ll=33.70973,-84.111007",
-        "checklist": "https://ebird.org/checklist/S168970835"
+        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Simon Kiacz",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169198594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Jeffrey Olsson",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169211335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (1)",
+        "reported": "Apr 18, 2024 06:50",
+        "reporter": "Scott Myers",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169199055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (3)",
+        "reported": "Apr 17, 2024 07:02",
+        "reporter": "Cameron Cox",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169162907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0923004,
+          26.4923992
+        ]
+      },
+      "properties": {
+        "species": "Morelet's Seedeater (Sporophila morelleti) (3)",
+        "reported": "Apr 17, 2024 07:02",
+        "reporter": "Carlton Cook",
+        "location": "Santa Margarita Ranch (LTC 079)(Starr Co.)(limited guided access), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4923992,-99.0923004&ll=26.4923992,-99.0923004",
+        "checklist": "https://ebird.org/checklist/S169178045"
       }
     }
   ]
