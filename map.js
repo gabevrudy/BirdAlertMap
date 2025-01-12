@@ -54,11 +54,11 @@ function generatePopupContent(feature) {
             } 
             else if (propertyName === 'checklist') {
                 popupContent += "<b>" + prettifyPropertyName(propertyName) + "</b>" + ": " + "<a href='" + feature.properties[propertyName] + "' target='_blank'>" + feature.properties[propertyName] + "</a>" + "<br>";
+            } 
+            else {
+                popupContent += "<b>" + prettifyPropertyName(propertyName) + "</b>" + ": " + feature.properties[propertyName] + "<br>";
             }
-            else {    
-            popupContent += "<b>" + prettifyPropertyName(propertyName) + "</b>" + ": " + feature.properties[propertyName] + "<br>";
-        }
-    }}
+        }}
     popupContent += "</p>";
     return popupContent;
 }
@@ -85,6 +85,16 @@ function createCustomIcon(colorSuffix) {
     });
 }
 
+// LEGEND
+var legend = L.control({position: 'bottomright'});
+legend.onAdd = function (map) {
+    var div = L.DomUtil.create('div', 'info legend');
+    div.innerHTML += '<div class="legend-item"><img src="icons/drop-pin-blue.svg" class="legend-icon"> Year Needs Alert</div>';
+    div.innerHTML += '<div class="legend-item"><img src="icons/drop-pin-yellow.svg" class="legend-icon"> ABA Alert</div>';
+    div.innerHTML += '<div class="legend-item"><img src="icons/drop-pin-red.svg" class="legend-icon"> Life Needs Alert</div>';
+    return div;
+}
+legend.addTo(myMap);
 // Load in Test Data
 var mostRecentYearNeedsFile = baseURL + 'data/year_needs_alert.geojson';
 var mostRecentABAFile = baseURL + 'data/aba_alert.geojson';
