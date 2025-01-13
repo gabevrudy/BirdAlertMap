@@ -12,6 +12,8 @@ jobs:
       # Check out your repository code
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensure full history is fetched
 
       # Download the GeoJSON file from Google Drive
       - name: Download GeoJSON file
@@ -20,13 +22,18 @@ jobs:
           curl -L -o data/life_needs_alert.json "https://drive.google.com/uc?export=download&id=${{secrets.GDRIVE_FILE_ID_LIFE_NEEDS_ALERT}}"
           curl -L -o data/year_needs_alert.json "https://drive.google.com/uc?export=download&id=${{secrets.GDRIVE_FILE_ID_YEAR_NEEDS_ALERT}}"
 
-      # Commit the updated file to the repository
+      # Commit and push changes
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+
+          # Pull the latest changes with rebase
           git pull --rebase origin main || echo "No changes to rebase"
+
+          # Add and commit changes
           git add data/aba_alert.json data/life_needs_alert.json data/year_needs_alert.json
           git commit -m "Update GeoJSON file" || echo "No changes to commit"
-          git push
 
+          # Push changes, retry with force if needed
+          git push || (git pull --rebase origin main && git push --force)
