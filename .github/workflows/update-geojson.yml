@@ -19,9 +19,9 @@ jobs:
       # Step 2: Download the GeoJSON files from Google Drive
       - name: Download GeoJSON files from Google Drive
         run: |
-          curl -L -o data/aba_alert.json "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_ABA_ALERT }}"
-          curl -L -o data/life_needs_alert.json "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_LIFE_NEEDS_ALERT }}"
-          curl -L -o data/year_needs_alert.json "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_YEAR_NEEDS_ALERT }}"
+          curl -L -o data/aba_alert.geojson "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_ABA_ALERT }}"
+          curl -L -o data/life_needs_alert.geojson "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_LIFE_NEEDS_ALERT }}"
+          curl -L -o data/year_needs_alert.geojson "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_YEAR_NEEDS_ALERT }}"
 
       # Step 3: Commit and push the changes
       - name: Commit and push changes
@@ -33,7 +33,7 @@ jobs:
           git pull --rebase origin main || echo "No changes to rebase"
 
           # Add and commit the downloaded files
-          git add data/aba_alert.json data/life_needs_alert.json data/year_needs_alert.json
+          git add data/aba_alert.geojson data/life_needs_alert.geojson data/year_needs_alert.geojson
           git commit -m "Update GeoJSON files from Google Drive" || echo "No changes to commit"
 
           # Push the changes. Retry with force if necessary.
