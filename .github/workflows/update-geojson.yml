@@ -1,39 +1,30 @@
 name: Update GeoJSON File
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs once every day at midnight (UTC)
-  workflow_dispatch:  # Allows you to trigger the action manually
+  push:
+    paths:
+      - 'path/to/GeoJSON/file/**'
 
 jobs:
-  fetch-and-update-geojson:
+  update-geojson:
     runs-on: ubuntu-latest
+
     steps:
-      # Check out your repository code
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # Ensure full history is fetched
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      # Download the GeoJSON file from Google Drive
-      - name: Download GeoJSON file
-        run: |
-          curl -L -o data/aba_alert.json "https://drive.google.com/uc?export=download&id=${{secrets.GDRIVE_FILE_ID_ABA_ALERT}}"
-          curl -L -o data/life_needs_alert.json "https://drive.google.com/uc?export=download&id=${{secrets.GDRIVE_FILE_ID_LIFE_NEEDS_ALERT}}"
-          curl -L -o data/year_needs_alert.json "https://drive.google.com/uc?export=download&id=${{secrets.GDRIVE_FILE_ID_YEAR_NEEDS_ALERT}}"
+    - name: Pull latest changes
+      run: git pull origin main
 
-      # Commit and push changes
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+    - name: Update GeoJSON file
+      run: |
+        # Your commands to update the GeoJSON file
+        echo "Updating GeoJSON file"
 
-          # Pull the latest changes with rebase
-          git pull --rebase origin main || echo "No changes to rebase"
-
-          # Add and commit changes
-          git add data/aba_alert.json data/life_needs_alert.json data/year_needs_alert.json
-          git commit -m "Update GeoJSON file" || echo "No changes to commit"
-
-          # Push changes, retry with force if needed
-          git push || (git pull --rebase origin main && git push --force)
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m 'Update GeoJSON file'
+        git push origin main
