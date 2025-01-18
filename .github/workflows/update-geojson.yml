@@ -1,32 +1,41 @@
 name: Update GeoJSON File
 
 on:
-  push:
-    paths:
-      - 'path/to/GeoJSON/file/**'
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
-  update-geojson:
+  fetch-and-update-geojson:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch the entire history to handle rebase
 
-    - name: Force Pull Latest Changes
-      run: |
-        git config user.name 'github-actions[bot]'
-        git config user.email 'github-actions[bot]@users.noreply.github.com'
-        git fetch origin
-        git reset --hard origin/main
+      # Step 2: Download the GeoJSON files from Google Drive
+      - name: Download GeoJSON files from Google Drive
+        run: |
+          curl -L -o data/aba_alert.json "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_ABA_ALERT }}"
+          curl -L -o data/life_needs_alert.json "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_LIFE_NEEDS_ALERT }}"
+          curl -L -o data/year_needs_alert.json "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_YEAR_NEEDS_ALERT }}"
 
-    - name: Update GeoJSON file
-      run: |
-        # Your commands to update the GeoJSON file
-        echo "Updating GeoJSON file"
+      # Step 3: Commit and push the changes
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          # Pull the latest changes with rebase to avoid conflicts
+          git pull --rebase origin main || echo "No changes to rebase"
 
-    - name: Commit and Push Overwriting Remote
-      run: |
-        git add .
-        git commit -m 'Update GeoJSON file' || echo "No changes to commit"
-        git push --force origin main
+          # Add and commit the downloaded files
+          git add data/aba_alert.json data/life_needs_alert.json data/year_needs_alert.json
+          git commit -m "Update GeoJSON files from Google Drive" || echo "No changes to commit"
+
+          # Push the changes. Retry with force if necessary.
+          git push || (git pull --rebase origin main && git push --force)
+
