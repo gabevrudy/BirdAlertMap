@@ -2,7 +2,7 @@ name: Update GeoJSON File
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
@@ -14,28 +14,28 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch the entire history to handle rebase
+          fetch-depth: 0  # Fetch the entire history to avoid issues with rebase
 
       # Step 2: Download the GeoJSON files from Google Drive
-      - name: Download GeoJSON files from Google Drive
+      - name: Download GeoJSON files
         run: |
           curl -L -o data/aba_alert.geojson "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_ABA_ALERT }}"
           curl -L -o data/life_needs_alert.geojson "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_LIFE_NEEDS_ALERT }}"
           curl -L -o data/year_needs_alert.geojson "https://drive.google.com/uc?export=download&id=${{ secrets.GDRIVE_FILE_ID_YEAR_NEEDS_ALERT }}"
 
-      # Step 3: Commit and push the changes
-      - name: Commit and push changes
+      # Step 3: Commit and force push changes
+      - name: Commit and force push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           
-          # Pull the latest changes with rebase to avoid conflicts
-          git pull --rebase origin main || echo "No changes to rebase"
+          # Reset the branch to match the remote to avoid rebase errors
+          git fetch origin
+          git reset --soft origin/main  # Retain changes but synchronize with remote
 
           # Add and commit the downloaded files
           git add data/aba_alert.geojson data/life_needs_alert.geojson data/year_needs_alert.geojson
           git commit -m "Update GeoJSON files from Google Drive" || echo "No changes to commit"
 
-          # Push the changes. Retry with force if necessary.
-          git push || (git pull --rebase origin main && git push --force)
-
+          # Force push to overwrite remote
+          git push --force origin main
