@@ -13,18 +13,20 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Pull latest changes
-      run: git pull origin main
+    - name: Force Pull Latest Changes
+      run: |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git fetch origin
+        git reset --hard origin/main
 
     - name: Update GeoJSON file
       run: |
         # Your commands to update the GeoJSON file
         echo "Updating GeoJSON file"
 
-    - name: Commit and push changes
+    - name: Commit and Push Overwriting Remote
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add .
-        git commit -m 'Update GeoJSON file'
-        git push origin main
+        git commit -m 'Update GeoJSON file' || echo "No changes to commit"
+        git push --force origin main
