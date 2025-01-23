@@ -13,10 +13,10 @@
       "properties": {
         "species": "Eurasian Wigeon (Mareca penelope) (1)",
         "reported": "Jan 19, 2025 13:09",
-        "reporter": "Joan Ling-Zwissler",
+        "reporter": "Morro Bay Bird Festival",
         "location": "Elfin Forest Preserve, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3337626,-120.8267537&ll=35.3337626,-120.8267537",
-        "checklist": "https://ebird.org/checklist/S210089591"
+        "checklist": "https://ebird.org/checklist/S210212185"
       }
     },
     {
@@ -24,269 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8302362,
-          35.3331065
+          -120.6207848,
+          35.0302072
         ]
       },
       "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (2)",
-        "reported": "Jan 18, 2025 12:21",
-        "reporter": "Matthew Bornhorst",
-        "location": "Elfin Forest Preserve--Lupine Point Overlook, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3331065,-120.8302362&ll=35.3331065,-120.8302362",
-        "checklist": "https://ebird.org/checklist/S210121335"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8302362,
-          35.3331065
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (2)",
-        "reported": "Jan 18, 2025 12:21",
-        "reporter": "Laura krasnow",
-        "location": "Elfin Forest Preserve--Lupine Point Overlook, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3331065,-120.8302362&ll=35.3331065,-120.8302362",
-        "checklist": "https://ebird.org/checklist/S210121611"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8302362,
-          35.3331065
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (2)",
-        "reported": "Jan 18, 2025 12:21",
-        "reporter": "Emma Cox",
-        "location": "Elfin Forest Preserve--Lupine Point Overlook, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3331065,-120.8302362&ll=35.3331065,-120.8302362",
-        "checklist": "https://ebird.org/checklist/S210088702"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8383334,
-          35.3316478
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 17, 2025 14:50",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Morro Bay--Audubon overlook, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3316478,-120.8383334&ll=35.3316478,-120.8383334",
-        "checklist": "https://ebird.org/checklist/S210024304"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 10:43",
-        "reporter": "Grigory Heaton",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210082118"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 10:17",
-        "reporter": "Mark Mushkat",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210091209"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 10:17",
-        "reporter": "Kathy Dale",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210105360"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 10:17",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210095685"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 10:17",
-        "reporter": "Kate Reed",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210079824"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 09:18",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210095250"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 09:18",
-        "reporter": "Andrew Sensenig",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210114454"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 09:06",
-        "reporter": "Arthur Mitchell",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210113370"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 20, 2025 09:06",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210095865"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8422726,
-          35.3217375
-        ]
-      },
-      "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 18, 2025 08:27",
-        "reporter": "Mark Fisher",
-        "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210052936"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6903817,
-          35.2656069
-        ]
-      },
-      "properties": {
-        "species": "Virginia Rail (Rallus limicola) (2)",
-        "reported": "Jan 20, 2025 07:30",
-        "reporter": "Nick & Jane",
-        "location": "Laguna Lake, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
-        "checklist": "https://ebird.org/checklist/S210106926"
+        "species": "Virginia Rail (Rallus limicola) (1)",
+        "reported": "Jan 20, 2025 14:07",
+        "reporter": "Max Roberts",
+        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
+        "checklist": "https://ebird.org/checklist/S210162275"
       }
     },
     {
@@ -301,10 +49,10 @@
       "properties": {
         "species": "Virginia Rail (Rallus limicola) (2)",
         "reported": "Jan 18, 2025 08:04",
-        "reporter": "David Pryor",
+        "reporter": "Anonymous eBirder",
         "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210106188"
+        "checklist": "https://ebird.org/checklist/S210220643"
       }
     },
     {
@@ -312,17 +60,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.1235286,
-          35.5968718
+          -120.6207848,
+          35.0302072
         ]
       },
       "properties": {
-        "species": "Virginia Rail (Rallus limicola) (2)",
-        "reported": "Jan 19, 2025 08:56",
-        "reporter": "Nolan Bollinger",
-        "location": "San Simeon SP, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5968718,-121.1235286&ll=35.5968718,-121.1235286",
-        "checklist": "https://ebird.org/checklist/S210113923"
+        "species": "Virginia Rail (Rallus limicola) (1)",
+        "reported": "Jan 16, 2025 08:28",
+        "reporter": "Anonymous eBirder",
+        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
+        "checklist": "https://ebird.org/checklist/S210227042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1267052,
+          35.5956267
+        ]
+      },
+      "properties": {
+        "species": "Virginia Rail (Rallus limicola) (1)",
+        "reported": "Jan 19, 2025 08:00",
+        "reporter": "bob keally",
+        "location": "San Simeon Creek Mouth/Beach, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5956267,-121.1267052&ll=35.5956267,-121.1267052",
+        "checklist": "https://ebird.org/checklist/S210195116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1267052,
+          35.5956267
+        ]
+      },
+      "properties": {
+        "species": "Virginia Rail (Rallus limicola) (1)",
+        "reported": "Jan 18, 2025 08:31",
+        "reporter": "bob keally",
+        "location": "San Simeon Creek Mouth/Beach, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5956267,-121.1267052&ll=35.5956267,-121.1267052",
+        "checklist": "https://ebird.org/checklist/S210199735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1267052,
+          35.5956267
+        ]
+      },
+      "properties": {
+        "species": "Virginia Rail (Rallus limicola) (1)",
+        "reported": "Jan 17, 2025 11:00",
+        "reporter": "Morro Bay Bird Festival",
+        "location": "San Simeon Creek Mouth/Beach, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5956267,-121.1267052&ll=35.5956267,-121.1267052",
+        "checklist": "https://ebird.org/checklist/S210211817"
       }
     },
     {
@@ -337,10 +139,10 @@
       "properties": {
         "species": "Mountain Plover (Anarhynchus montanus) (3)",
         "reported": "Jan 17, 2025 09:02",
-        "reporter": "Ally Romanow",
+        "reporter": "Nelle Lyons",
         "location": "Branch Mountain Road, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3403207,-120.0229753&ll=35.3403207,-120.0229753",
-        "checklist": "https://ebird.org/checklist/S210117339"
+        "checklist": "https://ebird.org/checklist/S210227767"
       }
     },
     {
@@ -348,17 +150,629 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.864274,
-          35.190754
+          -121.2284087,
+          35.5306185
         ]
       },
       "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (18)",
-        "reported": "Jan 19, 2025 10:02",
+        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Sarah Spotten",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210147634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jeanette Pettibone",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210159356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jamie Simo",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210188240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0504064,
+          35.4437561
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
+        "reported": "Jan 19, 2025 13:39",
+        "reporter": "Sarah Spotten",
+        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
+        "checklist": "https://ebird.org/checklist/S210147995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0504064,
+          35.4437561
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
+        "reported": "Jan 19, 2025 13:39",
+        "reporter": "Jeanette Pettibone",
+        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
+        "checklist": "https://ebird.org/checklist/S210159341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0504064,
+          35.4437561
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (127)",
+        "reported": "Jan 19, 2025 07:30",
+        "reporter": "Sarah Spotten",
+        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
+        "checklist": "https://ebird.org/checklist/S210147473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
+        "reported": "Jan 19, 2025 12:36",
+        "reporter": "Sarah Spotten",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210147940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
+        "reported": "Jan 19, 2025 12:36",
+        "reporter": "Jamie Simo",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210188270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
+        "reported": "Jan 19, 2025 08:31",
+        "reporter": "Jamie Simo",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210188212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
+        "reported": "Jan 19, 2025 08:31",
+        "reporter": "Jeanette Pettibone",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210159360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
+        "reported": "Jan 19, 2025 08:31",
+        "reporter": "Sarah Spotten",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210147552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (180)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Sarah Spotten",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210147634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (180)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jamie Simo",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210188240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0504064,
+          35.4437561
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 13:39",
+        "reporter": "Jeanette Pettibone",
+        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
+        "checklist": "https://ebird.org/checklist/S210159341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0504064,
+          35.4437561
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 13:39",
+        "reporter": "Sarah Spotten",
+        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
+        "checklist": "https://ebird.org/checklist/S210147995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.0504064,
+          35.4437561
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 13:39",
+        "reporter": "Jamie Simo",
+        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
+        "checklist": "https://ebird.org/checklist/S210188293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 12:36",
+        "reporter": "Jeanette Pettibone",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210159347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 12:36",
+        "reporter": "Sarah Spotten",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210147940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 12:36",
+        "reporter": "Pair of Wing-Nuts",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210198468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 12:36",
+        "reporter": "Jamie Simo",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210188270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Sarah Spotten",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210147634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jeanette Pettibone",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210159356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jamie Simo",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210188240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7413109,
+          35.1770149
+        ]
+      },
+      "properties": {
+        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
+        "reported": "Jan 21, 2025 15:41",
+        "reporter": "Nick & Jane",
+        "location": "Cal Poly Pier, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1770149,-120.7413109&ll=35.1770149,-120.7413109",
+        "checklist": "https://ebird.org/checklist/S210221751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jeanette Pettibone",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210159356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Sarah Spotten",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210147634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jamie Simo",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210188240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Northern Fulmar (Fulmarus glacialis) (1)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jeanette Pettibone",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210159356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
+        "reported": "Jan 19, 2025 08:31",
+        "reporter": "Sarah Spotten",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210147552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2119385,
+          35.5459099
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
+        "reported": "Jan 19, 2025 08:31",
+        "reporter": "Jamie Simo",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210188212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Shearwater (Ardenna creatopus) (3)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Jamie Simo",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210188240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Pink-footed Shearwater (Ardenna creatopus) (3)",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Sarah Spotten",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210147634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2284087,
+          35.5306185
+        ]
+      },
+      "properties": {
+        "species": "Manx Shearwater (Puffinus puffinus) (1) CONFIRMED",
+        "reported": "Jan 19, 2025 09:41",
+        "reporter": "Sarah Spotten",
+        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
+        "checklist": "https://ebird.org/checklist/S210147634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6207848,
+          35.0302072
+        ]
+      },
+      "properties": {
+        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
+        "reported": "Jan 20, 2025 08:30",
+        "reporter": "Catherine Steinberg",
+        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
+        "checklist": "https://ebird.org/checklist/S210153618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6207848,
+          35.0302072
+        ]
+      },
+      "properties": {
+        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
+        "reported": "Jan 20, 2025 08:30",
         "reporter": "Morro Bay Bird Festival",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210026672"
+        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
+        "checklist": "https://ebird.org/checklist/S210161209"
       }
     },
     {
@@ -366,17 +780,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.864274,
-          35.190754
+          -120.5000419,
+          35.4753182
         ]
       },
       "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (18)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Andrew Sensenig",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210114373"
+        "species": "Western Barn Owl (Tyto alba) (1)",
+        "reported": "Jan 21, 2025 20:43",
+        "reporter": "Jan Bugge",
+        "location": "Private Residence, O'Donovan Road, Creston, California,, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4753182,-120.5000419&ll=35.4753182,-120.5000419",
+        "checklist": "https://ebird.org/checklist/S210225633"
       }
     },
     {
@@ -384,3239 +798,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.864274,
-          35.190754
+          -120.8582378,
+          35.3804067
         ]
       },
       "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (18)",
-        "reported": "Jan 19, 2025 10:02",
+        "species": "American Barn Owl (Tyto furcata) (1)",
+        "reported": "Jan 21, 2025 19:10",
+        "reporter": "Sean Keane",
+        "location": "221 Atascadero Road, Morro Bay, California, US (35.38, -120.858), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3804067,-120.8582378&ll=35.3804067,-120.8582378",
+        "checklist": "https://ebird.org/checklist/S210222214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.734459,
+          35.343157
+        ]
+      },
+      "properties": {
+        "species": "American Barn Owl (Tyto furcata) (1)",
+        "reported": "Jan 19, 2025 19:49",
+        "reporter": "Don Maruska",
+        "location": "3550–3618 Pennington Creek Rd, San Luis Obispo US-CA (35.3432,-120.7345), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.343157,-120.734459&ll=35.343157,-120.734459",
+        "checklist": "https://ebird.org/checklist/S210224870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.734459,
+          35.343157
+        ]
+      },
+      "properties": {
+        "species": "American Barn Owl (Tyto furcata) (1)",
+        "reported": "Jan 16, 2025 20:10",
+        "reporter": "Judy  Wong",
+        "location": "3550–3618 Pennington Creek Rd, San Luis Obispo US-CA (35.3432,-120.7345), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.343157,-120.734459&ll=35.343157,-120.734459",
+        "checklist": "https://ebird.org/checklist/S210224341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9873843,
+          35.292943
+        ]
+      },
+      "properties": {
+        "species": "American Barn Owl (Tyto furcata) (2)",
+        "reported": "Jan 19, 2025 16:48",
         "reporter": "Jeff Miller",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210127761"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (18)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "John Hiebert",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210059774"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (18)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Jessica Paquelier",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210113500"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Lesser Yellowlegs (Tringa flavipes) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Kathy Dale",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210105366"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Lesser Yellowlegs (Tringa flavipes) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Loretta Matty",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210079767"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Lesser Yellowlegs (Tringa flavipes) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Kate Reed",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210079768"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Lesser Yellowlegs (Tringa flavipes) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Erin Schweng",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210079770"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Lesser Yellowlegs (Tringa flavipes) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Mark Mushkat",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210091229"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Lesser Yellowlegs (Tringa flavipes) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210095585"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8418006,
-          35.3445235
-        ]
-      },
-      "properties": {
-        "species": "Red Knot (Calidris canutus) (2)",
-        "reported": "Jan 19, 2025 14:54",
-        "reporter": "Allison Pengilley-Wimmer",
-        "location": "Morro Bay SP--Marina/Boardwalk Trail, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3445235,-120.8418006&ll=35.3445235,-120.8418006",
-        "checklist": "https://ebird.org/checklist/S210101955"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.8418006,
-          35.3445235
-        ]
-      },
-      "properties": {
-        "species": "Red Knot (Calidris canutus) (2)",
-        "reported": "Jan 19, 2025 14:54",
-        "reporter": "Kaiting H",
-        "location": "Morro Bay SP--Marina/Boardwalk Trail, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3445235,-120.8418006&ll=35.3445235,-120.8418006",
-        "checklist": "https://ebird.org/checklist/S210068773"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Alexander Yan",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Nick & Jane",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210102134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210115134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "David Pryor",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210106348"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Chris Henry",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111362"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Frederic Leist",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111657"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Matthew Schreiner",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210105138"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Kim Kattari",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210043373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Pomarine Jaeger (Stercorarius pomarinus) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9133957,
-          35.3183562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (70)",
-        "reported": "Jan 18, 2025 07:33",
-        "reporter": "Nolan Bollinger",
-        "location": "Boat Trip-Morro Bay to Point Buchon, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3183562,-120.9133957&ll=35.3183562,-120.9133957",
-        "checklist": "https://ebird.org/checklist/S210113842"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9133957,
-          35.3183562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (70)",
-        "reported": "Jan 18, 2025 07:33",
-        "reporter": "Jan Bugge",
-        "location": "Boat Trip-Morro Bay to Point Buchon, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3183562,-120.9133957&ll=35.3183562,-120.9133957",
-        "checklist": "https://ebird.org/checklist/S210097268"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9133957,
-          35.3183562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (70)",
-        "reported": "Jan 18, 2025 07:33",
-        "reporter": "Joe Zell",
-        "location": "Boat Trip-Morro Bay to Point Buchon, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3183562,-120.9133957&ll=35.3183562,-120.9133957",
-        "checklist": "https://ebird.org/checklist/S210109049"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9133957,
-          35.3183562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (800) CONFIRMED",
-        "reported": "Jan 17, 2025 07:34",
-        "reporter": "William Koole",
-        "location": "Boat Trip-Morro Bay to Point Buchon, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3183562,-120.9133957&ll=35.3183562,-120.9133957",
-        "checklist": "https://ebird.org/checklist/S210039735"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9133957,
-          35.3183562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (800) CONFIRMED",
-        "reported": "Jan 17, 2025 07:34",
-        "reporter": "Kim Kattari",
-        "location": "Boat Trip-Morro Bay to Point Buchon, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3183562,-120.9133957&ll=35.3183562,-120.9133957",
-        "checklist": "https://ebird.org/checklist/S210043413"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9133957,
-          35.3183562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (800) CONFIRMED",
-        "reported": "Jan 17, 2025 07:34",
-        "reporter": "Alison Hazel",
-        "location": "Boat Trip-Morro Bay to Point Buchon, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3183562,-120.9133957&ll=35.3183562,-120.9133957",
-        "checklist": "https://ebird.org/checklist/S210040056"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210099596"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Alexander Yan",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210117146"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Josh McLaughlin",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210116609"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Frederic Leist",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210111758"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210115132"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (127)",
-        "reported": "Jan 19, 2025 07:30",
-        "reporter": "Josh McLaughlin",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210116613"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (127)",
-        "reported": "Jan 19, 2025 07:30",
-        "reporter": "Nick & Jane",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210102012"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (127)",
-        "reported": "Jan 19, 2025 07:30",
-        "reporter": "Frederic Leist",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210111548"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (127)",
-        "reported": "Jan 19, 2025 07:30",
-        "reporter": "Alexander Yan",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210117164"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0043979,
-          35.277562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (32)",
-        "reported": "Jan 18, 2025 08:37",
-        "reporter": "Nolan Bollinger",
-        "location": "Point Buchon To Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.277562,-121.0043979&ll=35.277562,-121.0043979",
-        "checklist": "https://ebird.org/checklist/S210113830"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0897575,
-          35.4522579
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (23)",
-        "reported": "Jan 18, 2025 10:10",
-        "reporter": "Jan Bugge",
-        "location": "Point Estero To Morro Rock, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4522579,-121.0897575&ll=35.4522579,-121.0897575",
-        "checklist": "https://ebird.org/checklist/S210097053"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0897575,
-          35.4522579
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (23)",
-        "reported": "Jan 18, 2025 10:10",
-        "reporter": "Joe Zell",
-        "location": "Point Estero To Morro Rock, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4522579,-121.0897575&ll=35.4522579,-121.0897575",
-        "checklist": "https://ebird.org/checklist/S210043239"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Alexander Yan",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210116967"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Frederic Leist",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210111619"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "David Pryor",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210106439"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (8)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Nick & Jane",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210102343"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Josh McLaughlin",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210116612"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Alexander Yan",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210117158"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Chris Henry",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210111352"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "David Pryor",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210106338"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Matthew Schreiner",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210105155"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210115135"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Frederic Leist",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210111513"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210099295"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (150)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Nick & Jane",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210102097"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (180)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210099373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (180)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Matthew Schreiner",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210105138"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (180)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Chris Henry",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111362"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (180)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210115134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (180)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Alexander Yan",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (175)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "William Koole",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210039572"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (175)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "Alison Hazel",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210039655"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (325) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (325) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Kim Kattari",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210043373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (325) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0043979,
-          35.277562
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 18, 2025 08:37",
-        "reporter": "Jan Bugge",
-        "location": "Point Buchon To Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.277562,-121.0043979&ll=35.277562,-121.0043979",
-        "checklist": "https://ebird.org/checklist/S210097175"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Alexander Yan",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "David Pryor",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210106348"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Chris Henry",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111362"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210115134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Matthew Schreiner",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210105138"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Frederic Leist",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111657"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Nick & Jane",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210102134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210099373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (2)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Cassin's Auklet (Ptychoramphus aleuticus) (2)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Alexander Yan",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210117146"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210099596"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Nick & Jane",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210102395"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Frederic Leist",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210111758"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Matthew Schreiner",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210105101"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210115132"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "David Pryor",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210106455"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Chris Henry",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210111379"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0504064,
-          35.4437561
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 13:39",
-        "reporter": "Josh McLaughlin",
-        "location": "Morro Rock to Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4437561,-121.0504064&ll=35.4437561,-121.0504064",
-        "checklist": "https://ebird.org/checklist/S210116609"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Chris Henry",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210111371"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Matthew Schreiner",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210105119"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Frederic Leist",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210111619"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Nick & Jane",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210102343"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210115133"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Josh McLaughlin",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210116610"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210099463"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "David Pryor",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210106439"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 12:36",
-        "reporter": "Alexander Yan",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210116967"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Frederic Leist",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111657"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210099373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Nick & Jane",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210102134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Matthew Schreiner",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210105138"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "David Pryor",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210106348"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Chris Henry",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111362"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210115134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Josh McLaughlin",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116611"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Alexander Yan",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "Kim Kattari",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210043374"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "William Koole",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210039572"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "Alison Hazel",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210039655"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Kim Kattari",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210043373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Josh McLaughlin",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116611"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Chris Henry",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111362"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Alexander Yan",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Frederic Leist",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111657"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Nick & Jane",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210102134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210099373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Matthew Schreiner",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210105138"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "David Pryor",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210106348"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210115134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Kim Kattari",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210043373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.1102353,
-          35.5683274
-        ]
-      },
-      "properties": {
-        "species": "Black Skimmer (Rynchops niger) (1)",
-        "reported": "Jan 20, 2025 09:46",
-        "reporter": "Gary Clayton",
-        "location": "Santa Rosa Creek mouth, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5683274,-121.1102353&ll=35.5683274,-121.1102353",
-        "checklist": "https://ebird.org/checklist/S210065378"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.1102353,
-          35.5683274
-        ]
-      },
-      "properties": {
-        "species": "Black Skimmer (Rynchops niger) (1)",
-        "reported": "Jan 20, 2025 09:46",
-        "reporter": "Janine Choi",
-        "location": "Santa Rosa Creek mouth, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5683274,-121.1102353&ll=35.5683274,-121.1102353",
-        "checklist": "https://ebird.org/checklist/S210065377"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Josh McLaughlin",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116611"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Chris Henry",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111362"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Matthew Schreiner",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210105138"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Nick & Jane",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210102134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Alexander Yan",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (1)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "Alison Hazel",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210039655"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (1)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "William Koole",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210039572"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (3)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (3)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Kim Kattari",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210043373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Northern Fulmar (Fulmarus glacialis) (3)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Matthew Schreiner",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210105155"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Alexander Yan",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210117158"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "David Pryor",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210106338"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Josh McLaughlin",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210116612"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Chris Henry",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210111352"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Frederic Leist",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210111513"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210115135"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Nick & Jane",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210102097"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2119385,
-          35.5459099
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (1)",
-        "reported": "Jan 19, 2025 08:31",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Point Estero to The Gully, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
-        "checklist": "https://ebird.org/checklist/S210099295"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (3)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Alexander Yan",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (3)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Nick & Jane",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210102134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (3)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "David Pryor",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210106348"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (3)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Chris Henry",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111362"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (3)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210099373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (4)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "William Koole",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210039572"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2990555,
-          35.2569516
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (4)",
-        "reported": "Jan 17, 2025 11:38",
-        "reporter": "Kim Kattari",
-        "location": "West of Morro Rock (35.257, -121.299), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2569516,-121.2990555&ll=35.2569516,-121.2990555",
-        "checklist": "https://ebird.org/checklist/S210043374"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (12) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Kim Kattari",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210043373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (12) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Shearwater (Ardenna creatopus) (12) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Sooty Shearwater (Ardenna grisea) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Sooty Shearwater (Ardenna grisea) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Kim Kattari",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210043373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Sooty Shearwater (Ardenna grisea) (1)",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Manx Shearwater (Puffinus puffinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Matthew Schreiner",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210105138"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Manx Shearwater (Puffinus puffinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "David Pryor",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210106348"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Manx Shearwater (Puffinus puffinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Chris Henry",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111362"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Manx Shearwater (Puffinus puffinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Alexander Yan",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210116960"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Manx Shearwater (Puffinus puffinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Frederic Leist",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210111657"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Manx Shearwater (Puffinus puffinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210115134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Manx Shearwater (Puffinus puffinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Nick & Jane",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210102134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2284087,
-          35.5306185
-        ]
-      },
-      "properties": {
-        "species": "Manx Shearwater (Puffinus puffinus) (1)",
-        "reported": "Jan 19, 2025 09:41",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "The Gully to Point Piedras Blancas and back, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5306185,-121.2284087&ll=35.5306185,-121.2284087",
-        "checklist": "https://ebird.org/checklist/S210099373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Cocos Booby (Sula brewsteri) (1) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Alison Hazel",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039521"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Cocos Booby (Sula brewsteri) (1) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "Kim Kattari",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210043373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9976402,
-          35.2588395
-        ]
-      },
-      "properties": {
-        "species": "Cocos Booby (Sula brewsteri) (1) CONFIRMED",
-        "reported": "Jan 17, 2025 08:37",
-        "reporter": "William Koole",
-        "location": "West of Pt Buchon (35.259, -120.998), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2588395,-120.9976402&ll=35.2588395,-120.9976402",
-        "checklist": "https://ebird.org/checklist/S210039626"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 20, 2025 08:30",
-        "reporter": "Tom Slater",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210113096"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 20, 2025 08:30",
-        "reporter": "Susanne Ferrull",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210122111"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 20, 2025 08:30",
-        "reporter": "owen slater",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210113475"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 20, 2025 08:30",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210114249"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 19, 2025 08:29",
-        "reporter": "Tara Hempstead",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210107065"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 19, 2025 08:29",
-        "reporter": "Jane Hetherington-Rauth",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210129965"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 19, 2025 08:29",
-        "reporter": "Wendy A McKeown",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210114536"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 19, 2025 08:29",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210024589"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6207848,
-          35.0302072
-        ]
-      },
-      "properties": {
-        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
-        "reported": "Jan 19, 2025 08:29",
-        "reporter": "Holly Middlekauff",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S210106788"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6903817,
-          35.2656069
-        ]
-      },
-      "properties": {
-        "species": "Least Bittern (Botaurus exilis) (1)",
-        "reported": "Jan 19, 2025 08:02",
-        "reporter": "AJ Almeda",
-        "location": "Laguna Lake, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
-        "checklist": "https://ebird.org/checklist/S210086135"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6903817,
-          35.2656069
-        ]
-      },
-      "properties": {
-        "species": "Least Bittern (Botaurus exilis) (1)",
-        "reported": "Jan 19, 2025 08:02",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Laguna Lake, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
-        "checklist": "https://ebird.org/checklist/S210024979"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6903817,
-          35.2656069
-        ]
-      },
-      "properties": {
-        "species": "Least Bittern (Botaurus exilis) (1)",
-        "reported": "Jan 19, 2025 08:02",
-        "reporter": "Jordan Almeda",
-        "location": "Laguna Lake, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
-        "checklist": "https://ebird.org/checklist/S210044789"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6903817,
-          35.2656069
-        ]
-      },
-      "properties": {
-        "species": "Least Bittern (Botaurus exilis) (1)",
-        "reported": "Jan 19, 2025 08:02",
-        "reporter": "JP Almeda",
-        "location": "Laguna Lake, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
-        "checklist": "https://ebird.org/checklist/S210044707"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.734459,
-          35.343157
-        ]
-      },
-      "properties": {
-        "species": "American Barn Owl (Tyto furcata) (1)",
-        "reported": "Jan 19, 2025 19:49",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "3550–3618 Pennington Creek Rd, San Luis Obispo US-CA (35.3432,-120.7345), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.343157,-120.734459&ll=35.343157,-120.734459",
-        "checklist": "https://ebird.org/checklist/S210094155"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.734459,
-          35.343157
-        ]
-      },
-      "properties": {
-        "species": "American Barn Owl (Tyto furcata) (1)",
-        "reported": "Jan 19, 2025 19:49",
-        "reporter": "Susi Diallo",
-        "location": "3550–3618 Pennington Creek Rd, San Luis Obispo US-CA (35.3432,-120.7345), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.343157,-120.734459&ll=35.343157,-120.734459",
-        "checklist": "https://ebird.org/checklist/S210117232"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.772827,
-          35.254913
-        ]
-      },
-      "properties": {
-        "species": "American Barn Owl (Tyto furcata) (1)",
-        "reported": "Jan 20, 2025 22:30",
-        "reporter": "Zane Warsen",
-        "location": "4759–4997 Prefumo Canyon Rd, San Luis Obispo US-CA (35.2549,-120.7728), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.254913,-120.772827&ll=35.254913,-120.772827",
-        "checklist": "https://ebird.org/checklist/S210125907"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9873843,
-          35.292943
-        ]
-      },
-      "properties": {
-        "species": "American Barn Owl (Tyto furcata) (2)",
-        "reported": "Jan 19, 2025 16:48",
-        "reporter": "John Hiebert",
         "location": "California Valley Streets, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.292943,-119.9873843&ll=35.292943,-119.9873843",
-        "checklist": "https://ebird.org/checklist/S210059619"
+        "checklist": "https://ebird.org/checklist/S210127675"
       }
     },
     {
@@ -3624,17 +870,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.9873843,
-          35.292943
+          -120.503653,
+          35.080586
         ]
       },
       "properties": {
-        "species": "American Barn Owl (Tyto furcata) (2)",
-        "reported": "Jan 19, 2025 16:48",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "California Valley Streets, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.292943,-119.9873843&ll=35.292943,-119.9873843",
-        "checklist": "https://ebird.org/checklist/S210026859"
+        "species": "American Barn Owl (Tyto furcata) (1)",
+        "reported": "Jan 21, 2025 08:26",
+        "reporter": "Anonymous eBirder",
+        "location": "Gate, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.080586,-120.503653&ll=35.080586,-120.503653",
+        "checklist": "https://ebird.org/checklist/S210165285"
       }
     },
     {
@@ -3648,11 +894,11 @@
       },
       "properties": {
         "species": "American Barn Owl (Tyto furcata) (1)",
-        "reported": "Jan 20, 2025 07:00",
+        "reported": "Jan 21, 2025 22:58",
         "reporter": "Kathanne Lynch",
         "location": "Kathanne SLO, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2070583,-120.6239933&ll=35.2070583,-120.6239933",
-        "checklist": "https://ebird.org/checklist/S210122003"
+        "checklist": "https://ebird.org/checklist/S210229697"
       }
     },
     {
@@ -3666,11 +912,11 @@
       },
       "properties": {
         "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 19, 2025 14:17",
-        "reporter": "Andrew Sensenig",
+        "reported": "Jan 20, 2025 13:50",
+        "reporter": "Petra Clayton",
         "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
-        "checklist": "https://ebird.org/checklist/S210114380"
+        "checklist": "https://ebird.org/checklist/S210230849"
       }
     },
     {
@@ -3678,143 +924,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7350496,
-          35.0905487
+          -119.8633606,
+          35.1899143
         ]
       },
       "properties": {
         "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 19, 2025 12:13",
-        "reporter": "Richard Cimino",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S209955276"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7350496,
-          35.0905487
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 19, 2025 12:13",
-        "reporter": "Mark Holmgren",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S210060844"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (2)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Jeff Miller",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210127761"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (2)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210026672"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (2)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "John Hiebert",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210059774"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (2)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Mark Holmgren",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210061020"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (2)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Andrew Sensenig",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210114373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (2)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Jessica Paquelier",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210113500"
+        "reported": "Jan 17, 2025 12:11",
+        "reporter": "Linda McFarlane",
+        "location": "Carrizo Plain NM--Visitor Center, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1899143,-119.8633606&ll=35.1899143,-119.8633606",
+        "checklist": "https://ebird.org/checklist/S210225550"
       }
     },
     {
@@ -3829,10 +949,10 @@
       "properties": {
         "species": "Prairie Falcon (Falco mexicanus) (1)",
         "reported": "Jan 17, 2025 08:30",
-        "reporter": "Cheryl Jordan",
+        "reporter": "Larry Sauvain",
         "location": "Laguna Lake, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
-        "checklist": "https://ebird.org/checklist/S210090026"
+        "checklist": "https://ebird.org/checklist/S210222993"
       }
     },
     {
@@ -3847,10 +967,10 @@
       "properties": {
         "species": "Prairie Falcon (Falco mexicanus) (1)",
         "reported": "Jan 17, 2025 11:41",
-        "reporter": "Ally Romanow",
+        "reporter": "Linda McFarlane",
         "location": "Soda Lake Point View, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2398199,-119.9068353&ll=35.2398199,-119.9068353",
-        "checklist": "https://ebird.org/checklist/S210117334"
+        "checklist": "https://ebird.org/checklist/S210225514"
       }
     },
     {
@@ -3858,341 +978,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Erin Schweng",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210079770"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210095585"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 20, 2025 11:42",
-        "reporter": "Kathy Dale",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210105366"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.7948498,
-          35.3250835
-        ]
-      },
-      "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 19, 2025 14:03",
-        "reporter": "Ally Romanow",
-        "location": "Turri Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3250835,-120.7948498&ll=35.3250835,-120.7948498",
-        "checklist": "https://ebird.org/checklist/S210118256"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9279037,
-          35.2683763
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 20, 2025 14:58",
-        "reporter": "John Lowry",
-        "location": "7 Mile Road W.- 0.5 mile culvert, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2683763,-119.9279037&ll=35.2683763,-119.9279037",
-        "checklist": "https://ebird.org/checklist/S210104606"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.810539,
-          35.155759
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (22) CONFIRMED",
-        "reported": "Jan 19, 2025 14:17",
-        "reporter": "William Koole",
-        "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
-        "checklist": "https://ebird.org/checklist/S210040613"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.810539,
-          35.155759
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (22) CONFIRMED",
-        "reported": "Jan 19, 2025 14:17",
-        "reporter": "Jeff Miller",
-        "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
-        "checklist": "https://ebird.org/checklist/S210127641"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.810539,
-          35.155759
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (22) CONFIRMED",
-        "reported": "Jan 19, 2025 14:17",
-        "reporter": "Andrew Sensenig",
-        "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
-        "checklist": "https://ebird.org/checklist/S210114380"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7350496,
-          35.0905487
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (3)",
-        "reported": "Jan 19, 2025 12:52",
-        "reporter": "William Koole",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S210041074"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7350496,
-          35.0905487
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (3)",
-        "reported": "Jan 19, 2025 12:52",
-        "reporter": "John Hiebert",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S210059703"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7350496,
-          35.0905487
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (3)",
-        "reported": "Jan 19, 2025 12:52",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S210026758"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.8633606,
-          35.1899143
+          -119.74584,
+          35.2247142
         ]
       },
       "properties": {
         "species": "Sage Thrasher (Oreoscoptes montanus) (2)",
-        "reported": "Jan 17, 2025 12:11",
-        "reporter": "Ally Romanow",
-        "location": "Carrizo Plain NM--Visitor Center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1899143,-119.8633606&ll=35.1899143,-119.8633606",
-        "checklist": "https://ebird.org/checklist/S210117342"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210026672"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "John Hiebert",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210059774"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Mark Holmgren",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210061020"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Jessica Paquelier",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210113500"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Andrew Sensenig",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210114373"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.864274,
-          35.190754
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 19, 2025 10:02",
-        "reporter": "Jeff Miller",
-        "location": "Guy Goodwin educational center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
-        "checklist": "https://ebird.org/checklist/S210127761"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.8400327,
-          35.28348
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 20, 2025 11:10",
+        "reported": "Jan 20, 2025 11:25",
         "reporter": "Petra Clayton",
-        "location": "stakeout Sagebrush Sparrow  -- Elkhorn/Simmler Rd Intersection (2025), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.28348,-119.8400327&ll=35.28348,-119.8400327",
-        "checklist": "https://ebird.org/checklist/S210114934"
+        "location": "Carrizo Plain NM--Northern Elkhorn Rd. (previously \"lone juniper\"), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2247142,-119.74584&ll=35.2247142,-119.74584",
+        "checklist": "https://ebird.org/checklist/S210230178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.637464,
+          35.1256003
+        ]
+      },
+      "properties": {
+        "species": "Sage Thrasher (Oreoscoptes montanus) (7)",
+        "reported": "Jan 20, 2025 12:30",
+        "reporter": "Petra Clayton",
+        "location": "Carrizo Plain--Southern Elkhorn Rd. (south of Calhoun Rd intersection), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1256003,-119.637464&ll=35.1256003,-119.637464",
+        "checklist": "https://ebird.org/checklist/S210230558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.81218,
+          35.251609
+        ]
+      },
+      "properties": {
+        "species": "Sage Thrasher (Oreoscoptes montanus) (4) CONFIRMED",
+        "reported": "Jan 17, 2025 13:58",
+        "reporter": "Nelle Lyons",
+        "location": "Elkhorn Road, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.251609,-119.81218&ll=35.251609,-119.81218",
+        "checklist": "https://ebird.org/checklist/S210227474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.81218,
+          35.251609
+        ]
+      },
+      "properties": {
+        "species": "Sage Thrasher (Oreoscoptes montanus) (4) CONFIRMED",
+        "reported": "Jan 17, 2025 13:58",
+        "reporter": "Linda McFarlane",
+        "location": "Elkhorn Road, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.251609,-119.81218&ll=35.251609,-119.81218",
+        "checklist": "https://ebird.org/checklist/S210225543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.67129,
+          35.51434
+        ]
+      },
+      "properties": {
+        "species": "Chipping Sparrow (Spizella passerina) (14) CONFIRMED",
+        "reported": "Jan 19, 2025 09:15",
+        "reporter": "Michael Putnam",
+        "location": "The Lakes--Private Property, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.51434,-120.67129&ll=35.51434,-120.67129",
+        "checklist": "https://ebird.org/checklist/S210209456"
       }
     },
     {
@@ -4207,10 +1075,46 @@
       "properties": {
         "species": "Sagebrush Sparrow (Artemisiospiza nevadensis) (2) CONFIRMED",
         "reported": "Jan 17, 2025 13:35",
-        "reporter": "Ally Romanow",
+        "reporter": "Jennifer Stock",
         "location": "stakeout Sagebrush Sparrow  -- Elkhorn/Simmler Rd Intersection (2025), San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.28348,-119.8400327&ll=35.28348,-119.8400327",
-        "checklist": "https://ebird.org/checklist/S210117349"
+        "checklist": "https://ebird.org/checklist/S210218205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8400327,
+          35.28348
+        ]
+      },
+      "properties": {
+        "species": "Sagebrush Sparrow (Artemisiospiza nevadensis) (2) CONFIRMED",
+        "reported": "Jan 17, 2025 13:35",
+        "reporter": "Nelle Lyons",
+        "location": "stakeout Sagebrush Sparrow  -- Elkhorn/Simmler Rd Intersection (2025), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.28348,-119.8400327&ll=35.28348,-119.8400327",
+        "checklist": "https://ebird.org/checklist/S210227431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8400327,
+          35.28348
+        ]
+      },
+      "properties": {
+        "species": "Sagebrush Sparrow (Artemisiospiza nevadensis) (2) CONFIRMED",
+        "reported": "Jan 17, 2025 13:35",
+        "reporter": "Linda McFarlane",
+        "location": "stakeout Sagebrush Sparrow  -- Elkhorn/Simmler Rd Intersection (2025), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.28348,-119.8400327&ll=35.28348,-119.8400327",
+        "checklist": "https://ebird.org/checklist/S210225891"
       }
     },
     {
@@ -4225,10 +1129,10 @@
       "properties": {
         "species": "Vesper Sparrow (Pooecetes gramineus) (6)",
         "reported": "Jan 17, 2025 09:02",
-        "reporter": "Ally Romanow",
+        "reporter": "Nelle Lyons",
         "location": "Branch Mountain Road, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3403207,-120.0229753&ll=35.3403207,-120.0229753",
-        "checklist": "https://ebird.org/checklist/S210117339"
+        "checklist": "https://ebird.org/checklist/S210227767"
       }
     },
     {
@@ -4236,17 +1140,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.810539,
-          35.155759
+          -120.0229753,
+          35.3403207
         ]
       },
       "properties": {
         "species": "Vesper Sparrow (Pooecetes gramineus) (6)",
-        "reported": "Jan 19, 2025 14:17",
-        "reporter": "Jeff Miller",
-        "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
-        "checklist": "https://ebird.org/checklist/S210127641"
+        "reported": "Jan 17, 2025 09:02",
+        "reporter": "Linda McFarlane",
+        "location": "Branch Mountain Road, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3403207,-120.0229753&ll=35.3403207,-120.0229753",
+        "checklist": "https://ebird.org/checklist/S210225532"
       }
     },
     {
@@ -4254,107 +1158,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.810539,
-          35.155759
+          -119.74584,
+          35.2247142
         ]
       },
       "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (6)",
-        "reported": "Jan 19, 2025 14:17",
-        "reporter": "William Koole",
-        "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
-        "checklist": "https://ebird.org/checklist/S210040613"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.810539,
-          35.155759
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (6)",
-        "reported": "Jan 19, 2025 14:17",
-        "reporter": "Andrew Sensenig",
-        "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
-        "checklist": "https://ebird.org/checklist/S210114380"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7350496,
-          35.0905487
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (1)",
-        "reported": "Jan 19, 2025 12:52",
-        "reporter": "Morro Bay Bird Festival",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S210026758"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7350496,
-          35.0905487
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (1)",
-        "reported": "Jan 19, 2025 12:52",
-        "reporter": "William Koole",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S210041074"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7350496,
-          35.0905487
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (1)",
-        "reported": "Jan 19, 2025 12:52",
-        "reporter": "Jeff Miller",
-        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
-        "checklist": "https://ebird.org/checklist/S210127768"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.761935,
-          35.1879862
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (1)",
-        "reported": "Jan 19, 2025 12:52",
-        "reporter": "Mark Holmgren",
-        "location": "Carrizo Plain NM--Metal building at Panorama Rd and Calhoun Rd., San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1879862,-119.761935&ll=35.1879862,-119.761935",
-        "checklist": "https://ebird.org/checklist/S210061050"
+        "species": "Vesper Sparrow (Pooecetes gramineus) (2)",
+        "reported": "Jan 20, 2025 11:25",
+        "reporter": "Petra Clayton",
+        "location": "Carrizo Plain NM--Northern Elkhorn Rd. (previously \"lone juniper\"), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2247142,-119.74584&ll=35.2247142,-119.74584",
+        "checklist": "https://ebird.org/checklist/S210230178"
       }
     },
     {
@@ -4368,11 +1182,11 @@
       },
       "properties": {
         "species": "Vesper Sparrow (Pooecetes gramineus) (1)",
-        "reported": "Jan 20, 2025 14:30",
-        "reporter": "John Lowry",
+        "reported": "Jan 17, 2025 11:41",
+        "reporter": "Linda McFarlane",
         "location": "Soda Lake Point View, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2398199,-119.9068353&ll=35.2398199,-119.9068353",
-        "checklist": "https://ebird.org/checklist/S210098463"
+        "checklist": "https://ebird.org/checklist/S210225514"
       }
     },
     {
@@ -4387,10 +1201,28 @@
       "properties": {
         "species": "Vesper Sparrow (Pooecetes gramineus) (1)",
         "reported": "Jan 17, 2025 13:35",
-        "reporter": "Ally Romanow",
+        "reporter": "Nelle Lyons",
         "location": "stakeout Sagebrush Sparrow  -- Elkhorn/Simmler Rd Intersection (2025), San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.28348,-119.8400327&ll=35.28348,-119.8400327",
-        "checklist": "https://ebird.org/checklist/S210117349"
+        "checklist": "https://ebird.org/checklist/S210227431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8400327,
+          35.28348
+        ]
+      },
+      "properties": {
+        "species": "Vesper Sparrow (Pooecetes gramineus) (1)",
+        "reported": "Jan 17, 2025 13:35",
+        "reporter": "Jennifer Stock",
+        "location": "stakeout Sagebrush Sparrow  -- Elkhorn/Simmler Rd Intersection (2025), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.28348,-119.8400327&ll=35.28348,-119.8400327",
+        "checklist": "https://ebird.org/checklist/S210218205"
       }
     },
     {
@@ -4405,64 +1237,10 @@
       "properties": {
         "species": "Swamp Sparrow (Melospiza georgiana) (1)",
         "reported": "Jan 18, 2025 08:11",
-        "reporter": "Melissa Krebill",
+        "reporter": "Michael Putnam",
         "location": "Atascadero Lake, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4646547,-120.6667256&ll=35.4646547,-120.6667256",
-        "checklist": "https://ebird.org/checklist/S210138173"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.1235286,
-          35.5968718
-        ]
-      },
-      "properties": {
-        "species": "Swamp Sparrow (Melospiza georgiana) (1)",
-        "reported": "Jan 16, 2025 14:00",
-        "reporter": "Judith Newton",
-        "location": "San Simeon SP, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5968718,-121.1235286&ll=35.5968718,-121.1235286",
-        "checklist": "https://ebird.org/checklist/S210074405"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.4874811,
-          35.3291313
-        ]
-      },
-      "properties": {
-        "species": "Swamp Sparrow (Melospiza georgiana) (1)",
-        "reported": "Jan 18, 2025 08:30",
-        "reporter": "Andrew Sensenig",
-        "location": "Santa Margarita Lake, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3291313,-120.4874811&ll=35.3291313,-120.4874811",
-        "checklist": "https://ebird.org/checklist/S210114106"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.1235286,
-          35.5968718
-        ]
-      },
-      "properties": {
-        "species": "Black-and-white Warbler (Mniotilta varia) (1) CONFIRMED",
-        "reported": "Jan 16, 2025 14:00",
-        "reporter": "Judith Newton",
-        "location": "San Simeon SP, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5968718,-121.1235286&ll=35.5968718,-121.1235286",
-        "checklist": "https://ebird.org/checklist/S210074405"
+        "checklist": "https://ebird.org/checklist/S210209363"
       }
     }
   ]
