@@ -6,53 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.576908,
-          43.109765
+          -73.581288,
+          43.166253
         ]
       },
       "properties": {
         "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 12:15",
-        "reporter": "Kay Hawklee",
-        "location": "268 Broad Way, Schuylerville US-NY (43.1098,-73.5769), Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.109765,-73.576908&ll=43.109765,-73.576908",
-        "checklist": "https://ebird.org/checklist/S210294599"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.61867,
-          43.125052
-        ]
-      },
-      "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 17, 2025 09:50",
-        "reporter": "Derek Rogers",
-        "location": "372–378 CR-40, Schuylerville US-NY (43.1251,-73.6187), Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.125052,-73.61867&ll=43.125052,-73.61867",
-        "checklist": "https://ebird.org/checklist/S210251472"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.576591,
-          43.109367
-        ]
-      },
-      "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 11:19",
-        "reporter": "Nathan Spicuzza",
-        "location": "Canal Towpath, Schuylerville US-NY (43.1094,-73.5766), Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.109367,-73.576591&ll=43.109367,-73.576591",
-        "checklist": "https://ebird.org/checklist/S210271179"
+        "reported": "Jan 20, 2025 09:42",
+        "reporter": "Marshall Iliff",
+        "location": "1273–1279 Ft Miller Rd, Fort Edward US-NY (43.1663,-73.5813), Washington, New York",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.166253,-73.581288&ll=43.166253,-73.581288",
+        "checklist": "https://ebird.org/checklist/S210422772"
       }
     },
     {
@@ -66,11 +30,11 @@
       },
       "properties": {
         "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 14:45",
-        "reporter": "Barbara Michelin",
+        "reported": "Jan 23, 2025 14:16",
+        "reporter": "Karen McGrath",
         "location": "Hudson Crossing Park, Saratoga, New York",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210297286"
+        "checklist": "https://ebird.org/checklist/S210392387"
       }
     },
     {
@@ -84,11 +48,11 @@
       },
       "properties": {
         "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 13:44",
-        "reporter": "Michael DeAngelis",
+        "reported": "Jan 23, 2025 14:12",
+        "reporter": "Patrick Felker",
         "location": "Hudson Crossing Park, Saratoga, New York",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210305442"
+        "checklist": "https://ebird.org/checklist/S210394483"
       }
     },
     {
@@ -102,11 +66,11 @@
       },
       "properties": {
         "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 13:44",
-        "reporter": "Tyler Connell",
+        "reported": "Jan 23, 2025 10:56",
+        "reporter": "Randy Maharaj",
         "location": "Hudson Crossing Park, Saratoga, New York",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210298007"
+        "checklist": "https://ebird.org/checklist/S210376345"
       }
     },
     {
@@ -120,11 +84,11 @@
       },
       "properties": {
         "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 11:14",
-        "reporter": "Pierre Allaire",
+        "reported": "Jan 23, 2025 08:45",
+        "reporter": "Taylor Sturm",
         "location": "Hudson Crossing Park, Saratoga, New York",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210275942"
+        "checklist": "https://ebird.org/checklist/S210398213"
       }
     },
     {
@@ -132,17 +96,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.577908,
-          43.1155261
+          -73.5775667,
+          43.1119814
         ]
       },
       "properties": {
         "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:42",
-        "reporter": "David Mathieu",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210277017"
+        "reported": "Jan 23, 2025 08:49",
+        "reporter": "Lindsey Duval",
+        "location": "Hudson Crossing Park--bridge, Saratoga, New York",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1119814,-73.5775667&ll=43.1119814,-73.5775667",
+        "checklist": "https://ebird.org/checklist/S210365962"
       }
     },
     {
@@ -150,17 +114,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.577908,
-          43.1155261
+          -73.6215433,
+          43.1259804
         ]
       },
       "properties": {
         "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:40",
-        "reporter": "Ernie Welch",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210265746"
+        "reported": "Jan 17, 2025 10:15",
+        "reporter": "Geoff LeBaron",
+        "location": "Wall Street, Schuylerville, NY, Saratoga, New York",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1259804,-73.6215433&ll=43.1259804,-73.6215433",
+        "checklist": "https://ebird.org/checklist/S210370518"
       }
     },
     {
@@ -168,125 +132,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.577908,
-          43.1155261
+          -71.256625,
+          41.580354
         ]
       },
       "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:27",
-        "reporter": "Dominic Sherony",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210321059"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.577908,
-          43.1155261
-        ]
-      },
-      "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:27",
-        "reporter": "Doug Daniels",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210273346"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.577908,
-          43.1155261
-        ]
-      },
-      "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:05",
-        "reporter": "Dan Burton",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210266470"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.577908,
-          43.1155261
-        ]
-      },
-      "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:05",
-        "reporter": "Vincent  Zollo",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210266471"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.577908,
-          43.1155261
-        ]
-      },
-      "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:02",
-        "reporter": "amy pickering",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210272548"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.577908,
-          43.1155261
-        ]
-      },
-      "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:02",
-        "reporter": "Donna Cisek",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210300397"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.577908,
-          43.1155261
-        ]
-      },
-      "properties": {
-        "species": "Taiga Bean-Goose (Anser fabalis) (1) CONFIRMED",
-        "reported": "Jan 21, 2025 14:00",
-        "reporter": "Jeremy Gardner",
-        "location": "Hudson Crossing Park, Saratoga, New York",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=43.1155261,-73.577908&ll=43.1155261,-73.577908",
-        "checklist": "https://ebird.org/checklist/S210251841"
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 20, 2025 15:56",
+        "reporter": "Geoff LeBaron",
+        "location": "385 Middle Rd, Portsmouth US-RI 41.58035, -71.25663, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.580354,-71.256625&ll=41.580354,-71.256625",
+        "checklist": "https://ebird.org/checklist/S210368232"
       }
     },
     {
@@ -300,11 +156,11 @@
       },
       "properties": {
         "species": "Tundra Bean-Goose (Anser serrirostris) (1)",
-        "reported": "Jan 22, 2025 16:27",
-        "reporter": "Tanya Sanders",
+        "reported": "Jan 23, 2025 17:05",
+        "reporter": "Andrew Giusti",
         "location": "Lawton Valley Reservoir, Newport, Rhode Island",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210308920"
+        "checklist": "https://ebird.org/checklist/S210435804"
       }
     },
     {
@@ -318,11 +174,119 @@
       },
       "properties": {
         "species": "Tundra Bean-Goose (Anser serrirostris) (1)",
-        "reported": "Jan 22, 2025 16:15",
-        "reporter": "Marian Zimmerman",
+        "reported": "Jan 23, 2025 16:33",
+        "reporter": "John Milauskas",
         "location": "Lawton Valley Reservoir, Newport, Rhode Island",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210329856"
+        "checklist": "https://ebird.org/checklist/S210406694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2815285,
+          41.5637016
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 16:32",
+        "reporter": "Tod abrahams",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
+        "checklist": "https://ebird.org/checklist/S210407366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2815285,
+          41.5637016
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 16:27",
+        "reporter": "Carol Auer",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
+        "checklist": "https://ebird.org/checklist/S210406440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2815285,
+          41.5637016
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 16:27",
+        "reporter": "Anonymous eBirder",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
+        "checklist": "https://ebird.org/checklist/S210408265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2816574,
+          41.5638741
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1)",
+        "reported": "Jan 23, 2025 16:21",
+        "reporter": "Remy Kunstler",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5638741,-71.2816574&ll=41.5638741,-71.2816574",
+        "checklist": "https://ebird.org/checklist/S210423111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2815285,
+          41.5637016
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 15:54",
+        "reporter": "David Schaller",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
+        "checklist": "https://ebird.org/checklist/S210411424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2815285,
+          41.5637016
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 15:45",
+        "reporter": "James Sherwonit",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
+        "checklist": "https://ebird.org/checklist/S210404643"
       }
     },
     {
@@ -336,11 +300,65 @@
       },
       "properties": {
         "species": "Tundra Bean-Goose (Anser serrirostris) (1)",
-        "reported": "Jan 22, 2025 15:22",
-        "reporter": "Ada Alden",
+        "reported": "Jan 23, 2025 15:30",
+        "reporter": "Barry Fasciano",
         "location": "Lawton Valley Reservoir, Newport, Rhode Island",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210305527"
+        "checklist": "https://ebird.org/checklist/S210429325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2815285,
+          41.5637016
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 15:24",
+        "reporter": "Lily Morello",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
+        "checklist": "https://ebird.org/checklist/S210406974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2815285,
+          41.5637016
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 14:45",
+        "reporter": "Janice Strong",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
+        "checklist": "https://ebird.org/checklist/S210407624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2815285,
+          41.5637016
+        ]
+      },
+      "properties": {
+        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 08:30",
+        "reporter": "Ron Schlegel",
+        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
+        "checklist": "https://ebird.org/checklist/S210402613"
       }
     },
     {
@@ -354,11 +372,11 @@
       },
       "properties": {
         "species": "Tundra Bean-Goose (Anser serrirostris) (1)",
-        "reported": "Jan 22, 2025 14:29",
-        "reporter": "Matt Kaiser",
+        "reported": "Jan 23, 2025 08:08",
+        "reporter": "Jim Guion",
         "location": "Lawton Valley Reservoir, Newport, Rhode Island",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210309013"
+        "checklist": "https://ebird.org/checklist/S210368036"
       }
     },
     {
@@ -372,11 +390,11 @@
       },
       "properties": {
         "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:18",
-        "reporter": "Karen Clifford",
+        "reported": "Jan 23, 2025 07:45",
+        "reporter": "nancy crosby",
         "location": "Lawton Valley Reservoir, Newport, Rhode Island",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210266509"
+        "checklist": "https://ebird.org/checklist/S210380374"
       }
     },
     {
@@ -390,11 +408,11 @@
       },
       "properties": {
         "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 07:47",
-        "reporter": "Chris Dickson",
+        "reported": "Jan 23, 2025 06:59",
+        "reporter": "Charlie Darmstadt",
         "location": "Lawton Valley Reservoir, Newport, Rhode Island",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210250053"
+        "checklist": "https://ebird.org/checklist/S210353100"
       }
     },
     {
@@ -402,17 +420,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2815285,
-          41.5637016
+          -73.3732224,
+          40.8870435
         ]
       },
       "properties": {
-        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 07:39",
-        "reporter": "Leslie Kramer",
-        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210248732"
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1)",
+        "reported": "Jan 23, 2025 08:40",
+        "reporter": "Ken Feustel",
+        "location": "Tung-Ting Pond, Centerport, Suffolk, New York",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=40.8870435,-73.3732224&ll=40.8870435,-73.3732224",
+        "checklist": "https://ebird.org/checklist/S210383335"
       }
     },
     {
@@ -420,17 +438,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2815285,
-          41.5637016
+          -73.3732224,
+          40.8870435
         ]
       },
       "properties": {
-        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 07:10",
-        "reporter": "Dave Gumbley",
-        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210276831"
+        "species": "Pink-footed Goose (Anser brachyrhynchus) (1)",
+        "reported": "Jan 23, 2025 08:40",
+        "reporter": "Suzy Feustel",
+        "location": "Tung-Ting Pond, Centerport, Suffolk, New York",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=40.8870435,-73.3732224&ll=40.8870435,-73.3732224",
+        "checklist": "https://ebird.org/checklist/S210384244"
       }
     },
     {
@@ -438,143 +456,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2815285,
-          41.5637016
+          -123.0817978,
+          48.0800197
         ]
       },
       "properties": {
-        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 06:39",
-        "reporter": "Dan Prima",
-        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210264314"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.2815285,
-          41.5637016
-        ]
-      },
-      "properties": {
-        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
-        "reported": "Jan 21, 2025 16:00",
-        "reporter": "David Alvarez",
-        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210249940"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.2815285,
-          41.5637016
-        ]
-      },
-      "properties": {
-        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
-        "reported": "Jan 21, 2025 15:50",
-        "reporter": "Mike Waters",
-        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210247892"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.2815285,
-          41.5637016
-        ]
-      },
-      "properties": {
-        "species": "Tundra Bean-Goose (Anser serrirostris) (1)",
-        "reported": "Jan 21, 2025 15:30",
-        "reporter": "S & J Rodominick",
-        "location": "Lawton Valley Reservoir, Newport, Rhode Island",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.5637016,-71.2815285&ll=41.5637016,-71.2815285",
-        "checklist": "https://ebird.org/checklist/S210289743"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.252719,
-          41.610902
-        ]
-      },
-      "properties": {
-        "species": "Tundra Bean-Goose (Anser serrirostris) (1) CONFIRMED",
-        "reported": "Jan 18, 2025 14:20",
-        "reporter": "Peter Capobianco",
-        "location": "Portsmouth High School, Newport, Rhode Island",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.610902,-71.252719&ll=41.610902,-71.252719",
-        "checklist": "https://ebird.org/checklist/S210249041"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.7807331,
-          41.8020787
-        ]
-      },
-      "properties": {
-        "species": "Pink-footed Goose (Anser brachyrhynchus) (1) CONFIRMED",
-        "reported": "Jan 21, 2025 09:57",
-        "reporter": "Pierre Allaire",
-        "location": "Hartford Reservoir No. 6, Hartford, Connecticut",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.8020787,-72.7807331&ll=41.8020787,-72.7807331",
-        "checklist": "https://ebird.org/checklist/S210276302"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.609656,
-          39.309214
-        ]
-      },
-      "properties": {
-        "species": "Barnacle Goose (Branta leucopsis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 08:01",
-        "reporter": "Cameron Tescher",
-        "location": "Dupont Pkwy, Smyrna US-DE 39.30921, -75.60966, New Castle, Delaware",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=39.309214,-75.609656&ll=39.309214,-75.609656",
-        "checklist": "https://ebird.org/checklist/S210251052"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.8174355,
-          45.6368513
-        ]
-      },
-      "properties": {
-        "species": "Baikal Teal (Sibirionetta formosa) (1)",
-        "reported": "Jan 18, 2025 16:15",
-        "reporter": "Tim Janzen",
-        "location": "stakeout Baikal Teal, Sauvie Island (2025), Multnomah, Oregon",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=45.6368513,-122.8174355&ll=45.6368513,-122.8174355",
-        "checklist": "https://ebird.org/checklist/S210335749"
+        "species": "Tufted Duck (Aythya fuligula) (1)",
+        "reported": "Jan 23, 2025 10:30",
+        "reporter": "Sherry Anderson",
+        "location": "Carrie Blake Park, Clallam, Washington",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=48.0800197,-123.0817978&ll=48.0800197,-123.0817978",
+        "checklist": "https://ebird.org/checklist/S210420714"
       }
     },
     {
@@ -588,11 +480,11 @@
       },
       "properties": {
         "species": "Tufted Duck (Aythya fuligula) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 12:37",
-        "reporter": "John Dreves",
+        "reported": "Jan 23, 2025 10:04",
+        "reporter": "Carolyn Wilcox",
         "location": "Carrie Blake Park, Clallam, Washington",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=48.0800197,-123.0817978&ll=48.0800197,-123.0817978",
-        "checklist": "https://ebird.org/checklist/S210304896"
+        "checklist": "https://ebird.org/checklist/S210384206"
       }
     },
     {
@@ -606,65 +498,11 @@
       },
       "properties": {
         "species": "Tufted Duck (Aythya fuligula) (1) CONFIRMED",
-        "reported": "Jan 20, 2025 16:00",
-        "reporter": "Brennan Kasperzak",
+        "reported": "Jan 22, 2025 15:00",
+        "reporter": "Joyce Meyer",
         "location": "Carrie Blake Park, Clallam, Washington",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=48.0800197,-123.0817978&ll=48.0800197,-123.0817978",
-        "checklist": "https://ebird.org/checklist/S210308245"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.9487019,
-          46.1980127
-        ]
-      },
-      "properties": {
-        "species": "Tufted Duck (Aythya fuligula) (2)",
-        "reported": "Jan 22, 2025",
-        "reporter": "Nova Scotia Bird Records",
-        "location": "Glace Bay Wharf, Cape Breton, Nova Scotia",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=46.1980127,-59.9487019&ll=46.1980127,-59.9487019",
-        "checklist": "https://ebird.org/checklist/S210339895"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.8513312,
-          38.0963901
-        ]
-      },
-      "properties": {
-        "species": "Tufted Duck (Aythya fuligula) (1)",
-        "reported": "Jan 22, 2025 15:11",
-        "reporter": "Molly Donahue",
-        "location": "Inverness City Park, Marin, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=38.0963901,-122.8513312&ll=38.0963901,-122.8513312",
-        "checklist": "https://ebird.org/checklist/S210332914"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.8513312,
-          38.0963901
-        ]
-      },
-      "properties": {
-        "species": "Tufted Duck (Aythya fuligula) (1)",
-        "reported": "Jan 22, 2025 15:11",
-        "reporter": "larry nigro",
-        "location": "Inverness City Park, Marin, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=38.0963901,-122.8513312&ll=38.0963901,-122.8513312",
-        "checklist": "https://ebird.org/checklist/S210332966"
+        "checklist": "https://ebird.org/checklist/S210386764"
       }
     },
     {
@@ -677,30 +515,12 @@
         ]
       },
       "properties": {
-        "species": "Tufted Duck (Aythya fuligula) (10)",
-        "reported": "Jan 22, 2025 13:56",
-        "reporter": "Ryan Larson",
-        "location": "St. John's--Quidi Vidi Lake, Avalon Peninsula-St. John's, Newfoundland and Labrador",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.580135,-52.6941258&ll=47.580135,-52.6941258",
-        "checklist": "https://ebird.org/checklist/S210277517"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.6941258,
-          47.580135
-        ]
-      },
-      "properties": {
-        "species": "Tufted Duck (Aythya fuligula) (46) CONFIRMED",
-        "reported": "Jan 22, 2025 09:38",
+        "species": "Tufted Duck (Aythya fuligula) (20)",
+        "reported": "Jan 23, 2025 07:44",
         "reporter": "Frank King",
         "location": "St. John's--Quidi Vidi Lake, Avalon Peninsula-St. John's, Newfoundland and Labrador",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.580135,-52.6941258&ll=47.580135,-52.6941258",
-        "checklist": "https://ebird.org/checklist/S210259371"
+        "checklist": "https://ebird.org/checklist/S210355803"
       }
     },
     {
@@ -708,17 +528,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.503762,
-          31.8014758
+          -106.503867,
+          31.8013913
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 22, 2025 14:38",
-        "reporter": "Marie Ostrander",
-        "location": "404 Kenyon Joyce Lane, El Paso, Tx, El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8014758,-106.503762&ll=31.8014758,-106.503762",
-        "checklist": "https://ebird.org/checklist/S210325823"
+        "reported": "Jan 23, 2025 11:01",
+        "reporter": "Joel DuBois",
+        "location": "400 Kenyon Joyce Lane, El Paso, Texas, US (31.801, -106.504), El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8013913,-106.503867&ll=31.8013913,-106.503867",
+        "checklist": "https://ebird.org/checklist/S210385977"
       }
     },
     {
@@ -726,17 +546,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.503762,
-          31.8014758
+          -106.503557,
+          31.801533
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 22, 2025 14:38",
-        "reporter": "Ray Ostrander",
-        "location": "404 Kenyon Joyce Lane, El Paso, Tx, El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8014758,-106.503762&ll=31.8014758,-106.503762",
-        "checklist": "https://ebird.org/checklist/S210332262"
+        "reported": "Jan 23, 2025 13:08",
+        "reporter": "Kadynn Hatfield",
+        "location": "401–489 Kenyon Joyce Ln, El Paso US-TX (31.8015,-106.5036), El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801533,-106.503557&ll=31.801533,-106.503557",
+        "checklist": "https://ebird.org/checklist/S210397179"
       }
     },
     {
@@ -744,17 +564,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.503792,
-          31.801158
+          -106.503557,
+          31.801533
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 22, 2025 11:49",
-        "reporter": "John Groves",
-        "location": "404 Kenyon Joyce Ln, El Paso US-TX (31.8012,-106.5038), El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801158,-106.503792&ll=31.801158,-106.503792",
-        "checklist": "https://ebird.org/checklist/S210291408"
+        "reported": "Jan 23, 2025 13:08",
+        "reporter": "Tim Handren",
+        "location": "401–489 Kenyon Joyce Ln, El Paso US-TX (31.8015,-106.5036), El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801533,-106.503557&ll=31.801533,-106.503557",
+        "checklist": "https://ebird.org/checklist/S210408608"
       }
     },
     {
@@ -762,17 +582,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.503702,
-          31.80144
+          -106.5038399,
+          31.8015328
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 21, 2025 14:20",
-        "reporter": "Deb Wallace",
-        "location": "404 Kenyon Joyce Ln, El Paso US-TX 31.80144, -106.50370, El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.80144,-106.503702&ll=31.80144,-106.503702",
-        "checklist": "https://ebird.org/checklist/S210286244"
+        "reported": "Jan 23, 2025 13:40",
+        "reporter": "Barbara Trujillo",
+        "location": "404 Kenyon Joyce, El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8015328,-106.5038399&ll=31.8015328,-106.5038399",
+        "checklist": "https://ebird.org/checklist/S210423725"
       }
     },
     {
@@ -780,17 +600,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.503702,
-          31.80144
+          -106.5038399,
+          31.8015328
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 21, 2025 14:20",
-        "reporter": "Lee Wallace",
-        "location": "404 Kenyon Joyce Ln, El Paso US-TX 31.80144, -106.50370, El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.80144,-106.503702&ll=31.80144,-106.503702",
-        "checklist": "https://ebird.org/checklist/S210286243"
+        "reported": "Jan 23, 2025 13:40",
+        "reporter": "Dennis Trujillo",
+        "location": "404 Kenyon Joyce, El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8015328,-106.5038399&ll=31.8015328,-106.5038399",
+        "checklist": "https://ebird.org/checklist/S210421900"
       }
     },
     {
@@ -798,17 +618,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.5037447,
-          31.8014246
+          -106.5038286,
+          31.8014853
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 22, 2025 15:15",
-        "reporter": "Dan Belcher",
-        "location": "John Kiseda's House, El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8014246,-106.5037447&ll=31.8014246,-106.5037447",
-        "checklist": "https://ebird.org/checklist/S210320909"
+        "reported": "Jan 23, 2025 10:22",
+        "reporter": "Ray Chiarello",
+        "location": "404 Kenyon Joyce Ln, El Paso, El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8014853,-106.5038286&ll=31.8014853,-106.5038286",
+        "checklist": "https://ebird.org/checklist/S210390787"
       }
     },
     {
@@ -816,17 +636,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.5038359,
-          31.8012696
+          -106.503839,
+          31.801387
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 22, 2025 06:53",
-        "reporter": "John  Kiseda",
-        "location": "Kiseda's KJ House, El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8012696,-106.5038359&ll=31.8012696,-106.5038359",
-        "checklist": "https://ebird.org/checklist/S210268351"
+        "reported": "Jan 23, 2025 09:24",
+        "reporter": "Cerrie Solomon",
+        "location": "404 Kenyon Joyce Ln, El Paso US-TX (31.8014,-106.5038), El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801387,-106.503839&ll=31.801387,-106.503839",
+        "checklist": "https://ebird.org/checklist/S210409261"
       }
     },
     {
@@ -834,17 +654,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.5038359,
-          31.8012696
+          -106.503839,
+          31.801387
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 19, 2025 07:01",
-        "reporter": "John  Kiseda",
-        "location": "Kiseda's KJ House, El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8012696,-106.5038359&ll=31.8012696,-106.5038359",
-        "checklist": "https://ebird.org/checklist/S210254598"
+        "reported": "Jan 23, 2025 09:24",
+        "reporter": "Joshua Drake",
+        "location": "404 Kenyon Joyce Ln, El Paso US-TX (31.8014,-106.5038), El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801387,-106.503839&ll=31.801387,-106.503839",
+        "checklist": "https://ebird.org/checklist/S210408795"
       }
     },
     {
@@ -852,53 +672,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.5038251,
-          31.801605
+          -106.503734,
+          31.801506
         ]
       },
       "properties": {
         "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 22, 2025 13:43",
-        "reporter": "Sam Reitenour",
-        "location": "Mission Hills neighborhood, El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801605,-106.5038251&ll=31.801605,-106.5038251",
-        "checklist": "https://ebird.org/checklist/S210301798"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.504301,
-          31.801554
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 21, 2025 13:14",
-        "reporter": "Kay Zagst",
-        "location": "TX-El Paso: Kenyon Joyce Lane, El Paso US-TX (31.8016,-106.5043), El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801554,-106.504301&ll=31.801554,-106.504301",
-        "checklist": "https://ebird.org/checklist/S210296995"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.504301,
-          31.801554
-        ]
-      },
-      "properties": {
-        "species": "Berylline Hummingbird (Saucerottia beryllina) (1)",
-        "reported": "Jan 21, 2025 13:14",
-        "reporter": "Fred Zagst",
-        "location": "TX-El Paso: Kenyon Joyce Lane, El Paso US-TX (31.8016,-106.5043), El Paso, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801554,-106.504301&ll=31.801554,-106.504301",
-        "checklist": "https://ebird.org/checklist/S210296994"
+        "reported": "Jan 23, 2025 10:30",
+        "reporter": "Nina Rach",
+        "location": "404 Kenyon Joyce Ln, El Paso US-TX 31.80151, -106.50373, El Paso, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.801506,-106.503734&ll=31.801506,-106.503734",
+        "checklist": "https://ebird.org/checklist/S210388145"
       }
     },
     {
@@ -911,12 +695,12 @@
         ]
       },
       "properties": {
-        "species": "Ruff (Calidris pugnax) (1)",
-        "reported": "Jan 22, 2025 09:54",
-        "reporter": "Jeff Todoroff",
+        "species": "Ruff (Calidris pugnax) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 10:55",
+        "reporter": "carol wilson",
         "location": "South Elk River Estuary Project, Humboldt, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=40.7490698,-124.1971094&ll=40.7490698,-124.1971094",
-        "checklist": "https://ebird.org/checklist/S210291209"
+        "checklist": "https://ebird.org/checklist/S210393401"
       }
     },
     {
@@ -924,17 +708,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -156.4721882,
-          20.7942326
+          -124.1971094,
+          40.7490698
         ]
       },
       "properties": {
-        "species": "Sharp-tailed Sandpiper (Calidris acuminata) (2)",
-        "reported": "Jan 22, 2025 13:01",
-        "reporter": "Gaby E",
-        "location": "Keālia Pond NWR--Kanuimanu Aquaculture Ponds, Maui, Hawaii",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=20.7942326,-156.4721882&ll=20.7942326,-156.4721882",
-        "checklist": "https://ebird.org/checklist/S210316141"
+        "species": "Ruff (Calidris pugnax) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 10:55",
+        "reporter": "Jude Power",
+        "location": "South Elk River Estuary Project, Humboldt, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=40.7490698,-124.1971094&ll=40.7490698,-124.1971094",
+        "checklist": "https://ebird.org/checklist/S210404952"
       }
     },
     {
@@ -942,17 +726,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.5568065,
-          44.6863379
+          -124.1971094,
+          40.7490698
+        ]
+      },
+      "properties": {
+        "species": "Ruff (Calidris pugnax) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 10:13",
+        "reporter": "Kathryn Wendel",
+        "location": "South Elk River Estuary Project, Humboldt, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=40.7490698,-124.1971094&ll=40.7490698,-124.1971094",
+        "checklist": "https://ebird.org/checklist/S210391177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.9843637,
+          45.6185307
         ]
       },
       "properties": {
         "species": "Common Gull (Larus canus) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 15:50",
-        "reporter": "Robert Martin",
-        "location": "Mic Mac Mall, Halifax, Nova Scotia",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=44.6863379,-63.5568065&ll=44.6863379,-63.5568065",
-        "checklist": "https://ebird.org/checklist/S210303292"
+        "reported": "Jan 23, 2025 11:21",
+        "reporter": "Angela MacDonald",
+        "location": "Antigonish Mall, Antigonish, Nova Scotia",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=45.6185307,-61.9843637&ll=45.6185307,-61.9843637",
+        "checklist": "https://ebird.org/checklist/S210369392"
       }
     },
     {
@@ -966,11 +768,11 @@
       },
       "properties": {
         "species": "Common Gull (Larus canus) (1) CONFIRMED",
-        "reported": "Jan 21, 2025 14:47",
+        "reported": "Jan 23, 2025 13:36",
         "reporter": "Dominic Cormier",
         "location": "Mic Mac Mall, Halifax, Nova Scotia",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=44.6862807,-63.5563273&ll=44.6862807,-63.5563273",
-        "checklist": "https://ebird.org/checklist/S210265789"
+        "checklist": "https://ebird.org/checklist/S210381234"
       }
     },
     {
@@ -978,17 +780,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.6941258,
-          47.580135
+          -63.5606825,
+          44.6876698
         ]
       },
       "properties": {
         "species": "Common Gull (Larus canus) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:51",
-        "reporter": "Ian Winter",
-        "location": "St. John's--Quidi Vidi Lake, Avalon Peninsula-St. John's, Newfoundland and Labrador",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.580135,-52.6941258&ll=47.580135,-52.6941258",
-        "checklist": "https://ebird.org/checklist/S210265970"
+        "reported": "Jan 23, 2025 12:42",
+        "reporter": "Ray Wershler",
+        "location": "Mic Mac Mall, Halifax, Nova Scotia",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=44.6876698,-63.5606825&ll=44.6876698,-63.5606825",
+        "checklist": "https://ebird.org/checklist/S210396989"
       }
     },
     {
@@ -996,161 +798,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.6941258,
-          47.580135
-        ]
-      },
-      "properties": {
-        "species": "Common Gull (Larus canus) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 09:38",
-        "reporter": "Frank King",
-        "location": "St. John's--Quidi Vidi Lake, Avalon Peninsula-St. John's, Newfoundland and Labrador",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=47.580135,-52.6941258&ll=47.580135,-52.6941258",
-        "checklist": "https://ebird.org/checklist/S210259371"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.5018396,
-          41.0454562
-        ]
-      },
-      "properties": {
-        "species": "Common Gull (Kamchatka) (Larus canus kamtschatschensis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:55",
-        "reporter": "Philip Henson",
-        "location": "Cove Island Park, Fairfield, Connecticut",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=41.0454562,-73.5018396&ll=41.0454562,-73.5018396",
-        "checklist": "https://ebird.org/checklist/S210276673"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.8741825,
-          25.1876968
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (6) CONFIRMED",
-        "reported": "Jan 20, 2025 11:14",
-        "reporter": "Liv Schwartz",
-        "location": "Everglades NP--Snake Bight Trail, Monroe, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=25.1876968,-80.8741825&ll=25.1876968,-80.8741825",
-        "checklist": "https://ebird.org/checklist/S210270198"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.815364,
-          35.090379
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (27)",
-        "reported": "Jan 22, 2025 20:33",
-        "reporter": "Lolo Rockwell",
-        "location": "Home, Cumberland, North Carolina",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.090379,-78.815364&ll=35.090379,-78.815364",
-        "checklist": "https://ebird.org/checklist/S210325800"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.5318034,
-          27.5853558
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (1)",
-        "reported": "Jan 22, 2025 17:54",
-        "reporter": "Jennifer Larson",
-        "location": "I-275, Manatee, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.5853558,-82.5318034&ll=27.5853558,-82.5318034",
-        "checklist": "https://ebird.org/checklist/S210324031"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.0789558,
-          27.8275297
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (1)",
-        "reported": "Jan 22, 2025 14:52",
-        "reporter": "Adam Highton",
-        "location": "Leonabelle Turnbull Birding Ctr. (CTC 057), Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.8275297,-97.0789558&ll=27.8275297,-97.0789558",
-        "checklist": "https://ebird.org/checklist/S210311975"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.7546186,
-          28.7374281
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 14:15",
-        "reporter": "JR Bacolor",
-        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
-        "checklist": "https://ebird.org/checklist/S210292446"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.7546186,
-          28.7374281
-        ]
-      },
-      "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 14:10",
-        "reporter": "Cecile & Morris Yarrow",
-        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
-        "checklist": "https://ebird.org/checklist/S210293397"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.761119,
-          28.730848
+          -80.7234192,
+          28.6628762
         ]
       },
       "properties": {
         "species": "American Flamingo (Phoenicopterus ruber) (2)",
-        "reported": "Jan 22, 2025 09:56",
-        "reporter": "Beth Schilling",
-        "location": "NW Haulover Rd, Titusville US-FL 28.73085, -80.76112, Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.730848,-80.761119&ll=28.730848,-80.761119",
-        "checklist": "https://ebird.org/checklist/S210325409"
+        "reported": "Jan 23, 2025 23:43",
+        "reporter": "Mike Bockey",
+        "location": "Merritt Island NWR (Please consider using more specific locations), Brevard, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.6628762,-80.7234192&ll=28.6628762,-80.7234192",
+        "checklist": "https://ebird.org/checklist/S210435312"
       }
     },
     {
@@ -1158,17 +816,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.761187,
-          28.730819
+          -80.7234192,
+          28.6628762
+        ]
+      },
+      "properties": {
+        "species": "American Flamingo (Phoenicopterus ruber) (2)",
+        "reported": "Jan 23, 2025 23:43",
+        "reporter": "Matthew Bockey",
+        "location": "Merritt Island NWR (Please consider using more specific locations), Brevard, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.6628762,-80.7234192&ll=28.6628762,-80.7234192",
+        "checklist": "https://ebird.org/checklist/S210434234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7546186,
+          28.7374281
         ]
       },
       "properties": {
         "species": "American Flamingo (Phoenicopterus ruber) (2) CONFIRMED",
-        "reported": "Jan 22, 2025 11:40",
-        "reporter": "Jim Eager",
-        "location": "Northwest Haulover Road, Titusville US-FL 28.73082, -80.76119, Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.730819,-80.761187&ll=28.730819,-80.761187",
-        "checklist": "https://ebird.org/checklist/S210272856"
+        "reported": "Jan 23, 2025 12:04",
+        "reporter": "Diane Mills",
+        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
+        "checklist": "https://ebird.org/checklist/S210380370"
       }
     },
     {
@@ -1176,17 +852,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.761187,
-          28.730819
+          -80.7546186,
+          28.7374281
         ]
       },
       "properties": {
-        "species": "American Flamingo (Phoenicopterus ruber) (2)",
-        "reported": "Jan 22, 2025 11:38",
-        "reporter": "Jim Eager",
-        "location": "Northwest Haulover Road, Titusville US-FL 28.73082, -80.76119, Brevard, Florida",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.730819,-80.761187&ll=28.730819,-80.761187",
-        "checklist": "https://ebird.org/checklist/S210272228"
+        "species": "American Flamingo (Phoenicopterus ruber) (2) CONFIRMED",
+        "reported": "Jan 23, 2025 11:46",
+        "reporter": "Mark Van Kooy",
+        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
+        "checklist": "https://ebird.org/checklist/S210378140"
       }
     },
     {
@@ -1194,17 +870,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.44711,
-          48.14035
+          -80.7546186,
+          28.7374281
+        ]
+      },
+      "properties": {
+        "species": "American Flamingo (Phoenicopterus ruber) (2) CONFIRMED",
+        "reported": "Jan 23, 2025 10:29",
+        "reporter": "Vicki  Sandage",
+        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
+        "checklist": "https://ebird.org/checklist/S210372794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7546186,
+          28.7374281
+        ]
+      },
+      "properties": {
+        "species": "American Flamingo (Phoenicopterus ruber) (2) CONFIRMED",
+        "reported": "Jan 23, 2025 09:11",
+        "reporter": "Ann Esmas",
+        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
+        "checklist": "https://ebird.org/checklist/S210360917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7546186,
+          28.7374281
+        ]
+      },
+      "properties": {
+        "species": "American Flamingo (Phoenicopterus ruber) (2) CONFIRMED",
+        "reported": "Jan 23, 2025 08:45",
+        "reporter": "Jesse Huth",
+        "location": "Merritt Island NWR--Haulover Canal Area, Brevard, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=28.7374281,-80.7546186&ll=28.7374281,-80.7546186",
+        "checklist": "https://ebird.org/checklist/S210408907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.449569,
+          48.1254249
         ]
       },
       "properties": {
         "species": "Arctic Loon (Gavia arctica) (1)",
-        "reported": "Jan 22, 2025 11:38",
-        "reporter": "Joyce Meyer",
-        "location": "Ediz Hook, Clallam, Washington",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=48.14035,-123.44711&ll=48.14035,-123.44711",
-        "checklist": "https://ebird.org/checklist/S210294062"
+        "reported": "Jan 23, 2025 13:30",
+        "reporter": "Sherry Anderson",
+        "location": "Port Angeles waterfront, Clallam, Washington",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=48.1254249,-123.449569&ll=48.1254249,-123.449569",
+        "checklist": "https://ebird.org/checklist/S210420434"
       }
     },
     {
@@ -1212,17 +942,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -176.6443634,
-          51.8941856
+          -97.16353,
+          27.692173
         ]
       },
       "properties": {
-        "species": "Eurasian Sparrowhawk (Accipiter nisus) (1) CONFIRMED",
-        "reported": "Jan 16, 2025 09:00",
-        "reporter": "Carrie Olson",
-        "location": "Adak Island, Aleutians West Census Area, Alaska",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=51.8941856,-176.6443634&ll=51.8941856,-176.6443634",
-        "checklist": "https://ebird.org/checklist/S210300233"
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Jan 23, 2025 14:29",
+        "reporter": "Anya L",
+        "location": "Mustang Island SP—Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S210398705"
       }
     },
     {
@@ -1230,17 +960,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.0912337,
-          26.4856177
+          -97.16353,
+          27.692173
         ]
       },
       "properties": {
-        "species": "Mottled Owl (Strix virgata) (1) CONFIRMED",
-        "reported": "Jan 16, 2025 16:18",
-        "reporter": "adrienne dest",
-        "location": "Santa Margarita Ranch (LTC 079) (restricted access - guided groups only), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4856177,-99.0912337&ll=26.4856177,-99.0912337",
-        "checklist": "https://ebird.org/checklist/S210293273"
+        "species": "Aplomado Falcon (Falco femoralis) (1)",
+        "reported": "Jan 23, 2025 09:47",
+        "reporter": "John Biddick",
+        "location": "Mustang Island SP—Aplomado Falcon Viewing Platform, TX361, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.692173,-97.16353&ll=27.692173,-97.16353",
+        "checklist": "https://ebird.org/checklist/S210369666"
       }
     },
     {
@@ -1248,71 +978,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3272438,
-          26.0913939
-        ]
-      },
-      "properties": {
-        "species": "Aplomado Falcon (Falco femoralis) (2)",
-        "reported": "Jan 22, 2025 09:11",
-        "reporter": "Darlene J McNeil",
-        "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
-        "checklist": "https://ebird.org/checklist/S210262685"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3272438,
-          26.0913939
+          -97.190976,
+          27.652702
         ]
       },
       "properties": {
         "species": "Aplomado Falcon (Falco femoralis) (2)",
-        "reported": "Jan 22, 2025 09:08",
-        "reporter": "Clarissa Chipman",
-        "location": "Cameron Co.--TX100--Aplomado Viewing Area, Cameron, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0913939,-97.3272438&ll=26.0913939,-97.3272438",
-        "checklist": "https://ebird.org/checklist/S210299854"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.1914944,
-          27.651883
-        ]
-      },
-      "properties": {
-        "species": "Aplomado Falcon (Falco femoralis) (2)",
-        "reported": "Jan 22, 2025 10:45",
-        "reporter": "Terry  Little",
-        "location": "Mustang Island State Park (Corpus Christi Pass), Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.651883,-97.1914944&ll=27.651883,-97.1914944",
-        "checklist": "https://ebird.org/checklist/S210275892"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.190808,
-          27.652622
-        ]
-      },
-      "properties": {
-        "species": "Aplomado Falcon (Falco femoralis) (2)",
-        "reported": "Jan 22, 2025 10:36",
-        "reporter": "Ernest Hahn",
-        "location": "Mustang Island State Park, Corpus Christi US-TX 27.65262, -97.19081, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.652622,-97.190808&ll=27.652622,-97.190808",
-        "checklist": "https://ebird.org/checklist/S210317086"
+        "reported": "Jan 23, 2025 10:31",
+        "reporter": "Andrew Kenny",
+        "location": "Mustang Island State Park, Corpus Christi US-TX 27.65270, -97.19098, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.652702,-97.190976&ll=27.652702,-97.190976",
+        "checklist": "https://ebird.org/checklist/S210422503"
       }
     },
     {
@@ -1327,10 +1003,10 @@
       "properties": {
         "species": "Rose-throated Becard (Pachyramphus aglaiae) (1)",
         "reported": "Jan 18, 2025 08:23",
-        "reporter": "Chris S. Wood",
+        "reporter": "Stephen Broker",
         "location": "Salineño Wildlife Preserve (LTC 080), Starr, Texas",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
-        "checklist": "https://ebird.org/checklist/S210270347"
+        "checklist": "https://ebird.org/checklist/S210426896"
       }
     },
     {
@@ -1338,17 +1014,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3933977,
-          27.7948673
+          -99.1162062,
+          26.5148584
         ]
       },
       "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1)",
-        "reported": "Jan 22, 2025 12:26",
-        "reporter": "Tammy McQuade",
-        "location": "Cattle Tyrant stakeout—Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S210286622"
+        "species": "Rose-throated Becard (Pachyramphus aglaiae) (1)",
+        "reported": "Jan 18, 2025 08:23",
+        "reporter": "jean adamus",
+        "location": "Salineño Wildlife Preserve (LTC 080), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
+        "checklist": "https://ebird.org/checklist/S210428577"
       }
     },
     {
@@ -1356,35 +1032,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3933977,
-          27.7948673
+          -99.1162062,
+          26.5148584
         ]
       },
       "properties": {
-        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1)",
-        "reported": "Jan 22, 2025 12:26",
-        "reporter": "David McQuade",
-        "location": "Cattle Tyrant stakeout—Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
-        "checklist": "https://ebird.org/checklist/S210286618"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.0912337,
-          26.4856177
-        ]
-      },
-      "properties": {
-        "species": "Brown Jay (Cyanocorax morio) (4) CONFIRMED",
-        "reported": "Jan 16, 2025 16:18",
+        "species": "Rose-throated Becard (Pachyramphus aglaiae) (1)",
+        "reported": "Jan 18, 2025 08:23",
         "reporter": "adrienne dest",
-        "location": "Santa Margarita Ranch (LTC 079) (restricted access - guided groups only), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4856177,-99.0912337&ll=26.4856177,-99.0912337",
-        "checklist": "https://ebird.org/checklist/S210293273"
+        "location": "Salineño Wildlife Preserve (LTC 080), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
+        "checklist": "https://ebird.org/checklist/S210442854"
       }
     },
     {
@@ -1392,17 +1050,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.040829,
-          31.6128313
+          -99.1162062,
+          26.5148584
         ]
       },
       "properties": {
-        "species": "Rufous-backed Robin (Turdus rufopalliatus) (3) CONFIRMED",
-        "reported": "Jan 22, 2025 10:10",
-        "reporter": "Joanne Kimura",
-        "location": "Anza Trail--Tubac, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.6128313,-111.040829&ll=31.6128313,-111.040829",
-        "checklist": "https://ebird.org/checklist/S210294363"
+        "species": "Rose-throated Becard (Pachyramphus aglaiae) (1)",
+        "reported": "Jan 18, 2025 08:23",
+        "reporter": "carolyn cimino",
+        "location": "Salineño Wildlife Preserve (LTC 080), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
+        "checklist": "https://ebird.org/checklist/S210427800"
       }
     },
     {
@@ -1410,17 +1068,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.040829,
-          31.6128313
+          -99.1162062,
+          26.5148584
         ]
       },
       "properties": {
-        "species": "Rufous-backed Robin (Turdus rufopalliatus) (3) CONFIRMED",
-        "reported": "Jan 22, 2025 10:10",
-        "reporter": "MaryAnn Clayton",
-        "location": "Anza Trail--Tubac, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.6128313,-111.040829&ll=31.6128313,-111.040829",
-        "checklist": "https://ebird.org/checklist/S210294364"
+        "species": "Rose-throated Becard (Pachyramphus aglaiae) (1)",
+        "reported": "Jan 18, 2025 08:23",
+        "reporter": "Stephen Gent",
+        "location": "Salineño Wildlife Preserve (LTC 080), Starr, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.5148584,-99.1162062&ll=26.5148584,-99.1162062",
+        "checklist": "https://ebird.org/checklist/S210429885"
       }
     },
     {
@@ -1428,17 +1086,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.040829,
-          31.6128313
+          -97.3933977,
+          27.7948673
         ]
       },
       "properties": {
-        "species": "Rufous-backed Robin (Turdus rufopalliatus) (3) CONFIRMED",
-        "reported": "Jan 22, 2025 10:10",
-        "reporter": "Norm Clayton",
-        "location": "Anza Trail--Tubac, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.6128313,-111.040829&ll=31.6128313,-111.040829",
-        "checklist": "https://ebird.org/checklist/S210308120"
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 15:24",
+        "reporter": "Graham Etherington",
+        "location": "Cattle Tyrant stakeout—Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S210404323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 12:26",
+        "reporter": "Fred Pullen Watkins",
+        "location": "Cattle Tyrant stakeout—Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S210386404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 11:20",
+        "reporter": "Lisa Schibley",
+        "location": "Cattle Tyrant stakeout—Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S210385901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3933977,
+          27.7948673
+        ]
+      },
+      "properties": {
+        "species": "Cattle Tyrant (Machetornis rixosa) (Exotic: Provisional) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 07:30",
+        "reporter": "Andrew Kenny",
+        "location": "Cattle Tyrant stakeout—Lawrence, Water, N. Chaparral, Schatzell area, Nueces, Texas",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=27.7948673,-97.3933977&ll=27.7948673,-97.3933977",
+        "checklist": "https://ebird.org/checklist/S210422717"
       }
     },
     {
@@ -1452,29 +1164,11 @@
       },
       "properties": {
         "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 09:10",
-        "reporter": "Dalton Sonnenberg",
+        "reported": "Jan 23, 2025 08:12",
+        "reporter": "Jeffrey Olsson",
         "location": "Anza Trail--Tubac, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.6128313,-111.040829&ll=31.6128313,-111.040829",
-        "checklist": "https://ebird.org/checklist/S210284858"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.040829,
-          31.6128313
-        ]
-      },
-      "properties": {
-        "species": "Rufous-backed Robin (Turdus rufopalliatus) (2) CONFIRMED",
-        "reported": "Jan 22, 2025 08:52",
-        "reporter": "Jeff Griff",
-        "location": "Anza Trail--Tubac, Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.6128313,-111.040829&ll=31.6128313,-111.040829",
-        "checklist": "https://ebird.org/checklist/S210283578"
+        "checklist": "https://ebird.org/checklist/S210375469"
       }
     },
     {
@@ -1488,11 +1182,11 @@
       },
       "properties": {
         "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 13:55",
-        "reporter": "Steven Glynn",
+        "reported": "Jan 23, 2025 09:15",
+        "reporter": "Bob Meinke",
         "location": "Patagonia-Sonoita Creek Preserve, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.528,-110.775&ll=31.528,-110.775",
-        "checklist": "https://ebird.org/checklist/S210331862"
+        "checklist": "https://ebird.org/checklist/S210389354"
       }
     },
     {
@@ -1507,10 +1201,10 @@
       "properties": {
         "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
         "reported": "Jan 22, 2025 12:40",
-        "reporter": "Lin Piest",
+        "reporter": "Susanna Henry",
         "location": "Patagonia-Sonoita Creek Preserve, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.528,-110.775&ll=31.528,-110.775",
-        "checklist": "https://ebird.org/checklist/S210326621"
+        "checklist": "https://ebird.org/checklist/S210380773"
       }
     },
     {
@@ -1524,11 +1218,11 @@
       },
       "properties": {
         "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:16",
-        "reporter": "Mark McConaughy",
+        "reported": "Jan 22, 2025 12:40",
+        "reporter": "Bob Henry",
         "location": "Patagonia-Sonoita Creek Preserve, Santa Cruz, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.528,-110.775&ll=31.528,-110.775",
-        "checklist": "https://ebird.org/checklist/S210293833"
+        "checklist": "https://ebird.org/checklist/S210386148"
       }
     },
     {
@@ -1536,17 +1230,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.7606337,
-          31.5390131
+          -110.775,
+          31.528
         ]
       },
       "properties": {
         "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
-        "reported": "Jan 20, 2025 12:20",
-        "reporter": "Allen McEwan",
-        "location": "Paton Center for Hummingbirds (Patons' Yard), Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.5390131,-110.7606337&ll=31.5390131,-110.7606337",
-        "checklist": "https://ebird.org/checklist/S210330370"
+        "reported": "Jan 19, 2025 11:52",
+        "reporter": "Leisa Hamilton",
+        "location": "Patagonia-Sonoita Creek Preserve, Santa Cruz, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.528,-110.775&ll=31.528,-110.775",
+        "checklist": "https://ebird.org/checklist/S210375747"
       }
     },
     {
@@ -1554,17 +1248,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.7606337,
-          31.5390131
+          -109.0286636,
+          31.8368785
         ]
       },
       "properties": {
         "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
-        "reported": "Jan 20, 2025 12:20",
-        "reporter": "Tonette McEwan",
-        "location": "Paton Center for Hummingbirds (Patons' Yard), Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.5390131,-110.7606337&ll=31.5390131,-110.7606337",
-        "checklist": "https://ebird.org/checklist/S210330377"
+        "reported": "Jan 23, 2025 11:00",
+        "reporter": "Don Falk",
+        "location": "Rodeo (town), Hidalgo, New Mexico",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.8368785,-109.0286636&ll=31.8368785,-109.0286636",
+        "checklist": "https://ebird.org/checklist/S210397974"
       }
     },
     {
@@ -1572,17 +1266,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.7606337,
-          31.5390131
+          -81.7141414,
+          26.0773686
         ]
       },
       "properties": {
-        "species": "Rufous-backed Robin (Turdus rufopalliatus) (1) CONFIRMED",
-        "reported": "Jan 20, 2025 11:38",
-        "reporter": "Louie Dombroski",
-        "location": "Paton Center for Hummingbirds (Patons' Yard), Santa Cruz, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.5390131,-110.7606337&ll=31.5390131,-110.7606337",
-        "checklist": "https://ebird.org/checklist/S210263202"
+        "species": "Shiny Cowbird (Molothrus bonariensis) (1)",
+        "reported": "Jan 23, 2025 09:15",
+        "reporter": "Jeanne Tucker",
+        "location": "Eagle Lakes Community Park, Collier, Florida",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0773686,-81.7141414&ll=26.0773686,-81.7141414",
+        "checklist": "https://ebird.org/checklist/S210388568"
       }
     },
     {
@@ -1590,107 +1284,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0840338,
-          36.9569044
-        ]
-      },
-      "properties": {
-        "species": "White Wagtail (Motacilla alba) (1) CONFIRMED",
-        "reported": "Jan 19, 2025 07:47",
-        "reporter": "Vivienne Orgel",
-        "location": "Wilder Ranch SP--Old Cove Landing Trail, Santa Cruz, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=36.9569044,-122.0840338&ll=36.9569044,-122.0840338",
-        "checklist": "https://ebird.org/checklist/S210336295"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.0840338,
-          36.9569044
-        ]
-      },
-      "properties": {
-        "species": "White Wagtail (Motacilla alba) (1) CONFIRMED",
-        "reported": "Jan 19, 2025 07:47",
-        "reporter": "Clayton  Peoples",
-        "location": "Wilder Ranch SP--Old Cove Landing Trail, Santa Cruz, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=36.9569044,-122.0840338&ll=36.9569044,-122.0840338",
-        "checklist": "https://ebird.org/checklist/S210341142"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.3074913,
-          44.8010832
-        ]
-      },
-      "properties": {
-        "species": "White Wagtail (ocularis) (Motacilla alba ocularis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 09:40",
-        "reporter": "Candace Evans",
-        "location": "Portage Park, Door, Wisconsin",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=44.8010832,-87.3074913&ll=44.8010832,-87.3074913",
-        "checklist": "https://ebird.org/checklist/S210282165"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.3074913,
-          44.8010832
-        ]
-      },
-      "properties": {
-        "species": "White Wagtail (ocularis) (Motacilla alba ocularis) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 09:40",
-        "reporter": "Rush Evans",
-        "location": "Portage Park, Door, Wisconsin",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=44.8010832,-87.3074913&ll=44.8010832,-87.3074913",
-        "checklist": "https://ebird.org/checklist/S210285045"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.475051,
-          26.0797392
-        ]
-      },
-      "properties": {
-        "species": "Tropical Parula (Setophaga pitiayumi) (1)",
-        "reported": "Jan 22, 2025 11:51",
-        "reporter": "Dwight Miller",
-        "location": "Los Fresnos Nature Park, Cameron, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.0797392,-97.475051&ll=26.0797392,-97.475051",
-        "checklist": "https://ebird.org/checklist/S210290377"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8410346,
-          31.7579654
+          -110.8458804,
+          31.7633436
         ]
       },
       "properties": {
         "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 08:10",
-        "reporter": "Allen McEwan",
-        "location": "Florida Canyon, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7579654,-110.8410346&ll=31.7579654,-110.8410346",
-        "checklist": "https://ebird.org/checklist/S210303051"
+        "reported": "Jan 23, 2025 15:38",
+        "reporter": "Rachel Mannino",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210414950"
       }
     },
     {
@@ -1698,17 +1302,161 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -110.8410346,
-          31.7579654
+          -110.8458804,
+          31.7633436
         ]
       },
       "properties": {
         "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 08:10",
-        "reporter": "Tonette McEwan",
-        "location": "Florida Canyon, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7579654,-110.8410346&ll=31.7579654,-110.8410346",
-        "checklist": "https://ebird.org/checklist/S210303077"
+        "reported": "Jan 23, 2025 15:04",
+        "reporter": "Bruce Glick",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210412397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8458804,
+          31.7633436
+        ]
+      },
+      "properties": {
+        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 13:44",
+        "reporter": "Marty & Pam Kelly",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210419176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8458804,
+          31.7633436
+        ]
+      },
+      "properties": {
+        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 13:44",
+        "reporter": "Krista Kelly",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210428755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8458804,
+          31.7633436
+        ]
+      },
+      "properties": {
+        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 13:40",
+        "reporter": "Domenic Rocco",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210427356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8458804,
+          31.7633436
+        ]
+      },
+      "properties": {
+        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 13:40",
+        "reporter": "Virginia  Drake",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210410113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8458804,
+          31.7633436
+        ]
+      },
+      "properties": {
+        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 12:37",
+        "reporter": "Mark Frankel",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210398451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8458804,
+          31.7633436
+        ]
+      },
+      "properties": {
+        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 11:15",
+        "reporter": "Jeremy Welch",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210391971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8458804,
+          31.7633436
+        ]
+      },
+      "properties": {
+        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 10:37",
+        "reporter": "Jeffrey Olsson",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210396416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8458804,
+          31.7633436
+        ]
+      },
+      "properties": {
+        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
+        "reported": "Jan 23, 2025 09:31",
+        "reporter": "Joan K",
+        "location": "Florida Canyon--lower, Pima, Arizona",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
+        "checklist": "https://ebird.org/checklist/S210419317"
       }
     },
     {
@@ -1723,136 +1471,10 @@
       "properties": {
         "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
         "reported": "Jan 22, 2025 13:18",
-        "reporter": "Barbara Stampfl",
+        "reporter": "Anonymous eBirder",
         "location": "Florida Canyon--lower, Pima, Arizona",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
-        "checklist": "https://ebird.org/checklist/S210332230"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8458804,
-          31.7633436
-        ]
-      },
-      "properties": {
-        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 13:18",
-        "reporter": "Stephen Price",
-        "location": "Florida Canyon--lower, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
-        "checklist": "https://ebird.org/checklist/S210325886"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8458804,
-          31.7633436
-        ]
-      },
-      "properties": {
-        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 13:18",
-        "reporter": "Jake Woolf",
-        "location": "Florida Canyon--lower, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
-        "checklist": "https://ebird.org/checklist/S210324945"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8458804,
-          31.7633436
-        ]
-      },
-      "properties": {
-        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 13:18",
-        "reporter": "Kevin Burke",
-        "location": "Florida Canyon--lower, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
-        "checklist": "https://ebird.org/checklist/S210324642"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8458804,
-          31.7633436
-        ]
-      },
-      "properties": {
-        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 10:00",
-        "reporter": "Gene Jackson",
-        "location": "Florida Canyon--lower, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
-        "checklist": "https://ebird.org/checklist/S210327824"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8458804,
-          31.7633436
-        ]
-      },
-      "properties": {
-        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
-        "reported": "Jan 22, 2025 09:21",
-        "reporter": "Jon (JC) Curd",
-        "location": "Florida Canyon--lower, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
-        "checklist": "https://ebird.org/checklist/S210327803"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.8458804,
-          31.7633436
-        ]
-      },
-      "properties": {
-        "species": "Rufous-capped Warbler (Basileuterus rufifrons) (1) CONFIRMED",
-        "reported": "Jan 18, 2025 09:30",
-        "reporter": "Christopher Hicks",
-        "location": "Florida Canyon--lower, Pima, Arizona",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=31.7633436,-110.8458804&ll=31.7633436,-110.8458804",
-        "checklist": "https://ebird.org/checklist/S210306675"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.0838013,
-          26.4069004
-        ]
-      },
-      "properties": {
-        "species": "Morelet's Seedeater (Sporophila morelleti) (1) CONFIRMED",
-        "reported": "Jan 16, 2025 09:39",
-        "reporter": "Chris S. Wood",
-        "location": "Fronton (LTC 078), Starr, Texas",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=26.4069004,-99.0838013&ll=26.4069004,-99.0838013",
-        "checklist": "https://ebird.org/checklist/S210270416"
+        "checklist": "https://ebird.org/checklist/S210432451"
       }
     }
   ]
