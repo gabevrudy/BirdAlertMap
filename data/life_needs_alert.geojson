@@ -11,138 +11,12 @@
         ]
       },
       "properties": {
-        "species": "Eurasian Wigeon (Mareca penelope) (2)",
-        "reported": "Jan 18, 2025 10:37",
-        "reporter": "Matthew Bornhorst",
+        "species": "Eurasian Wigeon (Mareca penelope) (1)",
+        "reported": "Jan 20, 2025 09:18",
+        "reporter": "Nadine Ondera",
         "location": "Sweet Springs Nature Preserve, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3217375,-120.8422726&ll=35.3217375,-120.8422726",
-        "checklist": "https://ebird.org/checklist/S210436250"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0229753,
-          35.3403207
-        ]
-      },
-      "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (3)",
-        "reported": "Jan 17, 2025 09:02",
-        "reporter": "Nancy Hedgespeth",
-        "location": "Branch Mountain Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3403207,-120.0229753&ll=35.3403207,-120.0229753",
-        "checklist": "https://ebird.org/checklist/S210374897"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.761935,
-          35.1879862
-        ]
-      },
-      "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (1)",
-        "reported": "Jan 23, 2025 13:53",
-        "reporter": "Virginia Langdon-Lassagne",
-        "location": "Carrizo Plain NM--Metal building at Panorama Rd and Calhoun Rd., San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1879862,-119.761935&ll=35.1879862,-119.761935",
-        "checklist": "https://ebird.org/checklist/S210430706"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7734642,
-          35.1645468
-        ]
-      },
-      "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (16)",
-        "reported": "Jan 23, 2025 13:26",
-        "reporter": "Virginia Langdon-Lassagne",
-        "location": "Carrizo Plain NM--Panorama Rd., San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1645468,-119.7734642&ll=35.1645468,-119.7734642",
-        "checklist": "https://ebird.org/checklist/S210430509"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.751938,
-          35.131012
-        ]
-      },
-      "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (9)",
-        "reported": "Jan 23, 2025 11:40",
-        "reporter": "Virginia Langdon-Lassagne",
-        "location": "Soda Lake Rd. midpoint between Wasburn turnoff, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.131012,-119.751938&ll=35.131012,-119.751938",
-        "checklist": "https://ebird.org/checklist/S210430452"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.751938,
-          35.131012
-        ]
-      },
-      "properties": {
-        "species": "Mountain Plover (Anarhynchus montanus) (9)",
-        "reported": "Jan 23, 2025 11:40",
-        "reporter": "Barry Langdon-Lassagne",
-        "location": "Soda Lake Rd. midpoint between Wasburn turnoff, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.131012,-119.751938&ll=35.131012,-119.751938",
-        "checklist": "https://ebird.org/checklist/S210430453"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9133957,
-          35.3183562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (70)",
-        "reported": "Jan 18, 2025 07:33",
-        "reporter": "Nancy Hedgespeth",
-        "location": "Boat Trip-Morro Bay to Point Buchon, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3183562,-120.9133957&ll=35.3183562,-120.9133957",
-        "checklist": "https://ebird.org/checklist/S210375524"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.0043979,
-          35.277562
-        ]
-      },
-      "properties": {
-        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (32)",
-        "reported": "Jan 18, 2025 08:37",
-        "reporter": "Nancy Hedgespeth",
-        "location": "Point Buchon To Point Estero, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.277562,-121.0043979&ll=35.277562,-121.0043979",
-        "checklist": "https://ebird.org/checklist/S210375520"
+        "checklist": "https://ebird.org/checklist/S210514302"
       }
     },
     {
@@ -155,12 +29,12 @@
         ]
       },
       "properties": {
-        "species": "Least Bittern (Botaurus exilis) (1)",
-        "reported": "Jan 17, 2025 09:56",
-        "reporter": "Roger Wieck",
+        "species": "Virginia Rail (Rallus limicola) (1)",
+        "reported": "Jan 24, 2025 11:04",
+        "reporter": "Terri Osborn",
         "location": "Cloisters Community Park (not for beach and ocean), San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3897511,-120.8609828&ll=35.3897511,-120.8609828",
-        "checklist": "https://ebird.org/checklist/S210328161"
+        "checklist": "https://ebird.org/checklist/S210548798"
       }
     },
     {
@@ -168,17 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.6239933,
-          35.2070583
+          -120.8609828,
+          35.3897511
         ]
       },
       "properties": {
-        "species": "American Barn Owl (Tyto furcata) (1)",
-        "reported": "Jan 24, 2025 00:15",
-        "reporter": "Kathanne Lynch",
-        "location": "Kathanne SLO, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2070583,-120.6239933&ll=35.2070583,-120.6239933",
-        "checklist": "https://ebird.org/checklist/S210444624"
+        "species": "Virginia Rail (Rallus limicola) (1)",
+        "reported": "Jan 24, 2025 08:55",
+        "reporter": "Terri Osborn",
+        "location": "Cloisters Community Park (not for beach and ocean), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3897511,-120.8609828&ll=35.3897511,-120.8609828",
+        "checklist": "https://ebird.org/checklist/S210542681"
       }
     },
     {
@@ -186,17 +60,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8633606,
-          35.1899143
+          -119.864274,
+          35.190754
         ]
       },
       "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 17, 2025 12:11",
-        "reporter": "Nancy Hedgespeth",
-        "location": "Carrizo Plain NM--Visitor Center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1899143,-119.8633606&ll=35.1899143,-119.8633606",
-        "checklist": "https://ebird.org/checklist/S210374144"
+        "species": "Mountain Plover (Anarhynchus montanus) (18)",
+        "reported": "Jan 19, 2025 10:02",
+        "reporter": "Mary Sarris",
+        "location": "Guy Goodwin educational center, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
+        "checklist": "https://ebird.org/checklist/S210539585"
       }
     },
     {
@@ -204,17 +78,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.9068353,
-          35.2398199
+          -120.9427955,
+          35.3676398
         ]
       },
       "properties": {
-        "species": "Prairie Falcon (Falco mexicanus) (1)",
-        "reported": "Jan 17, 2025 11:41",
-        "reporter": "Nancy Hedgespeth",
-        "location": "Soda Lake Point View, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2398199,-119.9068353&ll=35.2398199,-119.9068353",
-        "checklist": "https://ebird.org/checklist/S210374495"
+        "species": "Rhinoceros Auklet (Cerorhinca monocerata) (12)",
+        "reported": "Jan 20, 2025 09:49",
+        "reporter": "Rene Reyes",
+        "location": "Estero Bay pelagic--nearshore waters (SLO Co.), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3676398,-120.9427955&ll=35.3676398,-120.9427955",
+        "checklist": "https://ebird.org/checklist/S210541645"
       }
     },
     {
@@ -222,17 +96,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.698279,
-          35.180789
+          -121.2119385,
+          35.5459099
         ]
       },
       "properties": {
-        "species": "LeConte's Thrasher (Toxostoma lecontei) (1)",
-        "reported": "Jan 23, 2025 15:23",
-        "reporter": "Barry Langdon-Lassagne",
-        "location": "Pretty far down Elkhorn Rd. Carizzo Plain NM, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.180789,-119.698279&ll=35.180789,-119.698279",
-        "checklist": "https://ebird.org/checklist/S210431091"
+        "species": "Black-legged Kittiwake (Rissa tridactyla) (1)",
+        "reported": "Jan 19, 2025 12:36",
+        "reporter": "Pair of Wing-Nuts",
+        "location": "Point Estero to The Gully, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5459099,-121.2119385&ll=35.5459099,-121.2119385",
+        "checklist": "https://ebird.org/checklist/S210480382"
       }
     },
     {
@@ -240,17 +114,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.9279037,
-          35.2683763
+          -120.6207848,
+          35.0302072
         ]
       },
       "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (2)",
-        "reported": "Jan 17, 2025 15:18",
-        "reporter": "Nancy Hedgespeth",
-        "location": "7 Mile Road W.- 0.5 mile culvert, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2683763,-119.9279037&ll=35.2683763,-119.9279037",
-        "checklist": "https://ebird.org/checklist/S210374005"
+        "species": "American Bittern (Botaurus lentiginosus) (1) CONFIRMED",
+        "reported": "Jan 19, 2025 08:29",
+        "reporter": "Debbie Jo Bird",
+        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
+        "checklist": "https://ebird.org/checklist/S210542297"
       }
     },
     {
@@ -258,17 +132,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7734642,
-          35.1645468
+          -119.9873843,
+          35.292943
         ]
       },
       "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 23, 2025 13:26",
-        "reporter": "Virginia Langdon-Lassagne",
-        "location": "Carrizo Plain NM--Panorama Rd., San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1645468,-119.7734642&ll=35.1645468,-119.7734642",
-        "checklist": "https://ebird.org/checklist/S210430509"
+        "species": "American Barn Owl (Tyto furcata) (2)",
+        "reported": "Jan 19, 2025 16:48",
+        "reporter": "Mary Sarris",
+        "location": "California Valley Streets, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.292943,-119.9873843&ll=35.292943,-119.9873843",
+        "checklist": "https://ebird.org/checklist/S210539663"
       }
     },
     {
@@ -276,17 +150,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8633606,
-          35.1899143
+          -119.864274,
+          35.190754
         ]
       },
       "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (2)",
-        "reported": "Jan 17, 2025 12:11",
-        "reporter": "Nancy Hedgespeth",
-        "location": "Carrizo Plain NM--Visitor Center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1899143,-119.8633606&ll=35.1899143,-119.8633606",
-        "checklist": "https://ebird.org/checklist/S210374144"
+        "species": "Prairie Falcon (Falco mexicanus) (2)",
+        "reported": "Jan 19, 2025 10:02",
+        "reporter": "Mary Sarris",
+        "location": "Guy Goodwin educational center, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.190754,-119.864274&ll=35.190754,-119.864274",
+        "checklist": "https://ebird.org/checklist/S210539585"
       }
     },
     {
@@ -294,17 +168,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.698279,
-          35.180789
+          -119.810539,
+          35.155759
         ]
       },
       "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 23, 2025 15:23",
-        "reporter": "Barry Langdon-Lassagne",
-        "location": "Pretty far down Elkhorn Rd. Carizzo Plain NM, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.180789,-119.698279&ll=35.180789,-119.698279",
-        "checklist": "https://ebird.org/checklist/S210431091"
+        "species": "Sage Thrasher (Oreoscoptes montanus) (22) CONFIRMED",
+        "reported": "Jan 19, 2025 14:17",
+        "reporter": "Mary Sarris",
+        "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
+        "checklist": "https://ebird.org/checklist/S210539413"
       }
     },
     {
@@ -312,17 +186,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.698279,
-          35.180789
+          -119.7350496,
+          35.0905487
         ]
       },
       "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 23, 2025 15:23",
-        "reporter": "Virginia Langdon-Lassagne",
-        "location": "Pretty far down Elkhorn Rd. Carizzo Plain NM, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.180789,-119.698279&ll=35.180789,-119.698279",
-        "checklist": "https://ebird.org/checklist/S210431090"
+        "species": "Sage Thrasher (Oreoscoptes montanus) (3)",
+        "reported": "Jan 19, 2025 12:52",
+        "reporter": "Mary Sarris",
+        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
+        "checklist": "https://ebird.org/checklist/S210539629"
       }
     },
     {
@@ -330,17 +204,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.0230848,
-          35.3077792
+          -120.660672,
+          35.46355
         ]
       },
       "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 23, 2025 09:46",
-        "reporter": "Virginia Langdon-Lassagne",
-        "location": "Sage Thrasher And Driving 2025-01-23 09:46, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3077792,-120.0230848&ll=35.3077792,-120.0230848",
-        "checklist": "https://ebird.org/checklist/S210424962"
+        "species": "Chipping Sparrow (Spizella passerina) (2)",
+        "reported": "Jan 24, 2025 09:59",
+        "reporter": "Kathleen Kent",
+        "location": "Oakview Village, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.46355,-120.660672&ll=35.46355,-120.660672",
+        "checklist": "https://ebird.org/checklist/S210536520"
       }
     },
     {
@@ -348,71 +222,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.0230848,
-          35.3077792
-        ]
-      },
-      "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 23, 2025 09:46",
-        "reporter": "Barry Langdon-Lassagne",
-        "location": "Sage Thrasher And Driving 2025-01-23 09:46, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3077792,-120.0230848&ll=35.3077792,-120.0230848",
-        "checklist": "https://ebird.org/checklist/S210384379"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.67129,
-          35.51434
-        ]
-      },
-      "properties": {
-        "species": "Chipping Sparrow (Spizella passerina) (14) CONFIRMED",
-        "reported": "Jan 19, 2025 09:15",
-        "reporter": "Bill Bowman",
-        "location": "The Lakes--Private Property, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.51434,-120.67129&ll=35.51434,-120.67129",
-        "checklist": "https://ebird.org/checklist/S210433645"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.8400327,
-          35.28348
-        ]
-      },
-      "properties": {
-        "species": "Sagebrush Sparrow (Artemisiospiza nevadensis) (2) CONFIRMED",
-        "reported": "Jan 17, 2025 13:35",
-        "reporter": "Nancy Hedgespeth",
-        "location": "stakeout Sagebrush Sparrow  -- Elkhorn/Simmler Rd Intersection (2025), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.28348,-119.8400327&ll=35.28348,-119.8400327",
-        "checklist": "https://ebird.org/checklist/S210373857"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0229753,
-          35.3403207
+          -119.810539,
+          35.155759
         ]
       },
       "properties": {
         "species": "Vesper Sparrow (Pooecetes gramineus) (6)",
-        "reported": "Jan 17, 2025 09:02",
-        "reporter": "Nancy Hedgespeth",
-        "location": "Branch Mountain Road, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3403207,-120.0229753&ll=35.3403207,-120.0229753",
-        "checklist": "https://ebird.org/checklist/S210374897"
+        "reported": "Jan 19, 2025 14:17",
+        "reporter": "Mary Sarris",
+        "location": "Carrizo Plain NM (use specific hotspots when available), San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.155759,-119.810539&ll=35.155759,-119.810539",
+        "checklist": "https://ebird.org/checklist/S210539413"
       }
     },
     {
@@ -420,89 +240,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8633606,
-          35.1899143
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (2)",
-        "reported": "Jan 23, 2025 10:48",
-        "reporter": "Virginia Langdon-Lassagne",
-        "location": "Carrizo Plain NM--Visitor Center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1899143,-119.8633606&ll=35.1899143,-119.8633606",
-        "checklist": "https://ebird.org/checklist/S210390512"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.8633606,
-          35.1899143
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (2)",
-        "reported": "Jan 23, 2025 10:48",
-        "reporter": "Barry Langdon-Lassagne",
-        "location": "Carrizo Plain NM--Visitor Center, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1899143,-119.8633606&ll=35.1899143,-119.8633606",
-        "checklist": "https://ebird.org/checklist/S210390513"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0230848,
-          35.3077792
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (2)",
-        "reported": "Jan 23, 2025 09:46",
-        "reporter": "Barry Langdon-Lassagne",
-        "location": "Sage Thrasher And Driving 2025-01-23 09:46, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3077792,-120.0230848&ll=35.3077792,-120.0230848",
-        "checklist": "https://ebird.org/checklist/S210384379"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0230848,
-          35.3077792
-        ]
-      },
-      "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (2)",
-        "reported": "Jan 23, 2025 09:46",
-        "reporter": "Virginia Langdon-Lassagne",
-        "location": "Sage Thrasher And Driving 2025-01-23 09:46, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3077792,-120.0230848&ll=35.3077792,-120.0230848",
-        "checklist": "https://ebird.org/checklist/S210424962"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9068353,
-          35.2398199
+          -119.7350496,
+          35.0905487
         ]
       },
       "properties": {
         "species": "Vesper Sparrow (Pooecetes gramineus) (1)",
-        "reported": "Jan 17, 2025 11:41",
-        "reporter": "Nancy Hedgespeth",
-        "location": "Soda Lake Point View, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2398199,-119.9068353&ll=35.2398199,-119.9068353",
-        "checklist": "https://ebird.org/checklist/S210374495"
+        "reported": "Jan 19, 2025 12:52",
+        "reporter": "Mary Sarris",
+        "location": "Carrizo Plain NM--KCL Campground, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0905487,-119.7350496&ll=35.0905487,-119.7350496",
+        "checklist": "https://ebird.org/checklist/S210539629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6132531,
+          35.1155206
+        ]
+      },
+      "properties": {
+        "species": "Pine Warbler (Setophaga pinus) (1)",
+        "reported": "Jan 20, 2025 11:28",
+        "reporter": "Marc Fenner",
+        "location": "Mentone Basin Park, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.1155206,-120.6132531&ll=35.1155206,-120.6132531",
+        "checklist": "https://ebird.org/checklist/S210551159"
       }
     }
   ]
