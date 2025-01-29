@@ -12,11 +12,12 @@
       },
       "properties": {
         "species": "Eurasian Wigeon (Mareca penelope) (1)",
-        "reported": "Jan 25, 2025 12:15",
-        "reporter": "Max Roberts",
+        "email_date": "2025-01-28",
+        "reported": "Jan 27, 2025 13:39",
+        "reporter": "Greg Estep",
         "location": "Morro Bay--Audubon overlook, San Luis Obispo, California",
         "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3316478,-120.8383334&ll=35.3316478,-120.8383334",
-        "checklist": "https://ebird.org/checklist/S210860529"
+        "checklist": "https://ebird.org/checklist/S210947411"
       }
     },
     {
@@ -24,17 +25,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8418006,
-          35.3445235
+          -120.8383334,
+          35.3316478
         ]
       },
       "properties": {
-        "species": "Red Knot (Calidris canutus) (2)",
-        "reported": "Jan 26, 2025 09:12",
-        "reporter": "Melanie Barnett",
-        "location": "Morro Bay SP--Marina/Boardwalk Trail, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3445235,-120.8418006&ll=35.3445235,-120.8418006",
-        "checklist": "https://ebird.org/checklist/S210864134"
+        "species": "Eurasian Wigeon (Mareca penelope) (1)",
+        "email_date": "2025-01-28",
+        "reported": "Jan 27, 2025 13:32",
+        "reporter": "Bob Pape",
+        "location": "Morro Bay--Audubon overlook, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3316478,-120.8383334&ll=35.3316478,-120.8383334",
+        "checklist": "https://ebird.org/checklist/S210947913"
       }
     },
     {
@@ -42,17 +44,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8501072,
-          35.3377298
+          -120.6903817,
+          35.2656069
         ]
       },
       "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 26, 2025 13:47",
-        "reporter": "Alexander Yan",
-        "location": "Morro Bay Estuary (use more specific location(s) when possible), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3377298,-120.8501072&ll=35.3377298,-120.8501072",
-        "checklist": "https://ebird.org/checklist/S210843231"
+        "species": "Virginia Rail (Rallus limicola) (2)",
+        "email_date": "2025-01-28",
+        "reported": "Jan 27, 2025 07:37",
+        "reporter": "Nick & Jane",
+        "location": "Laguna Lake, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
+        "checklist": "https://ebird.org/checklist/S210930134"
       }
     },
     {
@@ -60,17 +63,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8501072,
-          35.3377298
+          -120.6903817,
+          35.2656069
         ]
       },
       "properties": {
-        "species": "Iceland Gull (Thayer's) (Larus glaucoides thayeri) (1)",
-        "reported": "Jan 26, 2025 13:47",
-        "reporter": "Yamina Pressler",
-        "location": "Morro Bay Estuary (use more specific location(s) when possible), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3377298,-120.8501072&ll=35.3377298,-120.8501072",
-        "checklist": "https://ebird.org/checklist/S210843508"
+        "species": "Least Bittern (Botaurus exilis) (1)",
+        "email_date": "2025-01-28",
+        "reported": "Jan 27, 2025 07:37",
+        "reporter": "Nick & Jane",
+        "location": "Laguna Lake, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
+        "checklist": "https://ebird.org/checklist/S210930134"
       }
     },
     {
@@ -78,17 +82,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.5127511,
-          34.9261752
+          -120.7491446,
+          35.4272109
         ]
       },
       "properties": {
-        "species": "Sage Thrasher (Oreoscoptes montanus) (1)",
-        "reported": "Jan 26, 2025 11:01",
-        "reporter": "Linus Blomqvist",
-        "location": "525 California 33, Maricopa, California, US (34.926, -119.513), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=34.9261752,-119.5127511&ll=34.9261752,-119.5127511",
-        "checklist": "https://ebird.org/checklist/S210799066"
+        "species": "Varied Thrush (Ixoreus naevius) (1)",
+        "email_date": "2025-01-28",
+        "reported": "Jan 27, 2025 09:27",
+        "reporter": "Roger Zachary",
+        "location": "Cerro Alto Campground, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4272109,-120.7491446&ll=35.4272109,-120.7491446",
+        "checklist": "https://ebird.org/checklist/S210932008"
       }
     },
     {
@@ -96,17 +101,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.3057475,
-          35.7591129
+          -120.6543784,
+          35.6080529
         ]
       },
       "properties": {
-        "species": "Vesper Sparrow (Pooecetes gramineus) (2)",
-        "reported": "Jan 26, 2025 12:39",
-        "reporter": "Greg Estep",
-        "location": "Cholame Valley (SLO Co.), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.7591129,-120.3057475&ll=35.7591129,-120.3057475",
-        "checklist": "https://ebird.org/checklist/S210828854"
+        "species": "Chipping Sparrow (Spizella passerina) (14)",
+        "email_date": "2025-01-28",
+        "reported": "Jan 27, 2025 10:25",
+        "reporter": "Petra Clayton",
+        "location": "Paso Robles: Sherwood Dog Park, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.6080529,-120.6543784&ll=35.6080529,-120.6543784",
+        "checklist": "https://ebird.org/checklist/S210969318"
       }
     }
   ]
