@@ -6,18 +6,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.6207848,
-          35.0302072
+          -120.8418006,
+          35.3445235
+        ]
+      },
+      "properties": {
+        "species": "Eurasian Wigeon (Mareca penelope) (2)",
+        "email_date": "2025-01-30",
+        "reported": "Jan 29, 2025 10:08",
+        "reporter": "Kevin Zimmer",
+        "location": "Morro Bay SP--Marina/Boardwalk Trail, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.3445235,-120.8418006&ll=35.3445235,-120.8418006",
+        "checklist": "https://ebird.org/checklist/S211195859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.825509,
+          35.344015
+        ]
+      },
+      "properties": {
+        "species": "Eurasian Wigeon (Mareca penelope) (3)",
+        "email_date": "2025-01-30",
+        "reported": "Jan 29, 2025 09:12",
+        "reporter": "Jim Royer",
+        "location": "Morro Bay State Park, South Bay Blvd, Los Osos US-CA (35.3440,-120.8255) South Bay Blvd., San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.344015,-120.825509&ll=35.344015,-120.825509",
+        "checklist": "https://ebird.org/checklist/S211173304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6903817,
+          35.2656069
         ]
       },
       "properties": {
         "species": "Virginia Rail (Rallus limicola) (1)",
-        "email_date": "2025-01-29",
-        "reported": "Jan 28, 2025 07:08",
-        "reporter": "Maggie Smith",
-        "location": "Oso Flaco Lake (not for beach/ocean), San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.0302072,-120.6207848&ll=35.0302072,-120.6207848",
-        "checklist": "https://ebird.org/checklist/S211068202"
+        "email_date": "2025-01-30",
+        "reported": "Jan 29, 2025 08:13",
+        "reporter": "Nick & Jane",
+        "location": "Laguna Lake, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2656069,-120.6903817&ll=35.2656069,-120.6903817",
+        "checklist": "https://ebird.org/checklist/S211161681"
       }
     },
     {
@@ -25,18 +63,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.1064448,
-          35.5677012
+          -121.0018122,
+          35.4748896
         ]
       },
       "properties": {
-        "species": "Pacific Wren (Troglodytes pacificus) (1)",
-        "email_date": "2025-01-29",
-        "reported": "Jan 25, 2025 13:27",
-        "reporter": "Pair of Wing-Nuts",
-        "location": "Santa Rosa Creek-below Windsor, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.5677012,-121.1064448&ll=35.5677012,-121.1064448",
-        "checklist": "https://ebird.org/checklist/S210697382"
+        "species": "California Condor (Gymnogyps californianus) (2) CONFIRMED",
+        "email_date": "2025-01-30",
+        "reported": "Jan 29, 2025 08:28",
+        "reporter": "Ronald Beck",
+        "location": "Harmony Headlands State Park, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4748896,-121.0018122&ll=35.4748896,-121.0018122",
+        "checklist": "https://ebird.org/checklist/S211180835"
       }
     },
     {
@@ -44,18 +82,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.6562399,
-          35.6075324
+          -121.0018122,
+          35.4748896
         ]
       },
       "properties": {
-        "species": "Chipping Sparrow (Spizella passerina) (12) CONFIRMED",
-        "email_date": "2025-01-29",
-        "reported": "Jan 28, 2025 09:16",
+        "species": "California Condor (Gymnogyps californianus) (2) CONFIRMED",
+        "email_date": "2025-01-30",
+        "reported": "Jan 29, 2025 08:28",
         "reporter": "Tom Edell",
-        "location": "Oak Creek Park/Sherwood Park--Paso Robles, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.6075324,-120.6562399&ll=35.6075324,-120.6562399",
-        "checklist": "https://ebird.org/checklist/S211065403"
+        "location": "Harmony Headlands State Park, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4748896,-121.0018122&ll=35.4748896,-121.0018122",
+        "checklist": "https://ebird.org/checklist/S211169222"
       }
     },
     {
@@ -63,18 +101,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.6562399,
-          35.6075324
+          -121.0018122,
+          35.4748896
         ]
       },
       "properties": {
-        "species": "Clay-colored Sparrow (Spizella pallida) (1) CONFIRMED",
-        "email_date": "2025-01-29",
-        "reported": "Jan 28, 2025 09:16",
-        "reporter": "Tom Edell",
-        "location": "Oak Creek Park/Sherwood Park--Paso Robles, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.6075324,-120.6562399&ll=35.6075324,-120.6562399",
-        "checklist": "https://ebird.org/checklist/S211065403"
+        "species": "California Condor (Gymnogyps californianus) (2) CONFIRMED",
+        "email_date": "2025-01-30",
+        "reported": "Jan 29, 2025 08:28",
+        "reporter": "Carol Comeau",
+        "location": "Harmony Headlands State Park, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.4748896,-121.0018122&ll=35.4748896,-121.0018122",
+        "checklist": "https://ebird.org/checklist/S211180181"
       }
     },
     {
@@ -82,18 +120,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.6562399,
-          35.6075324
+          -120.6239933,
+          35.2070583
         ]
       },
       "properties": {
-        "species": "Clay-colored Sparrow (Spizella pallida) (1) CONFIRMED",
-        "email_date": "2025-01-29",
-        "reported": "Jan 27, 2025 10:25",
-        "reporter": "Petra Clayton",
-        "location": "Oak Creek Park/Sherwood Park--Paso Robles, San Luis Obispo, California",
-        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.6075324,-120.6562399&ll=35.6075324,-120.6562399",
-        "checklist": "https://ebird.org/checklist/S210969318"
+        "species": "American Barn Owl (Tyto furcata) (1)",
+        "email_date": "2025-01-30",
+        "reported": "Jan 29, 2025 21:18",
+        "reporter": "Kathanne Lynch",
+        "location": "Kathanne SLO, San Luis Obispo, California",
+        "map_url": "http://maps.google.com/?ie=UTF8&t=p&z=13&q=35.2070583,-120.6239933&ll=35.2070583,-120.6239933",
+        "checklist": "https://ebird.org/checklist/S211193190"
       }
     }
   ]
